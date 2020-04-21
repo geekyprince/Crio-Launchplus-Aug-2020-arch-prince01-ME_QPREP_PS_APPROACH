@@ -9,4 +9,5 @@ actual-*.txt
 *.swp
 *.zip
 *.o
+core.*
 crio/
