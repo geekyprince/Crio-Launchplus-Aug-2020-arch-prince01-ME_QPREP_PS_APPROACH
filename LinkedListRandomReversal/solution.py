@@ -45,6 +45,9 @@ class Solution:
                 res += temp
             else:
                 break
+        while(head):
+            res+=[head.value]
+            head = head.next
         return createList(res)
             
 
