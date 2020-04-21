@@ -46,7 +46,7 @@ class Solution:
             else:
                 break
         while(head):
-            res+=[head.value]
+            res+=[head.val]
             head = head.next
         return createList(res)
             
