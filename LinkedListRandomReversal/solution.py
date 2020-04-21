@@ -37,10 +37,12 @@ class Solution:
         for i in nums:
             if(head):
                 k = i
+                temp = []
                 while(head and k):
-                    res = [head.val] + res
+                    temp = [head.val] + temp
                     head = head.next
                     k-=1
+                res += temp
             else:
                 break
         return createList(res)
