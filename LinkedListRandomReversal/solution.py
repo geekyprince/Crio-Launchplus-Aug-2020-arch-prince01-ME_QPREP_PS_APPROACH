@@ -1,4 +1,4 @@
-from ds.List.ListNode import ListNode
+from ds.List.ListNode import ListNode, createList
 
 class Solution:
 
@@ -33,3 +33,17 @@ class Solution:
 #
 
     def performRandomReversal(self, head, nums):
+        res = []
+        for i in nums:
+            if(head):
+                k = i
+                while(head and k):
+                    res = [head.val] + res
+                    head = head.next
+                    k-=1
+            else:
+                break
+        return createList(res)
+            
+
+
