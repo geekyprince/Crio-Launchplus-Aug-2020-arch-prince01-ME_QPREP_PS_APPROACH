@@ -208,7 +208,7 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    os.system('rm core.* || true')
+    os.system('find . -name core.* | xargs rm || true')
 
     config_path = 'crio/.git/config'
     if not repo_exists('crio/.git/config', 'crio_ps_ds.git'):
