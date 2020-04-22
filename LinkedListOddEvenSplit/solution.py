@@ -19,8 +19,7 @@ def print_list(head):
 def detect_loop(head):
     S = head    #Slow pointer
     F = head    #Fast pointer
-    flag = 1
-    while(S and F.next):
+    while(S and F and F.next):
         prev = S
         S, F = S.next, F.next.next 
         if(S == F):
