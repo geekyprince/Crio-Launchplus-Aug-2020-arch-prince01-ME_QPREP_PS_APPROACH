@@ -48,9 +48,12 @@ class Solution:
         list1_head = head 
         list2_head = None
         while(k and head):
+            tail = head
             list2_head = head.next
             head = head.next
             k -= 1
+        if(tail):
+            tail.next = None
         return (list1_head, list2_head)
 
 
@@ -72,7 +75,6 @@ class Solution:
                 (list1_head, list2_head) = self.split_list(head,k)
                 list1_tail = list1_head
                 list1_head = self.reverse_linked_list(list1_head)
-                list1_tail.next = None
                 (result_head, result_tail) = self.append_reversed_list_to_result(result_head, result_tail, list1_head, list1_tail)
                 head = list2_head
             else:
