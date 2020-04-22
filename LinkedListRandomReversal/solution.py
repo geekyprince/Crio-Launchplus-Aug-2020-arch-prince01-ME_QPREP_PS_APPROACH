@@ -64,6 +64,7 @@ class Solution:
 
 
     def performRandomReversal(self, head, nums):
+        return head
         result_head = None
         result_tail = None
         for k in nums:
