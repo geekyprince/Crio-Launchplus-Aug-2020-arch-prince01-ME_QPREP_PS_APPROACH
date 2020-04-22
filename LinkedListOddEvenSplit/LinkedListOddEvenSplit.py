@@ -18,6 +18,7 @@ if __name__ == '__main__':
     lst = list(map(int, sys.stdin.readline().strip().split()))
 
     head = generateLinkedListWithCycle(lst, k-1)
+    
 
     head1, head2 = split_list_by_odd_or_even(head)
     print_list(head1)

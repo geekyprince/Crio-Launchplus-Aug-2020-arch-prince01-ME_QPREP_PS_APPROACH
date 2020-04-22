@@ -1,7 +1,6 @@
 from ds.List.ListNode import ListNode
 
 def print_list(head):
-    print(head.val)
     while head:
         print(head.val, end='->')
         head = head.next
@@ -43,6 +42,7 @@ def split_list_by_odd_or_even(head):
 
     odd_head = head 
     even_head = head.next 
+    print_list(head)
     O = head
     E = head.next
     while(odd_head.next and even_head.next ):
