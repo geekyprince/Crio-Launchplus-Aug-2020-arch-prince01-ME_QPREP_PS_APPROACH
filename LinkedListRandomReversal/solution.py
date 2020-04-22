@@ -72,6 +72,3 @@ class Solution:
         if(head):
             (result_head, result_tail) = self.append_reversed_list_to_result(result_head, result_tail, head, None)
         return result_head
-            
-
-
