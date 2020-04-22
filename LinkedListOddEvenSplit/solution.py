@@ -48,6 +48,8 @@ def split_list_by_odd_or_even(head):
         odd_head = even_head.next
         even_head.next = odd_head.next
         even_head = odd_head.next
+    odd_head.next = None
+    even_head.next = None
     return O, E
 
     
