@@ -25,20 +25,21 @@ def detect_loop(head):
             return S
     return None
 def find_start_of_cycle(S,F):
+    c = 1
     while(S and F):
+        c+=1
         prevF = F
         S, F = S.next, F.next 
         if(S == F):
             prevF.next = None
-            return S
+            return S,c
 
 
 def split_list_by_odd_or_even(head):
     F = detect_loop(head)
     S = head
     if(F):
-        head = find_start_of_cycle(S,F)
-
+        head,c = find_start_of_cycle(S,F)
     odd_head = head 
     even_head = head.next 
     O = head
@@ -52,6 +53,8 @@ def split_list_by_odd_or_even(head):
         odd_head.next = None
     if(even_head):
         even_head.next = None
+    if(c%2==0):
+        return E, O
     return O, E
 
     
