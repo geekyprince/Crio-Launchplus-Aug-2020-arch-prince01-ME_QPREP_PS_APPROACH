@@ -47,6 +47,7 @@ class Solution:
     def split_list(self,head,k):
         list1_head = head 
         list2_head = None
+        tail = None
         while(k and head):
             tail = head
             list2_head = head.next
