@@ -47,16 +47,15 @@ class Solution:
     def split_list(self,head,k):
         list1_head = head 
         list2_head = None
-        temp = head
-        while(k and temp):
-            list2_head = temp.next
-            temp = temp.next
+        while(k and head):
+            list2_head = head.next
+            head = head.next
             k -= 1
         return (list1_head, list2_head)
 
 
     def append_reversed_list_to_result(self,result_head, result_tail, list_head, list_tail):
-        if(result_tail):
+        if(result_head):
             result_tail.next = list_head
             result_tail = list_tail
         else:
