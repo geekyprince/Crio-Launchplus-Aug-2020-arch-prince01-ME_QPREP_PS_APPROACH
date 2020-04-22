@@ -1,3 +1,4 @@
+<ds.List.ListNode.ListNode object at 0x7f5cda4ca400>
 3->4->5->6->7->8->9->10->11->null
 5
 3 5 7 9 11
