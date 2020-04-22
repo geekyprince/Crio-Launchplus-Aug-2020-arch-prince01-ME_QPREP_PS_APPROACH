@@ -19,25 +19,23 @@ def print_list(head):
 def detect_loop(head):
     S = head    #Slow pointer
     F = head    #Fast pointer
+    flag = 1
     while(S and F.next):
+        prev = S
         S, F = S.next, F.next.next 
         if(S == F):
+            if(S==head):
+                prev.next = None
+                return None
             return S
     return None
 def find_start_of_cycle(S,F):
     c = 1
-    head = S
     while(S and F):
         c+=1
-        prevS = S
         prevF = F
         S, F = S.next, F.next 
         if(S == F):
-            print(head.val)
-            if(prevF==head):
-                S.next = None
-                print_list(prevF)
-                return prevF,1
             prevF.next = None
             return S,c
 
