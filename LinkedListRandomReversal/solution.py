@@ -33,7 +33,7 @@ class Solution:
 #
 
 
-def reverse_linked_list(self, head):
+    def reverse_linked_list(self, head):
         prev = None
         nxt = head
         while(nxt):
@@ -44,7 +44,7 @@ def reverse_linked_list(self, head):
         return head
 
 
-def split_list(self,head,k):
+    def split_list(self,head,k):
         list1_head = head 
         list2_head = None
         while(k and head):
@@ -53,7 +53,7 @@ def split_list(self,head,k):
         return (list1_head, list2_head)
 
 
-def append_reversed_list_to_result(self,result_head, result_tail, list_head, list_tail):
+    def append_reversed_list_to_result(self,result_head, result_tail, list_head, list_tail):
         result_tail.next = list_head
         result_tail = list_tail
         return (result_head, result_tail)
