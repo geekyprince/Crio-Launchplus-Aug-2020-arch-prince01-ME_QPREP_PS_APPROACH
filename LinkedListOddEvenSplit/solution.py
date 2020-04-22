@@ -23,7 +23,7 @@ def detect_loop(head):
         S, F = S.next, F.next.next 
         if(S == F):
             return S
-    return None, 0
+    return None
 def find_start_of_cycle(S,F):
     while(S and F):
         prevF = F
