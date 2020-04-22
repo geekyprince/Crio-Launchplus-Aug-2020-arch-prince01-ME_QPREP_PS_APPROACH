@@ -1,6 +1,7 @@
 from ds.List.ListNode import ListNode
 
 def print_list(head):
+    print(head.val)
     while head:
         print(head.val, end='->')
         head = head.next
