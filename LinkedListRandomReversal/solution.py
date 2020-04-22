@@ -67,7 +67,7 @@ class Solution:
         result_head = None
         result_tail = None
         for k in nums:
-            print(k)
+            print(nums)
             if(head):
                 (list1_head, list2_head) = self.split_list(head,k)
                 print(k)
