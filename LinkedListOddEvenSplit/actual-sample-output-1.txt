@@ -1,4 +1,4 @@
-<ds.List.ListNode.ListNode object at 0x7f6e213a8390> <ds.List.ListNode.ListNode object at 0x7f6e213fd908>
+11 2
 5
 3 5 7 9 11
 4
