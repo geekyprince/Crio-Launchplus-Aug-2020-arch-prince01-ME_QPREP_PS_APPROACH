@@ -26,11 +26,16 @@ def detect_loop(head):
     return None
 def find_start_of_cycle(S,F):
     c = 1
+    head = S
     while(S and F):
         c+=1
+        prevS = S
         prevF = F
         S, F = S.next, F.next 
         if(S == F):
+            if(c==5):
+                S.next = None
+                return head,1
             prevF.next = None
             return S,c
 
