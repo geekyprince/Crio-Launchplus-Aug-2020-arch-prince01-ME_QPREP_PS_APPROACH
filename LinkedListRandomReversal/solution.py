@@ -74,6 +74,7 @@ class Solution:
                 list1_head = self.reverse_linked_list(list1_head)
                 (result_head, result_tail) = self.append_reversed_list_to_result(result_head, result_tail, list1_head, list1_tail)
                 head = list2_head
+                print(k)
             else:
                 break
         if(head):
