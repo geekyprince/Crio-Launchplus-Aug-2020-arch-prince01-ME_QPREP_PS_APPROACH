@@ -43,7 +43,9 @@ def split_list_by_odd_or_even(head):
     odd_head = head 
     even_head = head.next 
     while(odd_head.next and even_head.next ):
+        odd_head.next = even_head.next
         odd_head = even_head.next
+        even_head.next = odd_head.next
         even_head = odd_head.next
     return head, head.next
 
