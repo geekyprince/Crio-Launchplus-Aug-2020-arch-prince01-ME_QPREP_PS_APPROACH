@@ -54,8 +54,12 @@ class Solution:
 
 
     def append_reversed_list_to_result(self,result_head, result_tail, list_head, list_tail):
-        result_tail.next = list_head
-        result_tail = list_tail
+        if(result_tail):
+            result_tail.next = list_head
+            result_tail = list_tail
+        else:
+            result_tail = list_tail
+            result_head = list_head
         return (result_head, result_tail)
 
 
