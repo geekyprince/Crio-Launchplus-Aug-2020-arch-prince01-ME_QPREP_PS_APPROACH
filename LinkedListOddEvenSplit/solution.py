@@ -36,6 +36,7 @@ def find_start_of_cycle(S,F):
             print(prevF.val,prevS.val)
             if(prevF==head):
                 S.next = None
+                print_list(prevF)
                 return prevF,1
             prevF.next = None
             return S,c
