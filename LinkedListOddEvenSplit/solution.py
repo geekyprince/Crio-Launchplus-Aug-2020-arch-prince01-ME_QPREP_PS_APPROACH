@@ -36,7 +36,7 @@ def find_start_of_cycle(S,F):
 def split_list_by_odd_or_even(head):
     F = detect_loop(head)
     S = head
-    print(F)
+    print(F.val)
     if(F):
         head = find_start_of_cycle(S,F)
 
