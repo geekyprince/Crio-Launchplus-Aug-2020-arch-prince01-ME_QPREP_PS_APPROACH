@@ -64,16 +64,19 @@ class Solution:
 
 
     def performRandomReversal(self, head, nums):
-        return head
         result_head = None
         result_tail = None
         for k in nums:
-            (list1_head, list2_head) = self.split_list(head,k)
-            list1_tail = list1_head
-            list1_head = self.reverse_linked_list(list1_head)
-            (result_head, result_tail) = self.append_reversed_list_to_result(result_head, result_tail, list1_head, list1_tail)
-            head = list2_head
-        (result_head, result_tail) = self.append_reversed_list_to_result(result_head, result_tail, head, None)
+            if(head):
+                (list1_head, list2_head) = self.split_list(head,k)
+                list1_tail = list1_head
+                list1_head = self.reverse_linked_list(list1_head)
+                (result_head, result_tail) = self.append_reversed_list_to_result(result_head, result_tail, list1_head, list1_tail)
+                head = list2_head
+            else:
+                break
+        if(head):
+            (result_head, result_tail) = self.append_reversed_list_to_result(result_head, result_tail, head, None)
         return result_head
             
 
