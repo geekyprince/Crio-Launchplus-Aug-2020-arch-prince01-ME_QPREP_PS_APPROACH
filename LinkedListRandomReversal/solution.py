@@ -47,9 +47,10 @@ class Solution:
     def split_list(self,head,k):
         list1_head = head 
         list2_head = None
-        while(k and head):
-            list2_head = head.next
-            head = head.next
+        temp = head
+        while(k and temp):
+            list2_head = temp.next
+            temp = temp.next
             k -= 1
         return (list1_head, list2_head)
 
@@ -68,7 +69,6 @@ class Solution:
         result_head = None
         result_tail = None
         for k in nums:
-            print(k)
             if(head):
                 (list1_head, list2_head) = self.split_list(head,k)
                 list1_tail = list1_head
