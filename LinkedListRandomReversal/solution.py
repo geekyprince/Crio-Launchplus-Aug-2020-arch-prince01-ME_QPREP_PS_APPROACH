@@ -50,6 +50,7 @@ class Solution:
         while(k and head):
             list2_head = head.next
             head = head.next
+            k-=1
         return (list1_head, list2_head)
 
 
