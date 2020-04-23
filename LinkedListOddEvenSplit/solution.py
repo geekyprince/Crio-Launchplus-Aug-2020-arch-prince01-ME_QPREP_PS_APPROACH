@@ -61,6 +61,7 @@ def split_list_by_odd_or_even(head):
     if(c%2==0):
         return E, O
     return O, E
+    
 
     
 
