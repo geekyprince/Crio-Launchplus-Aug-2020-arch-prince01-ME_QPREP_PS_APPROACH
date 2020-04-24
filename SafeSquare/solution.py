@@ -8,7 +8,8 @@ def print_mat(mat):
 
 class chess:
     def __init__(self, mat):
-        self.mat = mat
+        self.n = len(mat)
+        self.m = len(mat[0])
 
 
     # TODO: CRIO_TASK_MODULE_SAFE_SQUARE
@@ -22,6 +23,12 @@ class chess:
     #   5) Special move
     # Output:
     #   Count the number of safe square and return it
+    '''def Rook(self):
+    def Bishop(self):
+    def Queen(self):
+    def Knight(self):'''
 
     def move(self):
-        return self.mat[0][0]
+       # while()
+
+        return mat[0][0]
