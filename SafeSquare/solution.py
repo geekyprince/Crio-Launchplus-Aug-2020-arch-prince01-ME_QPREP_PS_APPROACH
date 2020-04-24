@@ -8,8 +8,9 @@ def print_mat(mat):
 
 class chess:
     def __init__(self, mat):
-        self.n = len(mat)
+        '''self.n = len(mat)
         self.m = len(mat[0])
+        self.mat = mat'''
 
 
     # TODO: CRIO_TASK_MODULE_SAFE_SQUARE
@@ -29,6 +30,11 @@ class chess:
     def Knight(self):'''
 
     def move(self):
-       # while()
+        '''result = 
+        n = self.n 
+        m = self.m
+        for i in range(n):
+            for j in range(m):'''
 
-        return mat[0][0]
+
+        return self.mat[0][0]
