@@ -8,9 +8,9 @@ def print_mat(mat):
 
 class chess:
     def __init__(self, mat):
-        '''self.n = len(mat)
+        self.n = len(mat)
         self.m = len(mat[0])
-        self.mat = mat'''
+        self.mat = mat
         pass
 
 
@@ -31,11 +31,12 @@ class chess:
     def Knight(self):'''
 
     def move(self):
-        '''result = 
+        result = self.mat 
+        result[0] = '11'
         n = self.n 
         m = self.m
         for i in range(n):
-            for j in range(m):'''
-
+            for j in range(m):
+                pass
 
         return self.mat[0][0]
