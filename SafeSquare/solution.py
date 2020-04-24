@@ -8,7 +8,7 @@ def print_mat(mat):
 
 class chess:
     def __init__(self, mat):
-
+        self.mat = mat
 
 
     # TODO: CRIO_TASK_MODULE_SAFE_SQUARE
