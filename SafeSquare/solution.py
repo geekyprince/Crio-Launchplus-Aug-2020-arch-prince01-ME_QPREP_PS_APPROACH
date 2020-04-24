@@ -11,6 +11,7 @@ class chess:
         '''self.n = len(mat)
         self.m = len(mat[0])
         self.mat = mat'''
+        pass
 
 
     # TODO: CRIO_TASK_MODULE_SAFE_SQUARE
