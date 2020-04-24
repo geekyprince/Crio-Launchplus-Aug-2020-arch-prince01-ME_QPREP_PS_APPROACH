@@ -10,6 +10,7 @@ class chess:
     def __init__(self, mat):
 
 
+
     # TODO: CRIO_TASK_MODULE_SAFE_SQUARE
     # Input:
     #   1) chess board matrix
@@ -23,3 +24,4 @@ class chess:
     #   Count the number of safe square and return it
 
     def move(self):
+        return self.mat[0][0]
