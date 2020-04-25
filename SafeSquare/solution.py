@@ -65,6 +65,7 @@ class chess:
                 if(k and self.mat[i][j] != '.'):
                     break
                 k = 1
+            print(i,j)
             result[i][j] = 0
         return result
     def digRu(self,i,j,result):
