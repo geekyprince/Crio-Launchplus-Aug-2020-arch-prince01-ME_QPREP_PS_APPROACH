@@ -184,14 +184,14 @@ class chess:
 
         j = min(i,self.m - i-1)
         jmax = self.m-j-1
-        print(result)
+        #print(result)
         if(j&1 == 0):
             if(jmax & 1 == 0 or j+1 < jmax):
                 result = self.right(j,j,result,jmax)
-                print(j,jmax)
-                print(result)
+                #print(j,jmax)
+                #print(result)
                 result = self.left(self.n-j-1,jmax,result,j)
-                print(result)
+                #print(result)
         else:
             result = self.right(j,j,result,jmax)
             result = self.left(self.n-j-1,jmax,result,j)
