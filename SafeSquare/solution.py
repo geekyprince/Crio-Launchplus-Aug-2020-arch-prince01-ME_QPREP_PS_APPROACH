@@ -222,10 +222,11 @@ class chess:
                     result = self.Queen(i,j, result)
                     #print_mat(result)
                 elif(board[i][j] == 'K'):
-                    #print("K")
-                    #print_mat(result)
+                    print("K")
+                    print_mat(result)
                     result = self.Knight(i,j,result)
-                    #print_mat(result)
+                    print('*')
+                    print_mat(result)
                 elif(board[i][j] == 'S'):
                     print("S")
                     print_mat(result)
