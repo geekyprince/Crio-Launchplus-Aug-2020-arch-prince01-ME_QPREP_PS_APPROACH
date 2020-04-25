@@ -197,4 +197,5 @@ class chess:
         s = 0
         for i in range(n):
             s += sum(result[i])
+        print_mat(result)
         return s
