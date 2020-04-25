@@ -188,6 +188,7 @@ class chess:
         if(j&1 == 0):
             if(jmax & 1 == 0 or j+1 < jmax):
                 result = self.right(j,j,result,imax)
+                print(j,jmax)
                 result = self.left(jmax,jmax,result,j)
         else:
             result = self.right(j,j,result,jmax)
