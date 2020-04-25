@@ -156,7 +156,7 @@ class chess:
                 result[i-1][j-2] = 0
             if(i+1<self.n and self.mat[i+1][j-2] == '.'):
                 result[i+1][j-2] = 0
-        if(i+2<self.m):
+        if(i+2<self.n):
             if(j>0 and self.mat[i+2][j-1] == '.'):
                 result[i+2][j-1] = 0
             if(j+1<self.m and self.mat[i+2][j+1] == '.'):
