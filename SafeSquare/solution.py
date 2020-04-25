@@ -228,9 +228,9 @@ class chess:
                     #print_mat(result)
                 elif(board[i][j] == 'S'):
                     #print("S")
-                    #print_mat(result)
+                    print_mat(result)
                     result = self.Special(i,j,result)
-                    #print_mat(result)
+                    print_mat(result)
         s = 0
         for i in range(self.n):
             s += sum(result[i])
