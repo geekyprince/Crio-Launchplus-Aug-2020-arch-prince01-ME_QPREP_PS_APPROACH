@@ -180,6 +180,7 @@ class chess:
         m = self.m
         board = self.mat
         result = self.result
+        print_mat(result)
         for i in range(n):
             for j in range(m):
                 if(board[i][j] == '.'):
