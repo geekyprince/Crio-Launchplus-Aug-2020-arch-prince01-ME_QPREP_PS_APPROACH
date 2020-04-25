@@ -33,6 +33,7 @@ class chess:
                 if(k and self.mat[i][j] != '.'):
                     break
                 k = 1
+            print(i)
             result[i][j] = 0
         return result
                  
