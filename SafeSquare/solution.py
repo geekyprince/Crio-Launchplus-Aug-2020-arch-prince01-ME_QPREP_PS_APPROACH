@@ -170,7 +170,7 @@ class chess:
 
 
     def Special(self,i,j,result):
-        i = min(i,j)
+        i = min(i,j,self.n - i-1,self.m - j-1)
         i = min(i,self.n - i-1)
         imax = self.n - i-1
 
