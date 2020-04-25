@@ -34,6 +34,7 @@ class chess:
                     break
                 k = 1
             result[i][j] = 0
+        return result
                  
 
 
@@ -45,6 +46,8 @@ class chess:
                     break
                 k = 1
             result[i][j] = 0
+        return result
+        
     def right(self,i,j,result,limit,jump = True):
         k = 0
         for j in range(j,limit + 1):
@@ -53,6 +56,7 @@ class chess:
                     break
                 k = 1
             result[i][j] = 0
+        return result
     def left(self,i,j,result,limit,jump = True):
         k = 0
         for j in range(j,limit - 1,-1):
@@ -61,6 +65,7 @@ class chess:
                     break
                 k = 1
             result[i][j] = 0
+        return result
     def digRu(self,i,j,result):
         k = 0
         while(1):
@@ -72,6 +77,7 @@ class chess:
                 break
             i -= 1
             j += 1
+        return result
     def digLu(self,i,j,result):
         k = 0
         while(1):
@@ -83,6 +89,7 @@ class chess:
                 break
             i -= 1
             j -= 1
+        return result
         
     def digRd(self,i,j,result):
         k = 0
@@ -95,6 +102,7 @@ class chess:
                 break
             i += 1
             j += 1
+        return result
 
         
     def digLd(self,i,j,result):
@@ -108,20 +116,24 @@ class chess:
                 break
             i += 1
             j -= 1
+        return result
 
     def Rook(self,i,j,result):
-        self.up(i,j,result,0,False)
-        self.down(i,j,result,self.n-1,False)
-        self.right(i,j,result,self.m-1,False)
-        self.left(i,j,result,0,False)
+        result = self.up(i,j,result,0,False)
+        result = self.down(i,j,result,self.n-1,False)
+        result = self.right(i,j,result,self.m-1,False)
+        result = self.left(i,j,result,0,False)
+        return result
     def Bishop(self,i,j, result):
-        self.digRu(i,j,result)
-        self.digLu(i,j,result)
-        self.digRd(i,j,result)
-        self.digLd(i,j,result)
+        result = self.digRu(i,j,result)
+        result = self.digLu(i,j,result)
+        result = self.digRd(i,j,result)
+        result = self.digLd(i,j,result)
+        return result
     def Queen(self,i,j, result):
-        self.Rook(i,j, result)
-        self.Bishop(i,j, result)
+        result = self.Rook(i,j, result)
+        result = self.Bishop(i,j, result)
+        return result
     def Knight(self,i,j, result):
         result[i][j] = 0
         if(j+2<self.m):
@@ -134,6 +146,7 @@ class chess:
                 result[i-1][j-2] = 0
             if(i+1<self.n and self.mat[i+1][j-2] == '.'):
                 result[i+1][j-2] = 0
+        return result
 
 
     def Special(self,i,j,result):
@@ -154,11 +167,12 @@ class chess:
 
         if(j&1 == 0):
             if(jmax & 1 == 0 or j+1 < jmax):
-                self.right(j,j,result,imax)
-                self.left(jmax,jmax,result,j)
+                result = self.right(j,j,result,imax)
+                result = self.left(jmax,jmax,result,j)
         else:
-            self.right(j,j,result,jmax)
-            self.left(jmax,jmax,result,j)
+            result = self.right(j,j,result,jmax)
+            result = self.left(jmax,jmax,result,j)
+        return result
         
 
     def move(self):
@@ -171,15 +185,15 @@ class chess:
                 if(board[i][j] == '.'):
                     pass
                 elif(board[i][j] == 'R'):
-                    self.Rook(i,j, result)
+                    result = self.Rook(i,j, result)
                 elif(board[i][j] == 'B'):
-                    self.Bishop(i,j, result)
+                    result = self.Bishop(i,j, result)
                 elif(board[i][j] == 'Q'):
-                    self.Queen(i,j, result)
+                    result = self.Queen(i,j, result)
                 elif(board[i][j] == 'K'):
-                    self.Knight(i,j,result)
+                    result = self.Knight(i,j,result)
                 elif(board[i][j] == 'S'):
-                    self.Special(i,j,result)
+                    result = self.Special(i,j,result)
         s = 0
         for i in range(n):
             s += sum(result[i])

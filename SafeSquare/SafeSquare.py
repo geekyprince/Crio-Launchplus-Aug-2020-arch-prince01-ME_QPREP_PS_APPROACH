@@ -13,7 +13,7 @@ def main():
 
     print(board.move())
     #print_mat(mat)
-    print_mat(board.result)
+    #print_mat(board.result)
 
 
 if __name__ == '__main__':
