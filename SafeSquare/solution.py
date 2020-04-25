@@ -173,29 +173,18 @@ class chess:
         i = min(i,j,self.n - i-1,self.m - j-1)
         i = min(i,self.n - i-1)
         imax = self.n - i-1
-
-        if(i&1 == 0):
-            if(imax & 1 == 0 or i+1 < imax):
-                self.down(i,i,result,imax)
-                self.up(imax,self.m-i-1,result,i)
-        else:
-            self.down(i,i,result,imax)
-            self.up(imax,self.m-i-1,result,i)
+        self.down(i,i,result,imax)
+        self.up(imax,self.m-i-1,result,i)
 
         j = min(i,self.m - i-1)
         jmax = self.m-j-1
         #print(result)
-        if(j&1 == 0):
-            if(jmax & 1 == 0 or j+1 < jmax):
-                result = self.right(j,j,result,jmax)
-                #print(j,jmax)
+
+        result = self.right(j,j,result,jmax)
+        #print(j,jmax)
+        #print(result)
+        result = self.left(self.n-j-1,jmax,result,j)
                 #print(result)
-                result = self.left(self.n-j-1,jmax,result,j)
-                #print(result)
-        else:
-            result = self.right(j,j,result,jmax)
-            result = self.left(self.n-j-1,jmax,result,j)
-        return result
         
 
     def move(self):
