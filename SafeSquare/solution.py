@@ -11,8 +11,9 @@ class chess:
         self.n = len(mat)
         self.m = len(mat[0])
         self.mat = mat
-        self.result = [[1]*self.m]*self.n
-        pass
+        self.result = []
+        for _ in range(self.n):
+            self.result += [[1]*self.m]
 
 
     # TODO: CRIO_TASK_MODULE_SAFE_SQUARE
