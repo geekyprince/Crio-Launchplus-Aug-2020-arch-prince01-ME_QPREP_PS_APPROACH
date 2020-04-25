@@ -177,10 +177,10 @@ class chess:
         if(i&1 == 0):
             if(imax & 1 == 0 or i+1 < imax):
                 self.down(i,i,result,imax)
-                self.up(imax,imax,result,i)
+                self.up(imax,self.m-i-1,result,i)
         else:
             self.down(i,i,result,imax)
-            self.up(imax,imax,result,i)
+            self.up(imax,self.m-i-1,result,i)
 
         j = min(i,self.m - i-1)
         jmax = self.m-j-1
@@ -189,10 +189,10 @@ class chess:
             if(jmax & 1 == 0 or j+1 < jmax):
                 result = self.right(j,j,result,imax)
                 print(j,jmax)
-                result = self.left(jmax,jmax,result,j)
+                result = self.left(j,jmax,result,j)
         else:
             result = self.right(j,j,result,jmax)
-            result = self.left(jmax,jmax,result,j)
+            result = self.left(self.n-j-1,jmax,result,j)
         return result
         
 
