@@ -161,8 +161,8 @@ class chess:
 
     def Special(self,i,j,result):
         i = min(i,j)
-        i = min(i,self.n - i)
-        imax = self.n - i
+        i = min(i,self.n - i-1)
+        imax = self.n - i-1
 
         if(i&1 == 0):
             if(imax & 1 == 0 or i+1 < imax):
@@ -172,8 +172,8 @@ class chess:
             self.down(i,i,result,imax)
             self.up(imax,imax,result,i)
 
-        j = min(i,self.m - i)
-        jmax = self.m-i
+        j = min(i,self.m - i-1)
+        jmax = self.m-i-1
         print(result)
         if(j&1 == 0):
             if(jmax & 1 == 0 or j+1 < jmax):
@@ -186,13 +186,11 @@ class chess:
         
 
     def move(self):
-        n = self.n 
-        m = self.m
         board = self.mat
         result = self.result
         #print_mat(result)
-        for i in range(n):
-            for j in range(m):
+        for i in range(self.n):
+            for j in range(self.m):
                 if(board[i][j] == '.'):
                     pass
                 elif(board[i][j] == 'R'):
@@ -221,7 +219,7 @@ class chess:
                     result = self.Special(i,j,result)
                     print_mat(result)
         s = 0
-        for i in range(n):
+        for i in range(self.n):
             s += sum(result[i])
         #print_mat(result)
         return s
