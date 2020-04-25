@@ -180,23 +180,33 @@ class chess:
         m = self.m
         board = self.mat
         result = self.result
-        print_mat(result)
+        #print_mat(result)
         for i in range(n):
             for j in range(m):
                 if(board[i][j] == '.'):
                     pass
                 elif(board[i][j] == 'R'):
+                    print_mat(result)
                     result = self.Rook(i,j, result)
+                    print_mat(result)
                 elif(board[i][j] == 'B'):
+                    print_mat(result)
                     result = self.Bishop(i,j, result)
+                    print_mat(result)
                 elif(board[i][j] == 'Q'):
+                    print_mat(result)
                     result = self.Queen(i,j, result)
+                    print_mat(result)
                 elif(board[i][j] == 'K'):
+                    print_mat(result)
                     result = self.Knight(i,j,result)
+                    print_mat(result)
                 elif(board[i][j] == 'S'):
+                    print_mat(result)
                     result = self.Special(i,j,result)
+                    print_mat(result)
         s = 0
         for i in range(n):
             s += sum(result[i])
-        print_mat(result)
+        #print_mat(result)
         return s
