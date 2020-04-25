@@ -186,22 +186,27 @@ class chess:
                 if(board[i][j] == '.'):
                     pass
                 elif(board[i][j] == 'R'):
+                    print("R")
                     print_mat(result)
                     result = self.Rook(i,j, result)
                     print_mat(result)
                 elif(board[i][j] == 'B'):
+                    print("B")
                     print_mat(result)
                     result = self.Bishop(i,j, result)
                     print_mat(result)
                 elif(board[i][j] == 'Q'):
+                    print("Q")
                     print_mat(result)
                     result = self.Queen(i,j, result)
                     print_mat(result)
                 elif(board[i][j] == 'K'):
+                    print("K")
                     print_mat(result)
                     result = self.Knight(i,j,result)
                     print_mat(result)
                 elif(board[i][j] == 'S'):
+                    print("S")
                     print_mat(result)
                     result = self.Special(i,j,result)
                     print_mat(result)
