@@ -124,7 +124,9 @@ class chess:
         result = self.down(i,j,result,self.n-1,False)
         result = self.right(i,j,result,self.m-1,False)
         result = self.left(i,j,result,0,False)
+        print(result)
         return result
+
     def Bishop(self,i,j, result):
         result = self.digRu(i,j,result)
         result = self.digLu(i,j,result)
