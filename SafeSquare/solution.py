@@ -230,6 +230,7 @@ class chess:
                     print("S")
                     print_mat(result)
                     result = self.Special(i,j,result)
+                    print('*')
                     print_mat(result)
         s = 0
         for i in range(self.n):
