@@ -28,7 +28,7 @@ class chess:
     #   Count the number of safe square and return it
     def up(self,i,j,result,limit,jump = True):
         k = 0
-        for i in range(i,limit + 1):
+        for i in range(i,limit - 1,-1):
             if(not jump):
                 if(k and self.mat[i][j] != '.'):
                     break
@@ -40,7 +40,7 @@ class chess:
 
     def down(self,i,j,result,limit,jump = True):
         k = 0
-        for i in range(i,limit - 1,-1):
+        for i in range(i,limit + 1):
             if(not jump):
                 if(k and self.mat[i][j] != '.'):
                     break
