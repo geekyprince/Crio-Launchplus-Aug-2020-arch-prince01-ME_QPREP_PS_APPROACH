@@ -31,6 +31,7 @@ class chess:
         for i in range(i,limit - 1,-1):
             if(not jump):
                 if(k and self.mat[i][j] != '.'):
+                    print(i)
                     break
                 k = 1
             result[i][j] = 0
