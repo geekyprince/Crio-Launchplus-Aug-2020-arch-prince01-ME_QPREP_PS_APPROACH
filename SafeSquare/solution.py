@@ -227,7 +227,7 @@ class chess:
                     result = self.Knight(i,j,result)
                     #print_mat(result)
                 elif(board[i][j] == 'S'):
-                    #print("S")
+                    print("S")
                     print_mat(result)
                     result = self.Special(i,j,result)
                     print_mat(result)
