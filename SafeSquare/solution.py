@@ -11,6 +11,7 @@ class chess:
         self.n = len(mat)
         self.m = len(mat[0])
         self.mat = mat
+        self.result = [[1]*self.m]*self.n
         pass
 
 
@@ -164,7 +165,7 @@ class chess:
         n = self.n 
         m = self.m
         board = self.mat
-        result = [[1]*m]*n
+        result = self.result
         for i in range(n):
             for j in range(m):
                 if(board[i][j] == '.'):
