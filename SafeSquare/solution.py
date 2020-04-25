@@ -120,11 +120,16 @@ class chess:
         return result
 
     def Rook(self,i,j,result):
-        result = self.up(i,j,result,0,False)
-        result = self.down(i,j,result,self.n-1,False)
-        result = self.right(i,j,result,self.m-1,False)
-        result = self.left(i,j,result,0,False)
         print(result)
+        result = self.up(i,j,result,0,False)
+        print('up',result)
+        result = self.down(i,j,result,self.n-1,False)
+        print('down',result)
+        result = self.right(i,j,result,self.m-1,False)
+        print('right',result)
+        result = self.left(i,j,result,0,False)
+        print('left',result)
+        
         return result
 
     def Bishop(self,i,j, result):
