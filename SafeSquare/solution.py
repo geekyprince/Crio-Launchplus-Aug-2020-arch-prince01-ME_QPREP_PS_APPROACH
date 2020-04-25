@@ -190,7 +190,7 @@ class chess:
                 result = self.right(j,j,result,jmax)
                 print(j,jmax)
                 print(result)
-                result = self.left(j,jmax,result,j)
+                result = self.left(self.n-j-1,jmax,result,j)
                 print(result)
         else:
             result = self.right(j,j,result,jmax)
