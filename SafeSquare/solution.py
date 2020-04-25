@@ -76,10 +76,10 @@ class chess:
                 break
             k = 1
             result[i][j] = 0
-            if(i<0 or j == self.m):
-                break
             i -= 1
             j += 1
+            if(i<0 or j == self.m):
+                break
         return result
     def digLu(self,i,j,result):
         k = 0
@@ -88,10 +88,10 @@ class chess:
                 break
             k = 1
             result[i][j] = 0
-            if(i<0 or j<0):
-                break
             i -= 1
             j -= 1
+            if(i<0 or j<0):
+                break
         return result
         
     def digRd(self,i,j,result):
@@ -101,10 +101,10 @@ class chess:
                 break
             k = 1
             result[i][j] = 0
-            if(j == self.m or i == self.n):
-                break
             i += 1
             j += 1
+            if(j == self.m or i == self.n):
+                break
         return result
 
         
@@ -115,10 +115,10 @@ class chess:
                 break
             k = 1
             result[i][j] = 0
-            if(j<0 or i == self.n):
-                break
             i += 1
             j -= 1
+            if(j<0 or i == self.n):
+                break
         return result
 
     def Rook(self,i,j,result):
