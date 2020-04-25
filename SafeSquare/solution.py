@@ -34,7 +34,7 @@ class chess:
                 if(k and self.mat[i][j] != '.'):
                     break
                 k = 1
-            print(i)
+            #print(i)
             result[i][j] = 0
         return result
                  
@@ -66,7 +66,7 @@ class chess:
                 if(k and self.mat[i][j] != '.'):
                     break
                 k = 1
-            print(i,j)
+            #print(i,j)
             result[i][j] = 0
         return result
     def digRu(self,i,j,result):
@@ -122,15 +122,15 @@ class chess:
         return result
 
     def Rook(self,i,j,result):
-        print(result)
+        #print(result)
         result = self.up(i,j,result,0,False)
-        print('up',result)
+        #print('up',result)
         result = self.down(i,j,result,self.n-1,False)
-        print('down',result)
+        #print('down',result)
         result = self.right(i,j,result,self.m-1,False)
-        print('right',result)
+        #print('right',result)
         result = self.left(i,j,result,0,False)
-        print('left',result)
+        #print('left',result)
         
         return result
 
@@ -174,7 +174,7 @@ class chess:
 
         j = min(i,self.m - i)
         jmax = self.m-i
-
+        print(result)
         if(j&1 == 0):
             if(jmax & 1 == 0 or j+1 < jmax):
                 result = self.right(j,j,result,imax)
