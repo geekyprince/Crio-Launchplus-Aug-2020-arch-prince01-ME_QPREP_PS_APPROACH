@@ -15,7 +15,7 @@ class Solution:
             while(i<l):
                 pattern_dict[A[0]] += [[A[1][i],A[1][i]]]
                 if(i<l-1):
-                    if(A[i+1] == '-'):
+                    if(A[1][i+1] == '-'):
                         pattern_dict[A[0]][-1] = [[A[1][i],A[1][i+2]]]
                         i+=2
                 i+=1
