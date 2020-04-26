@@ -9,5 +9,14 @@ class Solution:
         pattern_dict = {}
         print(pattern_list)
         for A in pattern_list:
-            pattern_dict[A[0]] = A[1]
+            l = len(A)
+            i=0
+            while(i<l):
+                pattern_dict[A[0]] = [[A[1][i],A[1][i]]]
+                if(i<l-1):
+                    if(A[i+1] == '-'):
+                        pattern_dict[A[0]] = [[A[1][i],A[1][i+2]]]
+                        i+=2
+                i+=1
+            #pattern_dict[A[0]] = A[1]
         print(pattern_dict)
