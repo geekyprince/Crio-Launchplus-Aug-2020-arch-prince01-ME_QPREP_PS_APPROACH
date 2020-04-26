@@ -6,9 +6,9 @@ class Solution:
         number = ''
         flag = 1  #decide if number is good or bad
         for i in range(4):
-            print('*',pattern_dict[vehicle_type][i][0],int(n),pattern_dict[vehicle_type][i][1])
-            if pattern_dict[vehicle_type][i][0] <= int(n) <= pattern_dict[vehicle_type][i][1]: #if 10000 <= number <= 30000:
-                number +=  n
+            print('*',pattern_dict[vehicle_type][i][0],int(n[i]),pattern_dict[vehicle_type][i][1])
+            if pattern_dict[vehicle_type][i][0] <= int(n[i]) <= pattern_dict[vehicle_type][i][1]: #if 10000 <= number <= 30000:
+                number +=  n[i]
             else:
                 flag = 0
                 number += str(pattern_dict[vehicle_type][i][0])
