@@ -44,7 +44,7 @@ class Solution:
         return S,D,A,N
         
     def is_valid_plate_no(self,plate_no,state_codes):
-        print(plate_no)
+        #print(plate_no)
         A = plate_no.replace('-', '')
         if(len(A)<8 or len(A)>11):
             return False
