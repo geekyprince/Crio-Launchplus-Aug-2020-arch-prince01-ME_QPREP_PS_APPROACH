@@ -7,7 +7,7 @@ class Solution:
 
     def lucky_number(self,pattern_list, queries):
         pattern_dict = {}
-        print(pattern_list)
+        #print(pattern_list)
         for A in pattern_list:
             l = len(A[1])
             i=0
@@ -19,4 +19,9 @@ class Solution:
                         pattern_dict[A[0]][-1] = [[int(A[1][i]),int(A[1][i+2])]]
                         i+=2
                 i+=1
+        for A in queries:
+            #print(s.replace('a', ''))
+            A[0] = A[0].replace('-','')
         print(queries)
+        
+        #print(queries)
