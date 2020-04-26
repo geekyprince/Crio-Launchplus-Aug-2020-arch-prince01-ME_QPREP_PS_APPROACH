@@ -61,15 +61,16 @@ class Solution:
         #print(pattern_dict)
         for A in queries:
             #print(s.replace('a', ''))
-            A[0] = A[0].replace('-','')
-            if(self.is_valid_plate_no(A[0],state_codes)):
+
+            plate_no = A[0].replace('-','')
+            if(self.is_valid_plate_no(plate_no,state_codes)):
                 if A[1] in pattern_dict.keys():
                     vehicle_type = A[1]
                 else:
                     print('*')
                     vehicle_type = 'default'
-                if(self.check_print_number(A[0][-4:],vehicle_type,pattern_dict)):
-                    result += [A]
+                if(self.check_print_number(plate_no[-4:],vehicle_type,pattern_dict)):
+                    result += [A[0]]
             else:
                 print('No')
         for A in result:
