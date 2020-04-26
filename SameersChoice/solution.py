@@ -9,7 +9,7 @@ class Solution:
         pattern_dict = {}
         print(pattern_list)
         for A in pattern_list:
-            l = len(A)
+            l = len(A[1])
             i=0
             pattern_dict[A[0]] = []
             while(i<l):
