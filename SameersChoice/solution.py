@@ -70,7 +70,7 @@ class Solution:
                     print('*')
                     vehicle_type = 'default'
                 if(self.check_print_number(plate_no[-4:],vehicle_type,pattern_dict)):
-                    result += [A[0]]
+                    result += [A]
             else:
                 print('No')
         for A in result:
