@@ -1,6 +1,4 @@
-JH 67  7777
 Yes Good
-JK 65  8888
 Yes Good
 2
 JH-67-7777 car
