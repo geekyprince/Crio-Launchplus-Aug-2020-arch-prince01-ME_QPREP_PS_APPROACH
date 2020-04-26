@@ -56,7 +56,7 @@ class Solution:
                         pattern_dict[A[0]][-1] = [int(A[1][i]),int(A[1][i+2])]
                         i+=2
                 i+=1
-        print(pattern_dict['motorbike'])
+        #print(pattern_dict['motorbike'])
         for A in queries:
             #print(s.replace('a', ''))
             A[0] = A[0].replace('-','')
