@@ -13,11 +13,12 @@ class Solution:
             i=0
             pattern_dict[A[0]] = []
             while(i<l):
-                pattern_dict[A[0]] += [[A[1][i],A[1][i]]]
+                pattern_dict[A[0]] += [[int(A[1][i]),int(A[1][i])]]
                 if(i<l-1):
                     if(A[1][i+1] == '-'):
                         pattern_dict[A[0]][-1] = [[int(A[1][i]),int(A[1][i+2])]]
                         i+=2
                 i+=1
+            
             #pattern_dict[A[0]] = A[1]
         print(pattern_dict)
