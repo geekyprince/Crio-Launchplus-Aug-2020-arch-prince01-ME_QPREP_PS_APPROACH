@@ -33,7 +33,10 @@ class Solution:
         else:
             D = plate_no[2:4]
             i = 4
-        A += plate_no[i:-4]
+        if(plate_no[i]=='-'):
+            A += plate_no[i+1:-5]
+        else:
+            A += plate_no[i:-4]
         return S,D,A,N
         
     def is_valid_plate_no(self,plate_no,state_codes):
