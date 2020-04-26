@@ -23,25 +23,39 @@ class Solution:
             print('Yes','Bad',number)
             return False
 
+    def divide_in_four(self, plate_no):
+        A = ''
+        N = plate_no[-4:]
+        S = plate_no[:2]
+        if(plate_no[2]=='-'):
+            D = plate_no[3:5]
+            i = 5
+        else:
+            D = plate_no[2:4]
+            i = 4
+        A += plate_no[i:-4]
+        
     def is_valid_plate_no(self,plate_no,state_codes):
-        l = len(plate_no)
-        if(l<8 or l>11):
+        A = plate_no.replace('-', '')
+        if(len(A)<8 or len(A)>11):
             return False
         try:
-            if plate_no[0:2] not in state_codes:            #checking State code
-                return False
-            for i in plate_no[2:4]:                         #checking District code
-                i = int(i)       #may lead to exception
-                if(i<0 or i>9):
-                    return False 
-            x = l-8
-            if(x>0 and (x>3 or not plate_no[4:4+x].isalpha())):      #checking presence of alphabet one two three or none
+            S,D,A,N = self.divide_in_four(plate_no)
+            if(not N.isnumeric()):
                 return False 
-            if(not plate_no[-4:].isnumeric()): #and  l[-4:]!= l[-4:][::-1]):  #checking Palindrome
+            if(not(0<int(D)<99)):
+                return False
+            if(len(A)>3 and not A.isalpha()):
+                return False
+            if(S not in state_codes):
                 return False
         except:
             return False
         return True
+        
+
+
+
             
         
 
@@ -66,7 +80,7 @@ class Solution:
         for A in queries:
             #print(s.replace('a', ''))
 
-            plate_no = A[0].replace('-','')
+            plate_no = A[0]
             if(self.is_valid_plate_no(plate_no,state_codes)):
                 if A[1] in pattern_dict.keys():
                     vehicle_type = A[1]

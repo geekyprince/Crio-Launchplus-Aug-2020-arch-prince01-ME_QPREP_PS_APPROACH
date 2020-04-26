@@ -1,5 +1,3 @@
-Yes Good
-Yes Good
-2
-JH-67-7777 car
-JK-65-8888 air
+No
+No
+0
