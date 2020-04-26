@@ -30,7 +30,7 @@ class Solution:
                 if(i<0 or i>9):
                     return False 
             x = l-8
-            if(x>3 or not plate_no[4:4+x].isalpha()):      #checking presence of alphabet one two three or none
+            if(x>0 and (x>3 or not plate_no[4:4+x].isalpha())):      #checking presence of alphabet one two three or none
                 return False 
             if(not plate_no[-4:].isnumeric()): #and  l[-4:]!= l[-4:][::-1]):  #checking Palindrome
                 return False
