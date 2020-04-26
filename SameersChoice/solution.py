@@ -71,7 +71,7 @@ class Solution:
                 if A[1] in pattern_dict.keys():
                     vehicle_type = A[1]
                 else:
-                    print('*')
+                    #print('*')
                     vehicle_type = 'default'
                 if(self.check_print_number(plate_no[-4:],vehicle_type,pattern_dict)):
                     result += [A]
