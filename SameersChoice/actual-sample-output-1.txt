@@ -1,1 +1,3 @@
-[['JH45ADA8784', 'car'], ['JK126556', 'motorbike'], ['RN65A7A7878', 'truck']]
+No
+No
+No
