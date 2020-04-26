@@ -57,7 +57,6 @@ class Solution:
                         i+=2
                 i+=1
         print(pattern_dict)
-        print(pattern_dict['motorbike'])
         for A in queries:
             #print(s.replace('a', ''))
             A[0] = A[0].replace('-','')
