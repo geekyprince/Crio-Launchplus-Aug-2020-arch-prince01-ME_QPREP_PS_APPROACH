@@ -61,7 +61,7 @@ class Solution:
             A[0] = A[0].replace('-','')
             if(self.is_valid_plate_no(A[0],state_codes)):
                 vehicle_type = A[1]
-                if(self.check_print_number(l[-4:],vehicle_type,pattern_dict)):
+                if(self.check_print_number(A[0][-4:],vehicle_type,pattern_dict)):
                     result += [A]
             else:
                 print('No')
