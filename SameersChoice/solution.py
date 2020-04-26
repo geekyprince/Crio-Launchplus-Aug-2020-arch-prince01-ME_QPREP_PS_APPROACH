@@ -3,7 +3,7 @@ from collections import defaultdict
 
 class Solution:
 
-    def is_valid_plate_no(self,plateno_valid):
+    #def is_valid_plate_no(self,plateno_valid):
 
     def lucky_number(self,pattern_list, queries):
         pattern_dict = {}
