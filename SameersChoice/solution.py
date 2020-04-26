@@ -9,5 +9,5 @@ class Solution:
         pattern_dict = {}
         print(pattern_list)
         for A in pattern_list:
-            pattern_dict[A[0][0]] = A[0][1]
+            pattern_dict[A[0] = A[1]
         print(pattern_dict)
