@@ -73,6 +73,7 @@ class Solution:
                     result += [A]
             else:
                 print('No')
+        print(len(result))
         for A in result:
             print(*A)
         
