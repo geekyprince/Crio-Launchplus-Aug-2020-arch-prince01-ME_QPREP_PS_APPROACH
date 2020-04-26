@@ -1,8 +1,5 @@
-JH 45 ADA 8784
 Yes Bad 8746
-JK 12  6556
 Yes Good
-RN 65 A7A 7878
 No
 1
 JK-12-6556 motorbike
