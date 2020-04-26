@@ -35,6 +35,8 @@ class Solution:
             i = 4
         if(plate_no[i]=='-'):
             A += plate_no[i+1:-5]
+        elif(plate_no[2]=='-'):
+            A+='1'
         else:
             A += plate_no[i:-4]
         return S,D,A,N
