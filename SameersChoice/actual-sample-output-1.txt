@@ -1,6 +1,5 @@
 No
 No
-2w jb  03WS
 No
 No
 No
@@ -10,375 +9,252 @@ No
 No
 No
 No
-HP 80 BIF 4068
 Yes Good
-DL 32  5985
 Yes Good
-AR 93 WG 9665
 Yes Good
-DL 56 D 0409
 Yes Bad 2461
 No
 No
 No
-PB 55 D 1503
 Yes Bad 4503
-MN 23 AH 5037
 Yes Good
 No
 No
-TR 10  4819
 Yes Bad 6851
-JK 81  1619
 Yes Bad 1710
-TR 95 Y 4919
 Yes Bad 4926
 No
 No
-DD 31 XRQ 0067
 Yes Bad 7760
-PB 57 A 1177
 Yes Bad 7982
-WB 87 R 1348
 Yes Bad 4380
 No
 No
 No
-LA 72 IU 5427
 Yes Bad 6389
 No
 No
 No
-PY 44 V 5439
 Yes Bad 5079
 No
 No
-LA 80  0265
 Yes Bad 0366
 No
 No
 No
 No
-Ki Fg B9 HedX
 No
-NL 49 EAV 5189
 Yes Bad 9439
 No
 No
 No
-JH 98 U 0439
 Yes Bad 7732
 No
-AR 40 JLB 1950
 Yes Bad 6089
-LA 51 LFZ 3576
 Yes Bad 3558
 No
-KL 63 MCJ 4534
 Yes Good
-AN 51 OUW 8886
 Yes Bad 9582
 No
-AP 38 J 0290
 Yes Bad 0097
-LA 94 SV 3641
 Yes Bad 3899
-SK 95 IFF 2432
 Yes Good
-DL 93 O 9884
 Yes Bad 7544
-PC Nx G 1XwG
 No
 No
 No
 No
 No
 No
-MP 64 HS 7586
 Yes Bad 9746
-5I dF  F3Xq
 No
-NL 65 VJ 8245
 Yes Bad 7266
-2s cK gqN vC6d
 No
 No
 No
-CH 27  4377
 Yes Bad 2573
 No
 No
-MZ 34 GJ 1532
 Yes Bad 5547
 No
-RJ 02 NST 2213
 Yes Bad 7413
 No
 No
-Nl k5 B 3Q5C
 No
 No
-GJ 57 WZS 2137
 Yes Good
 No
-JK 87  7853
 Yes Good
-DD 67 EB 9801
 Yes Bad 8641
 No
 No
-aN FT yL Alw3
 No
 No
 No
-AS 17 R 3480
 Yes Bad 4882
-s4 2P rQ TVBo
 No
-RJ 48 O 3850
 Yes Bad 9862
 No
 No
-PX wB w7l K28Q
 No
 No
-NL 29 I 1622
 Yes Bad 7165
-MH 71 P 6394
 Yes Good
-A8 jz g 8hqp
 No
 No
 No
 No
 No
-JK 25  0260
 Yes Bad 4864
 No
-PY 05 A 8217
 Yes Bad 8447
-LA 84 ZO 3898
 Yes Bad 3091
-JK 55 XQN 7756
 Yes Bad 1079
-PB 30 CMC 1828
 Yes Bad 3838
-TS 44 CZE 8388
 Yes Bad 6360
 No
 No
-AN 87 Z 2328
 Yes Bad 2998
-UP 91 NG 6357
 Yes Good
-HR 51 FH 1025
 Yes Good
 No
 No
-AV OX x Tsfy
 No
 No
 No
-ms Gc z fNBy
 No
-UP 90 K 9243
 Yes Bad 3641
 No
 No
-UP 04 V 7638
 Yes Bad 4931
 No
-UK 94 VK 9017
 Yes Bad 9498
 No
 No
-SK 77 ZQ 9506
 Yes Bad 9586
-MZ 48  0629
 Yes Good
-LD 76  3668
 Yes Good
 No
-k- Bz pQ vK7L
 No
-MP 34 TJU 2884
 Yes Bad 7834
 No
-d6 Co cvh0 4J-5
-No
-No
-g4 P9 D Pi5q
 No
 No
 No
-UK 15  0085
+No
+No
 Yes Good
-RJ 38  0513
 Yes Bad 2541
 No
 No
-LA 67 BQA 1107
 Yes Good
 No
 No
-BR 53  4274
 Yes Good
-LA 96 RU 5893
 Yes Good
-LD 48 H 1102
 Yes Bad 9706
-TR 67  9653
 Yes Bad 7637
 No
-JK 07 Z 7262
 Yes Good
-eS xa  Ohuc
 No
 No
 No
-LA 37 ZB 2107
 Yes Bad 2754
 No
-RJ 99 FW 9295
 No
-e1 Uf  EnUA
 No
-HR 97 OB 6470
 Yes Good
 No
-G7 fz RYz Krsa
 No
 No
 No
-OD 89  0503
 Yes Good
-85 wz gKk 0q3D
 No
-PY 64  1214
 Yes Good
 No
 No
 No
 No
 No
-7e qW Xu XUKq
 No
 No
-WB 01  6574
 Yes Good
-PY 90 PL 4776
 Yes Bad 5826
-KA 08 LT 4927
 Yes Bad 4267
 No
 No
 No
-KL 15 KY 3466
 Yes Good
 No
 No
 No
-CH 62 ROR 3976
 Yes Good
-KL 47 XW 4887
 Yes Bad 4504
 No
 No
 No
 No
-yT o7 KB cHIv
 No
 No
 No
 No
 No
-tI iP rs pKQa
 No
 No
 No
-MH 32 M 2749
 Yes Bad 2361
 No
 No
-CH 92 SJ 4043
 Yes Bad 4454
-j7 w1  KQ3t
 No
-RJ 84  5149
 Yes Bad 5749
 No
 No
-BR 58 XRO 4538
 Yes Good
-NL 06 HP 1807
 Yes Good
 No
 No
-DD 35 GC 5477
 Yes Bad 5438
 No
-MN 20 B 3473
 Yes Good
 No
 No
 No
 No
 No
-GJ 91 NZ 7498
 Yes Bad 7679
 No
 No
-JK 02 WBV 5296
 Yes Good
 No
 No
-GA 04  5734
 Yes Bad 5374
-7R K1 C Kfdr
 No
 No
-RJ 46 O 9184
 Yes Good
 No
 No
-RJ 72 LFX 5540
 Yes Bad 5447
-TR 74 LZ 3176
 Yes Good
 No
-MZ 00 C 9620
 No
 No
-DD 55 MZ 3453
 Yes Bad 3058
-c0 Nf v z1jF
-No
-Me Gs cE l6Qy
 No
 No
-JH 45 OZ 4546
+No
 Yes Bad 6608
-ls KJ  jF6M
 No
-ML 72 K 8045
 Yes Good
 No
 No
-AS 75 C 1031
 Yes Bad 7055
 No
-ys qg  GAy8
 No
 No
-jJ UC  WpDQ
 No
-TR 90 PJ 6216
 Yes Bad 8226
-MP 38 QFP 7992
 Yes Good
-Si 0l k V0HK
-No
-JE gk A 6lcQ
 No
 No
 No
@@ -389,21 +265,15 @@ No
 No
 No
 No
-ML 48 UO 3964
+No
 Yes Bad 6814
-TR 60 GWQ 0377
 Yes Bad 8872
-JH 80 MYV 1592
 Yes Bad 9593
-W5 vJ KO8 Gw6J
 No
 No
-DL 92 EEV 9141
 Yes Bad 4791
-dH RM  2EsE
 No
 No
-RJ 57 UF 2410
 Yes Bad 2927
 No
 No
@@ -415,7 +285,6 @@ No
 No
 No
 No
-DL 85  9504
 Yes Bad 0644
 No
 No
@@ -426,36 +295,26 @@ No
 No
 No
 No
-OD 97 I 8139
 Yes Bad 8855
 No
-AP 11 YO 8304
 Yes Bad 2724
-UK 17  6361
 Yes Bad 6364
-SK 51 Z 7112
 Yes Bad 0373
 No
-SK 23 XG 6283
 Yes Bad 4989
-hw lM  ZtUy
 No
 No
-DL 31 MMN 0774
 Yes Bad 4074
 No
 No
-0h XK  FCl5
 No
 No
 No
 No
-PB 47 A 4842
 Yes Bad 4852
 No
 No
 No
-BR 91  5276
 Yes Bad 5256
 No
 No
@@ -463,105 +322,74 @@ No
 No
 No
 No
-ML 97 FT 7752
 Yes Bad 2489
 No
 No
 No
 No
-HR 47 G 8999
 Yes Bad 5942
-LD 89 JLH 3602
 Yes Bad 4634
-CH 61 RJ 1602
 Yes Bad 7042
-BT dI j15 IqjJ
 No
-LA 10 WN 4830
 Yes Bad 4259
 No
-CH 84 VZ 3115
 Yes Good
 No
 No
-Zr TP  3AgJ
 No
 No
 No
 No
-bg Gf u HoQO
 No
 No
-TY P6 X nadC
 No
-GA 45  5914
 Yes Good
 No
-JH 84  8437
 Yes Bad 9457
-jM Ir Z HY5a
 No
-MZ 46 BO 0936
 Yes Bad 4156
 No
-AR 31  9395
 Yes Bad 9398
 No
 No
 No
-4- u1 k 70ob
-No
-q5 mR E YHMI
 No
 No
 No
 No
 No
 No
-OD 80  6617
+No
 Yes Bad 0418
 No
-KA 66 AJ 9826
 Yes Bad 9823
 No
 No
-JK 20 C 3273
 Yes Bad 3578
 No
 No
 No
-KL 25  9203
 Yes Bad 9285
 No
 No
 No
-GA 03 UUW 1235
 Yes Good
-GA 32 N 1204
 Yes Bad 5298
 No
-9O dz  Gtvv
 No
-LD 63 G 0212
 Yes Good
 No
-RJ 11 HCJ 6860
 Yes Bad 9869
 No
 No
-F4 gr kmS adPl
 No
 No
-UP 02 DRZ 1906
 Yes Good
 No
 No
 No
-BR 66 YL 1428
 Yes Bad 1778
-MP 70  4782
 Yes Bad 7732
-LA 62  3531
 Yes Good
 No
 No
@@ -569,95 +397,66 @@ No
 No
 No
 No
-OD 25  9937
 Yes Bad 9847
 No
 No
-d4 WX AR gINX
 No
-LD 10 SJT 2882
 Yes Good
 No
 No
 No
-kh pV ZNI dcVc
 No
 No
-AX e7  FKRE
-No
-Nd 3D  GJlV
-No
-ZI 2O wGK lk7L
 No
 No
-UO Es i68 gD3E
 No
 No
-MH 52 BC 6802
+No
+No
 Yes Bad 8397
 No
-a9 51 8u l8XQ
 No
-05 GR B Bzsj
 No
-TS 73 YVP 8470
 Yes Bad 6681
 No
 No
 No
 No
-OD 26  0284
 Yes Bad 4324
 No
-mG pR gh E5RT
-No
-oW F2 is gQzh
 No
 No
-AR 12  6142
+No
 Yes Bad 8119
 No
-ML 32  7904
 Yes Bad 2925
 No
-NL 56 A 3981
 Yes Bad 6389
-lc di v BSkE
 No
 No
-UP 18  1959
 Yes Good
 No
 No
 No
 No
 No
-fS pz gs INPt
 No
 No
 No
--S wX h6 jTjh
 No
 No
-lR 6k E thia
 No
 No
-ML 36  7842
 Yes Bad 8844
 No
-HR 91 CLR 5603
 Yes Bad 5677
 No
-NL 64 Q 5341
 Yes Bad 5013
-mY 7n Qd 5S9k
 No
-MH 62 I 3161
 Yes Good
 No
 No
 No
-TS 54  8481
 Yes Good
 No
 No
@@ -670,55 +469,40 @@ No
 No
 No
 No
-HP 81 F 8652
 Yes Bad 3669
 No
 No
 No
-DL 41 DAO 6172
 Yes Good
 No
 No
 No
 No
 No
-MH 59 WGD 3401
 Yes Bad 5212
 No
 No
-KL 76 KUI 2352
 Yes Bad 2363
-0J Pb QS LHAK
 No
 No
-Gu Yb x ctGe
 No
-HR 19 OQ 6152
 Yes Bad 2252
 No
 No
 No
-9J B4 n WuyA
 No
 No
 No
-MZ 91 KP 7284
 Yes Bad 4684
 No
-9X oM Ul5 dzou
 No
-GJ 14 CV 4365
 Yes Good
 No
-AP 19  9089
 Yes Bad 1285
-CG 95 MU 9486
 Yes Bad 7411
 No
 No
-AS 34 V 1911
 Yes Bad 5400
-GJ 05 PIT 4195
 Yes Bad 4115
 No
 No
@@ -732,14 +516,12 @@ No
 No
 No
 No
-CH 76 WY 1794
 Yes Bad 6700
 No
 No
 No
 No
 No
-RJ 34 NNV 5141
 Yes Bad 8341
 No
 No
@@ -749,13 +531,10 @@ No
 No
 No
 No
-TN 61 NM 8238
 Yes Bad 1048
 No
 No
-B9 Py 1 71fb
 No
-MN 57 HX 7045
 Yes Bad 7169
 No
 No
@@ -763,12 +542,9 @@ No
 No
 No
 No
-qL S9 Cm qZ5O
 No
-ML 17 B 9134
 Yes Bad 0538
 No
-UP 80 UO 8262
 Yes Good
 No
 No
@@ -778,44 +554,29 @@ No
 No
 No
 No
-KZ o6  wFBn
 No
-NL 21  5392
 Yes Bad 8853
-VZ 6O Dvd uNdW
 No
 No
-Bq uT aa Sr8L
 No
-DD 55  3346
 Yes Bad 6647
-MN 78  9713
 Yes Good
 No
 No
-JH 55 O 9660
 Yes Bad 1678
-DL 93 MB 1594
 Yes Bad 5555
-DL 47 GK 3579
 Yes Bad 3673
 No
-RU qG  jmLq
 No
-HR 18 AZ 3326
 Yes Bad 7338
-uk Ks xo0 LgFI
 No
 No
 No
-AN 57 Z 8537
 Yes Bad 9833
 No
 No
 No
-C0 u8 ai0 XCNV
 No
-JK 02  0816
 Yes Bad 8827
 No
 No
@@ -824,24 +585,18 @@ No
 No
 No
 No
-u4 Ew alu ANma
 No
 No
-TS 56 XZ 2912
 Yes Bad 2743
-L5 Q8 JxC- DJ9y
 No
 No
-HP 95 TBW 8554
 Yes Bad 4051
 No
 No
 No
 No
 No
-JK 53 RR 4452
 Yes Bad 5512
-AN 87 L 4652
 Yes Good
 No
 No
@@ -855,39 +610,28 @@ No
 No
 No
 No
-LD 78  4936
 Yes Bad 4416
-GA 36 U 4222
 Yes Bad 4336
 No
-LD 41 VIZ 8791
 Yes Bad 4077
-gZ qM X uihl
 No
 No
 No
-aF jG 8 7RgE
 No
-MP 02  9988
 Yes Good
 No
 No
 No
-SK 48 PW 6937
 Yes Bad 6084
 No
 No
-yI ra buZ LOdX
 No
-JK 03 M 6401
 Yes Bad 0701
 No
 No
 No
 No
-AN 76  0123
 Yes Good
-KL 91 OD 7034
 Yes Bad 7234
 No
 No
@@ -895,141 +639,97 @@ No
 No
 No
 No
-hU XN  ZkaN
 No
-DL 50 BP 0969
 Yes Bad 1957
 No
-KA 87  6859
 Yes Good
 No
 No
-WB 34 ZD 6837
 Yes Good
 No
-AR 65  6024
 Yes Bad 6435
-UP 93 WHT 7216
-Yes Good
-F8 nh a7 O2eV
-No
-No
-No
-ML 35 GW 4264
 Yes Good
 No
-UK 74 OW 1376
+No
+No
+Yes Good
+No
 Yes Bad 1486
-AN 34  8191
 Yes Bad 8292
 No
 No
 No
-Ur et wCs ovPA
-No
-No
-iS j4 pvO 8BVQ
 No
 No
 No
 No
 No
 No
-PY 05 WR 2424
+No
+No
 Yes Bad 8824
-AN 92 HV 4442
 Yes Bad 4463
 No
 No
-Aj I5  E2vt
 No
 No
-SK 46 GTO 7274
 Yes Good
-TS 34 RQ 3495
 Yes Good
-4C 8G 0Vz ieW9
 No
-ML 21 T 0948
 Yes Good
 No
 No
 No
-UP 33  0382
 Yes Bad 3583
-TN 20 LJ 5949
 Yes Bad 5674
-PY 74  2757
 Yes Bad 9777
 No
-Eu 6y cP ANKZ
 No
 No
 No
 No
-WB 36 YA 0562
 Yes Bad 9197
 No
 No
 No
-PY 12 J 0916
 Yes Bad 1921
-ML 53 XVL 2709
 Yes Bad 8169
-JK 18 QDX 8783
 Yes Good
 No
-BR 86  7638
 Yes Bad 7653
 No
 No
-AS 93  0828
 Yes Good
-AS 04 NA 3395
 Yes Bad 3800
 No
-NL 77 UR 7651
 Yes Bad 6657
 No
 No
 No
-ai 1x O nhep
 No
-JH 83 C 3404
 Yes Bad 7174
-AP 66  2674
 Yes Bad 5976
-FP M1  GrcS
 No
 No
-UK 37 T 0313
 Yes Bad 5577
-PB 87 R 5964
 Yes Bad 5104
 No
 No
 No
 No
-nO IL Sn y7bl
 No
-OD 85 Y 4971
 Yes Bad 9977
 No
-TN 31  2755
 Yes Bad 8594
 No
 No
 No
 No
-NL 63 DH 3091
 Yes Bad 9761
 No
 No
-GA 33 IEK 9920
 Yes Bad 6762
-PB 87 V 5945
 Yes Bad 5505
-AR 32 IK 5971
 Yes Bad 5974
 No
 No
@@ -1038,9 +738,7 @@ No
 No
 No
 No
-MH 65  4885
 Yes Bad 4895
-LA 49 YAT 1389
 Yes Bad 5682
 No
 No
@@ -1048,58 +746,41 @@ No
 No
 No
 No
-MH 21  4989
 Yes Bad 4946
-JH 93 SGW 3102
 Yes Bad 7193
 No
 No
-CH 07  3094
 Yes Bad 3414
 No
 No
 No
-Di hh L A4o8
-No
-EF AG Upm 9kEh
 No
 No
 No
-ol Mm  Vj5B
 No
 No
-RJ 07 B 2776
+No
 Yes Good
 No
 No
-MN 88 VW 0530
 Yes Good
 No
 No
-AN 22 ND 3794
 Yes Bad 4704
-JH 85 EGB 3872
 Yes Good
 No
 No
-WB 95 WT 4387
 Yes Good
-OD 65 W 8778
 Yes Bad 8725
 No
-HP 17  9124
 Yes Bad 8394
 No
-MP 28  7060
 Yes Bad 9568
 No
-CG 25 TW 8940
 Yes Bad 0943
 No
 No
-RJ 96 LJ 9348
 Yes Good
-fr DZ fMF EpvD
 No
 No
 No
@@ -1110,144 +791,94 @@ No
 No
 No
 No
-LA 86 YJH 2514
 Yes Bad 5406
-BR 99  6670
 No
-NL 31 H 1157
 Yes Bad 2857
-DL 18 OOA 2146
 Yes Bad 6349
-Ee 90 z RZdw
 No
 No
 No
-TS 68 SSL 6179
 Yes Bad 6992
 No
 No
-va wH LD YAzT
 No
-BR 17 QYK 0132
 Yes Bad 9634
-DD 64 O 8576
 Yes Bad 0966
-Cg pp olS 6PqA
 No
-KL 78 VN 6277
 Yes Bad 0289
-DD 39 BR 9739
 Yes Bad 9732
 No
 No
 No
-CG 09 U 4477
 Yes Bad 0486
 No
 No
 No
-GA 16 FTH 3876
 Yes Bad 8306
 No
 No
 No
-Ww tH 1hV JBPu
 No
 No
 No
-AR 24 W 0118
 Yes Bad 3801
-MP 59 B 9997
 Yes Good
 No
-CG 49  6847
 Yes Bad 9641
-KL 74 NEO 2475
 Yes Bad 8485
-CG 97 CZZ 3601
 Yes Bad 3609
-DL 47 KA 3394
-Yes Good
-No
-Fm Op  p392
-No
-No
-CH 46 WG 8100
-Yes Good
-No
-BR 66  5235
 Yes Good
 No
 No
 No
-NL 44 AGM 1026
+Yes Good
+No
+Yes Good
+No
+No
+No
 Yes Bad 5927
-TS 74 TJQ 8607
 Yes Bad 0977
 No
 No
 No
-CH 62 I 1391
 Yes Bad 7321
 No
 No
 No
-TS 28  5951
 Yes Bad 7793
-UK 24 NN 5004
 Yes Good
-SK 83  4952
 Yes Bad 9153
-CH 42 UDM 6578
 Yes Bad 9591
 No
 No
-b5 A0  eGou
 No
-OD 87 XQG 1485
 Yes Good
 No
 No
 No
 No
-AP 52 VC 8294
 Yes Bad 5364
 No
 No
 No
-NL 72 CVG 7680
 Yes Bad 9607
 No
-CG 52 NQA 7270
 Yes Bad 9472
 No
-GN qP H GqYq
 No
-JH 84  9992
 Yes Good
 No
 No
-TS 45  0418
 Yes Good
 No
-KL 66 P 3692
 Yes Bad 3334
 No
 No
 No
-OD 84 A 3473
 Yes Bad 3487
-LD 12  4067
 Yes Bad 4167
-PB 89 RXB 1935
 Yes Bad 1742
-Rs 4y F wLaG
-No
-No
-w6 S4  XQXq
-No
-No
-vm r4  L9rk
 No
 No
 No
@@ -1255,37 +886,33 @@ No
 No
 No
 No
-JK 60  9743
+No
+No
+No
+No
 Yes Bad 9218
 No
-JH 45 S 2243
 Yes Good
 No
 No
-AN 99 B 0145
 No
 No
 No
-ML 46 DG 5446
 Yes Bad 5706
 No
-AS 11  5799
 Yes Bad 5283
-ql 2L uyp UJgD
 No
 No
 No
 No
 No
 No
-GJ 54 NRP 5089
 Yes Bad 5289
 No
 No
 No
 No
 No
-PY 63 D 0953
 Yes Bad 8014
 No
 No
@@ -1294,135 +921,92 @@ No
 No
 No
 No
-nG wr t4 F80r
-No
-No
-cg pf W5Z edur
 No
 No
 No
-BR 27 UV 9373
+No
+No
 Yes Bad 0078
-SK 92  5200
 Yes Good
 No
-GJ 64  0533
 Yes Bad 4618
 No
 No
-GJ 57 KQ 1837
 Yes Bad 2089
 No
 No
 No
-EN EL 5 sHLX
 No
 No
 No
 No
 No
 No
-AN 87  0984
 Yes Bad 9401
-LA 63  0367
 Yes Bad 1877
-GA 14 VQ 1806
 Yes Bad 3679
-SK 09 K 8838
 Yes Bad 9832
-LA 06 TM 7095
 Yes Bad 7995
 No
-CG 26 V 1070
 Yes Bad 8276
-CG 57 L 9385
 Yes Good
 No
 No
-wY ZI xGj Pdgk
 No
 No
-0C P3 H1 Y5QR
 No
-DL 22  0465
 Yes Bad 4465
-LA 33 ZI 1545
 Yes Bad 9450
 No
-GA 58 DB 6233
 Yes Good
 No
-Rc Xj SUA ZMjk
 No
 No
-PY 39  3139
 Yes Bad 3360
-CH 09 OP 4754
 Yes Bad 4257
 No
 No
 No
 No
-MH 76 Z 2185
 Yes Bad 2800
-WB 54 NI 6534
 Yes Bad 9677
-Bf th q1 7jVV
 No
 No
-AS 63 DD 6374
 Yes Bad 6378
-TR 91 RH 8829
 Yes Bad 1829
 No
-AP 64 IMN 4043
 Yes Bad 8043
 No
 No
 No
 No
 No
-WB 55  7906
 Yes Bad 0485
-1N 9b k6u vLIe
 No
-HP 44 ZA 1394
 Yes Bad 1304
 No
-AP 23 G 3030
 Yes Good
 No
-TN 90  7096
 Yes Bad 0732
 No
 No
 No
-ML 80  8151
 Yes Good
-Rv I9 yC SSdc
 No
 No
-PB 47 UP 3674
 Yes Bad 3939
 No
--I Xg tpN S2Fa
 No
-HR 08 AFV 9428
-Yes Good
-n3 Cn 5Ho hH6H
-No
-HR 12 MC 3284
 Yes Good
 No
-MN 24 NA 3140
+Yes Good
+No
 Yes Good
 No
 No
-MH 23 Q 6673
 Yes Bad 6674
 No
 No
-jG CY uH HBxH
 No
 No
 No
@@ -1431,97 +1015,68 @@ No
 No
 No
 No
-RJ 49 CA 7047
 Yes Good
--P TP G7 I3OK
 No
 No
 No
 No
-CG 57 C 8431
 Yes Bad 4588
-MP 93 REZ 0542
 Yes Bad 3667
--5 Me K 3bkn
-No
-o5 y4  Y2cY
 No
 No
 No
 No
-JR TP  8eUf
 No
 No
 No
 No
-MN 67 U 8243
+No
 Yes Good
 No
-CH 11  7344
 Yes Bad 7874
 No
 No
-JH 60 IJQ 7971
 Yes Bad 7032
-DD 79  5496
 Yes Bad 8076
-KW 44 MU VoCF
 No
 No
 No
-SK 40  8569
 Yes Bad 5589
-TR 69 MBJ 3993
 Yes Good
 No
 No
 No
 No
 No
-AR 18 N 0271
 Yes Bad 2609
-KA 04  7869
 Yes Bad 3898
 No
-GJ 33 A 1887
 Yes Bad 1817
-vx vo a x7Hd
 No
 No
-CG 08 I 3121
 Yes Bad 4865
 No
 No
-ms uh Nex 8Oip
 No
 No
-UP 13 GTR 5477
 Yes Bad 5680
-TR 33 TRJ 5297
 Yes Bad 5217
 No
-CG 66 ZAV 2457
 Yes Bad 2957
 No
-PY 07 PVX 2283
 Yes Bad 7789
 No
 No
 No
-TN 33 QTI 8519
 Yes Good
 No
 No
-JK 58 Y 8076
 Yes Bad 6806
-CL W4 Qjx obvw
 No
 No
 No
-Jr IN htkY T-Mi
 No
 No
-MH 65  4857
 Yes Bad 3007
 No
 No
@@ -1529,81 +1084,62 @@ No
 No
 No
 No
-BR 64 WZG 2953
 Yes Bad 7615
-d7 bm nCY 4gLk
 No
 No
 No
-NN vu  jz8d
 No
 No
 No
-GJ 48 Y 1923
 Yes Bad 1947
 No
 No
 No
 No
 No
-1- fu nL rgiF
-No
-No
-La GR  FqIy
 No
 No
 No
 No
 No
-HR 97  2997
+No
+No
 Yes Bad 3227
 No
-RG Od wlb FubP
 No
-WB 98 MJ 8678
 Yes Bad 0372
 No
 No
 No
-TN 01 A 4380
 Yes Bad 4945
 No
 No
-wy Mb 2K 4DOh
 No
 No
 No
-CH 44 Y 8317
 Yes Bad 8357
 No
-DL 47 A 2023
 Yes Bad 0123
 No
 No
-BR 26 GAA 9643
 Yes Bad 9073
 No
 No
-AR wP T-K dww1
 No
 No
 No
-LD 26  9937
 Yes Bad 4237
-JH 31  4867
 Yes Good
 No
 No
 No
 No
-LA 33 WCN 7233
 Yes Good
 No
 No
 No
 No
 No
-JK 05 AD 4606
 Yes Bad 5296
 No
 No
@@ -1611,23 +1147,16 @@ No
 No
 No
 No
-db aU z uypl
 No
 No
 No
-PB 90 K 5479
 Yes Bad 3981
 No
 No
-KA 75 AEM 4924
 Yes Bad 9236
-AP 20 T 6745
 Yes Bad 0765
-GJ 58 LH 7071
 Yes Bad 7976
-LA 01 PJ 9788
 Yes Bad 4761
-HR 44 FVM 9002
 Yes Bad 9854
 No
 No
@@ -1636,83 +1165,61 @@ No
 No
 No
 No
-TR 11  2235
 Yes Bad 4966
-UK 14 Q 5614
 Yes Bad 9868
 No
 No
-Kr bw M7C eon-
 No
 No
 No
-MP 62 RJV 0569
 Yes Good
 No
-ML 88  9120
 Yes Good
-GA 63 ISH 5598
 Yes Bad 5283
-MH 21  5049
 Yes Bad 6569
 No
 No
 No
 No
-UP 96 BFK 7857
 Yes Bad 8850
 No
-aa fM AGo H2z8
 No
 No
 No
 No
 No
 No
-PY 61 OG 1142
 Yes Bad 9749
-KL 37 F 7188
 Yes Bad 7843
 No
 No
 No
 No
 No
-W6 o6 6 SYe1
 No
-WB 11 F 2371
 Yes Bad 2376
-GJ 93 L 9030
 Yes Bad 9737
 No
-KL 30 RD 7125
-Yes Good
-No
-No
-On 3E n oPZZ
-No
-No
-No
-TR 65 IM 2642
 Yes Good
 No
 No
 No
-if 81 vm7 R5Bf
 No
 No
-JH 26  3307
+Yes Good
+No
+No
+No
+No
+No
 Yes Bad 3712
 No
 No
-UP 76 KK 7762
 Yes Bad 2794
 No
 No
 No
-BR 38 JKB 3988
 Yes Bad 4748
-KA 55 DF 1214
 Yes Bad 6215
 No
 No
@@ -1726,75 +1233,53 @@ No
 No
 No
 No
-PB 97  7786
 Yes Bad 4486
 No
 No
 No
-fS NJ  HYoY
 No
 No
 No
 No
-MP 47 CL 7816
 Yes Bad 7437
 No
 No
 No
-BR 67  1497
 Yes Bad 4997
-LA 16 P 4645
 Yes Bad 9645
 No
 No
-NL 87 TIX 0494
 Yes Bad 3698
 No
 No
-UK 06 MKN 7651
 Yes Bad 8693
-TS 87 H 8967
 Yes Good
 No
 No
-MZ 87 XA 2243
 Yes Good
-HP 68  0227
 Yes Bad 3677
 No
 No
-AN 14 NWA 4985
 Yes Bad 6989
 No
 No
 No
-0J rF K2 IYeb
 No
-MZ 12  3574
 Yes Bad 4588
-UP 95 M 9840
 Yes Bad 9357
-2Q bb jr4 wwTJ
 No
-TN 51 O 7433
 Yes Good
 No
-MH 35 QWM 4478
 Yes Good
-Eb fI ogG Vps5
 No
 No
-AN 45 LPX 2599
 Yes Bad 5705
 No
-AS 22  5950
 Yes Good
 No
 No
 No
-UK 06 BU 6025
 Yes Bad 6901
-LD 92 UVP 2516
 Yes Bad 9626
 No
 No
@@ -1803,38 +1288,26 @@ No
 No
 No
 No
-Ks y6 mI Q3UJ
 No
-CH 28  5317
 Yes Bad 0139
-HR 13 E 5206
 Yes Bad 5276
-Bz PQ  taBD
 No
 No
 No
-JH 16 VN 7581
 Yes Good
 No
-DL 85 PWC 0253
 Yes Bad 2293
 No
 No
 No
 No
-DD 77 OFD 0368
 Yes Bad 7878
-JK 81  6418
 Yes Good
-XS Sx q3U fnJK
 No
 No
-KL 62 DVY 2685
 Yes Bad 7686
 No
-RJ 99 V 9021
 No
-AS 10 IAM 6439
 Yes Good
 No
 No
@@ -1843,68 +1316,47 @@ No
 No
 No
 No
-Kc l6  SgY4
 No
-AR 71 QP 0664
 Yes Bad 0964
 No
-42 gG cT slkz
 No
 No
-UK 63  2466
 Yes Good
-AP 10 LQ 7995
 Yes Good
-tj cg 6 DRVD
 No
-PB 55 X 0319
 Yes Bad 7946
-CH 46  9731
 Yes Good
 No
-PB 68 HP 7500
-Yes Good
-9C ll  Lw2d
-No
-No
-No
-No
-ML 28  5316
-Yes Good
-Vz DH T SDw3
-No
-No
-No
-TN 98  7520
 Yes Good
 No
 No
 No
 No
-LD 77 TJ 5582
+Yes Good
+No
+No
+No
+Yes Good
+No
+No
+No
+No
 Yes Bad 5879
-CH 11 FVO 7633
 Yes Good
 No
-GA 89 SJ 8026
 Yes Good
-KL 31 NCP 5402
 Yes Bad 2606
 No
-Kh 6r 1 BAIT
-No
-No
-No
-60 wX Gg 9Jjr
 No
 No
 No
 No
-LA 56  2607
+No
+No
+No
 Yes Bad 7638
 No
 No
-MH 11 MDR 3945
 Yes Bad 3349
 No
 No
@@ -1913,13 +1365,9 @@ No
 No
 No
 No
-UK 73  4790
 Yes Good
-AS 49 A 6314
 Yes Bad 6637
-PB 50 C 2725
 Yes Good
-bD xv  vK6z
 No
 No
 No
@@ -1928,112 +1376,78 @@ No
 No
 No
 No
-LA 38  9283
 Yes Bad 4248
 No
 No
-TR 62 HBU 0516
 Yes Bad 2564
 No
 No
 No
 No
-Rm rl 1 o8Cn
-No
-AN 99 LE 8645
-No
-iQ Tw 2 2iND
 No
 No
-PB 53  9475
+No
+No
 Yes Good
 No
 No
 No
-EF SZ v nres
 No
 No
 No
 No
 No
 No
-RJ 84  7275
 Yes Bad 7475
 No
-NL 80  6963
 Yes Bad 8785
-UK 05 O 2626
 Yes Good
 No
-52 3q bc uJnx
 No
 No
-AN 67 I 5796
 Yes Bad 9996
-UK 87 TMY 3435
 Yes Bad 9459
-UK 26 S 7725
 Yes Good
-c0 MX 1 M3Ik
 No
 No
 No
-AS 80 LV 6289
 Yes Good
-lC oa  wa1O
 No
-Cv aS  TyBT
 No
-LD 08 HNH 3906
 Yes Good
-SK 46 XQ 9585
 Yes Bad 1986
-MZ 20  3202
 Yes Good
 No
 No
 No
 No
 No
-RJ 04 X 2683
 Yes Bad 4893
 No
-pE 35 12 xDqw
 No
-TN 24  0758
 Yes Good
-LD 32 PHA 5347
 Yes Bad 5647
-pM LQ  dyGA
 No
 No
 No
 No
-DD 69 W 3069
 Yes Bad 9760
-02 ih At AYJV
 No
 No
 No
 No
-9J Sd I m1gF
 No
 No
 No
 No
-iA ki a Uwwq
 No
 No
-RM mx 1 hINL
 No
-RJ 62 NNL 4734
 Yes Good
 No
 No
-TS 68 BB 0573
 Yes Bad 1919
 No
--Q Pw j iya9
 No
 No
 No
@@ -2043,7 +1457,6 @@ No
 No
 No
 No
-iP Ai  nE0V
 No
 No
 No
@@ -2053,7 +1466,6 @@ No
 No
 No
 No
-AR 83 UD 3115
 Yes Bad 3124
 No
 No
@@ -2065,40 +1477,29 @@ No
 No
 No
 No
-ex UE Cl 8Hd5
 No
-UK 68  1120
 Yes Bad 4127
 No
 No
 No
-rE x0 r pQkb
 No
-KL 93 I 7373
 Yes Bad 7377
-UK 93 P 5372
 Yes Good
-Fo wd  FljV
-No
-No
-Px vZ 16 F4vy
 No
 No
 No
 No
 No
 No
-KA 08 TI 4657
+No
+No
 Yes Bad 8851
-MN 34  9009
 Yes Bad 0211
-MH 24  2822
 Yes Bad 4592
 No
 No
 No
 No
-ZV Gf  PYjq
 No
 No
 No
@@ -2108,13 +1509,10 @@ No
 No
 No
 No
-WB 64 U 3461
 Yes Bad 8633
 No
-LD 21  0838
 Yes Bad 0634
 No
-eB JZ QM Da-c
 No
 No
 No
@@ -2125,117 +1523,84 @@ No
 No
 No
 No
-AP 25 DK 8778
 Yes Bad 7378
 No
 No
 No
-MP 72 I 5139
 Yes Bad 5533
 No
 No
 No
-GJ 59  3416
 Yes Bad 9169
 No
-KA 40 VD 7936
 Yes Bad 6036
-JY mX Me jEw4
 No
 No
-3c uc d 6h0V
 No
 No
-LA 50 MOO 4526
 Yes Good
-MN 34 RU 5685
 Yes Bad 9685
 No
-Hi OQ P sFwe
 No
 No
 No
 No
-CH 74  9682
 Yes Bad 2185
 No
 No
-TN 42 N 2035
 Yes Bad 7230
 No
 No
-TR 24 SR 6488
 Yes Bad 2432
-Y6 i1 y RR5B
 No
 No
 No
 No
-TN 28 W 1138
 Yes Bad 7596
 No
 No
 No
-bM Hm hyC W13i
 No
 No
-LD 19 M 2421
 Yes Good
 No
-5Z 7J gCn wtyJ
 No
 No
 No
 No
-LA 86  6629
 Yes Bad 6890
-eD 6Q m t79b
 No
-MH 66 REP 1978
 Yes Bad 2678
-CG 39  4196
 Yes Bad 4431
 No
-GJ 67 PS 1848
 Yes Bad 1243
 No
 No
-qf ny P FpS3
 No
 No
 No
 No
 No
-LA 58 NW 7725
 Yes Bad 7032
-F5 Te  JNPY
 No
 No
 No
 No
-DL 70 ZNJ 5938
 Yes Good
-CG 67  0792
 Yes Bad 7794
 No
-MZ 32 J 1391
 Yes Bad 0491
-LP cT 3- TtOt
 No
 No
 No
 No
-MP 31 F 6347
 Yes Bad 6393
 No
 No
-yC 2z  3x7N
 No
 No
-CH 76 IJA 5684
 Yes Bad 6428
 No
-PB 96 XA 0824
 Yes Bad 0464
 No
 No
@@ -2243,36 +1608,25 @@ No
 No
 No
 No
-ED EP g P0WW
 No
 No
-JK 33 G 4243
 Yes Bad 8684
 No
 No
-PY 40 SXI 4165
 Yes Bad 8596
-MH 68 THX 5758
 Yes Bad 5992
-JK 95 W 1592
 Yes Bad 1598
 No
 No
 No
 No
-TR 37 NQP 6634
 Yes Good
-LD 40  1529
 Yes Bad 1577
 No
 No
-PB 72  3414
 Yes Good
-GJ 31 RJA 1859
 Yes Good
-DL 48 EUE 0614
 Yes Bad 2718
-CH 68 WK 2315
 Yes Bad 6835
 No
 No
@@ -2281,116 +1635,80 @@ No
 No
 No
 No
-MP 34 GK 1014
 Yes Bad 4964
 No
-BR 73 KI 8050
 Yes Bad 1658
-AN 69  1021
 Yes Bad 1072
-MP 31 A 8714
 Yes Good
-HP 52 TW 0132
 Yes Bad 0733
 No
-2m LS bl lYL5
 No
 No
-CH 35 VAL 3853
 Yes Good
 No
-ML 34 Q 6474
 Yes Bad 2737
 No
-BR 65 U 5436
 Yes Good
 No
-MN 38 RT 2295
 Yes Bad 2225
 No
 No
-bw GE  lHmR
 No
 No
-sw zq W KKLg
 No
 No
-LA 15  3576
 Yes Good
 No
-CH 64 WE 0216
 Yes Bad 7814
 No
-TS 75 PKE 7260
 Yes Bad 1944
 No
-AP 33 UU 6208
 Yes Bad 6548
 No
-DL 95 KRT 1847
 Yes Bad 8397
-BR 52  4253
 Yes Good
 No
 No
 No
 No
-LA 12  5375
 Yes Good
 No
-TR 73 OFF 3611
 Yes Bad 4691
 No
 No
 No
-HP 26 Q 5028
 Yes Bad 9038
-cN ba V RGL3
 No
 No
-TS 63 U 9489
 Yes Bad 2789
-UP 60 TYJ 9457
 Yes Bad 2552
 No
 No
 No
-C6 lg Fk3 VxC3
 No
-OD 06  5087
 Yes Bad 1388
 No
 No
-JK 21 CE 0987
 Yes Good
 No
 No
-HR 77 AF 1895
 Yes Bad 1295
-GA 70 VHL 9379
 Yes Good
-AR 96  7267
 Yes Good
 No
 No
 No
-HP 17 PSC 1637
 Yes Bad 8637
 No
-Zv X9  oYKy
 No
-GJ 15  7023
 Yes Bad 1453
 No
 No
 No
-LA 92 C 2174
 Yes Good
 No
 No
-NL 41 DV 2497
 Yes Good
-PY 70 ZOE 3560
 Yes Bad 1867
 No
 No
@@ -2405,100 +1723,70 @@ No
 No
 No
 No
-BR 55  4571
 Yes Good
-NL 50 T 1384
 Yes Bad 5987
-JH 89 KI 1163
 Yes Bad 7363
 No
 No
 No
 No
 No
-TS 70 IR 9179
 Yes Good
 No
 No
-MH 68 ZW 0323
 Yes Good
-AS 79  7284
 Yes Bad 8679
 No
 No
-KL 26 ZF 9549
 Yes Bad 4992
-AR 81 LY 2092
 Yes Bad 5283
-KA 66 X 4124
 Yes Bad 2124
 No
 No
-HR 44 GU 1524
 Yes Bad 7534
 No
 No
-LA 61 G 9193
 Yes Bad 1107
-HR 11 V 5230
 Yes Good
 No
-MN 93 X 9113
 Yes Good
 No
 No
 No
-PY 37 HHR 0805
 Yes Bad 6066
 No
 No
-PP 0d 1 hgGa
 No
 No
 No
-AR 66 YP 0769
 Yes Good
-AP 31 FZ 4855
 Yes Bad 4945
 No
 No
-JK 05 T 7200
 Yes Bad 4709
 No
 No
 No
 No
-hb Mt O dyhs
-No
-No
-Sc mE 2H qBiQ
 No
 No
 No
 No
 No
 No
-CG 51  3786
+No
+No
 Yes Good
-6u TL 97 MQzw
 No
-WB 99 Y 4623
 No
-BR 90 LA 5882
 Yes Bad 7452
-HO Us m3 lp27
 No
-MP 59 WRC 1283
 Yes Good
 No
-LA 60 HUZ 7422
 Yes Bad 7458
-TS 69 AL 9034
 Yes Bad 6076
 No
-HP 11 L 5418
 Yes Bad 5467
-SK 03 GDN 4416
 Yes Bad 8479
 No
 No
@@ -2509,13 +1797,10 @@ No
 No
 No
 No
-qA BE T fycd
 No
-ML 62  3788
 Yes Bad 7730
 No
 No
-BR 24 R 0709
 Yes Good
 No
 No
@@ -2526,21 +1811,15 @@ No
 No
 No
 No
-DL 61 NR 4466
 Yes Bad 1407
-AS 59  2882
 Yes Good
 No
-7i UK SUS 3tnA
 No
 No
 No
-sk xc  oDmS
 No
 No
-KL 59 SUN 9179
 Yes Bad 4173
-rh v9 g PNcW
 No
 No
 No
@@ -2548,34 +1827,26 @@ No
 No
 No
 No
-tS PM 9 ulGw
 No
 No
-KL 28 ZNT 5008
 Yes Good
 No
 No
 No
 No
-LA 83 Q 9394
 Yes Bad 2394
 No
-OD 50 B 4495
 Yes Bad 9440
 No
 No
 No
-LA 68  1603
 Yes Bad 5698
 No
 No
 No
-MP 90  2747
 Yes Bad 2713
-S9 dV wkp 28Aw
 No
 No
-NL 09 GVN 3640
 Yes Bad 3249
 No
 No
@@ -2583,7 +1854,6 @@ No
 No
 No
 No
-TN 69 GJJ 6910
 Yes Bad 6326
 No
 No
@@ -2595,89 +1865,61 @@ No
 No
 No
 No
-AR 51 HO 6556
 Yes Good
-OY Cb p6 cdrR
 No
-AS 51 R 2842
 Yes Bad 4997
-WB 95 KDI 6015
 Yes Bad 7459
-CG 44 BS 2776
 Yes Bad 9877
 No
 No
-CG 46 XL 5849
 Yes Good
-e4 ii aBF eQlP
 No
-TN 21 I 9761
 Yes Good
-yf Yf Wi WQ00
 No
-MH 17 MC 4531
 Yes Bad 0181
 No
-ML 64 HAT 0837
 Yes Bad 6833
 No
 No
-UP 62 OV 8487
 Yes Good
 No
-KL 17 VFH 5458
 Yes Bad 7574
-CH 65 O 9296
 Yes Bad 5296
-LD 67 R 7865
 Yes Bad 0818
 No
 No
 No
 No
 No
-LA 25  1265
 Yes Bad 2377
 No
 No
 No
 No
-95 Hy f Nev3
 No
-MH 96 ZGQ 1847
 Yes Bad 8877
 No
 No
-MZ 41 DDO 3248
 Yes Bad 4248
-LD 62 AO 8444
 Yes Good
 No
 No
 No
 No
 No
-HP 61 C 9408
 Yes Bad 0452
 No
 No
-PB 53 EQ 8454
 Yes Good
-MH 79 UPY 4536
 Yes Bad 4639
-LA 05 EQA 5471
 Yes Good
 No
-AN 50  6552
 Yes Bad 8578
-MP 07 CH 6480
 Yes Bad 6781
 No
 No
 No
-AR 08 DC 9638
 Yes Bad 9383
-LA 19 NN 5379
 Yes Bad 5309
 No
 No
@@ -2686,40 +1928,30 @@ No
 No
 No
 No
-lb Qz F yi1z
 No
-DL 75  9550
 Yes Bad 6858
 No
 No
 No
 No
 No
-vz 4j nP cGmu
 No
 No
 No
 No
-Ol lz Tiy pbYy
 No
-LA 67 KS 2512
 Yes Good
-UK 42 DQZ 0629
 Yes Good
 No
-JH 51 ZX 7533
 Yes Bad 7933
 No
 No
-CH 66 J 9752
 Yes Bad 5752
 No
 No
 No
 No
-MP 17 QCV 1162
 Yes Bad 4182
-TS 77 XYF 2444
 Yes Bad 4444
 No
 No
@@ -2729,28 +1961,19 @@ No
 No
 No
 No
-BR 62 WH 2863
 Yes Good
 No
-TS tN Qp 0Zjj
-No
-No
-HS 0I  Xsjf
 No
 No
 No
-LD 91  9365
+No
+No
 Yes Bad 2315
-ML 09 QDK 6398
 Yes Bad 6552
-IQ Xr va o2Tx
 No
-JH 54  1471
 Yes Bad 5678
 No
-6x yp t ma0s
 No
-BR 28 M 5015
 Yes Good
 No
 No
@@ -2762,155 +1985,104 @@ No
 No
 No
 No
-CG 36  5388
 Yes Good
 No
-CH 50 I 9936
 Yes Bad 5296
-UK 95 YHW 8607
 Yes Bad 0420
 No
 No
 No
-n3 H5 do zmH0
 No
 No
 No
 No
-8i GV P4 RYEx
 No
 No
-LA 40  3298
 Yes Bad 3699
 No
 No
 No
 No
 No
-NL 47 VV 2987
 Yes Bad 2589
-CG 96 MF 4540
 Yes Bad 6258
-KA 80 O 3710
 Yes Bad 1712
-RJ 21 HVG 5436
 Yes Bad 7596
-WB 81  4820
 Yes Bad 4977
-Hy Qa mIS xfG2
-No
-QN n7 mAd- MCqB
 No
 No
 No
-AP 45  3260
+No
 Yes Bad 4367
 No
 No
-MH 66  7597
 Yes Bad 7519
 No
 No
 No
-PY 77 SXW 5350
 Yes Bad 8482
 No
 No
-R9 vo  coyv
 No
-CH 96 CR 9883
 Yes Good
 No
 No
-BR 84 BAG 0038
 Yes Bad 3403
-SK 07 MXY 4971
 Yes Bad 4381
-JK 97 EV 6091
 Yes Good
-HR 87 UQ 6981
 Yes Bad 5987
 No
 No
 No
-CH 76 CJ 9549
 Yes Good
 No
-WB 70  3726
 Yes Bad 9736
 No
-M4 c8  qm4a
 No
 No
-MN 93  2548
-Yes Good
-85 Zm N0 yUFg
-No
-No
-No
-No
-DD 03 QNT 2118
 Yes Good
 No
-BR 62 VIQ 8810
+No
+No
+No
+Yes Good
+No
 Yes Bad 8837
-uB 2F 8 CLYI
 No
 No
-TN 89 P 1197
 Yes Bad 1527
-9h QM N mR4q
 No
 No
 No
-UK 36  1561
 Yes Bad 1976
 No
 No
-DD 27 URX 9550
 Yes Bad 5056
-PB 09 J 2916
 Yes Bad 2346
-NL 33  2416
 Yes Good
 No
 No
 No
-Wh om sT F618
 No
-vv xA  exFo
 No
-ML 59  7030
 Yes Bad 7139
-MZ 70 ZTI 1561
 Yes Bad 4568
 No
-JK 77 XHJ 7528
 Yes Good
-ML 62 OLK 6751
 Yes Bad 6856
-z0 18 G 2fYc
 No
 No
-DL 45 ADN 0907
 Yes Bad 3592
 No
 No
-MN 39  8014
 Yes Good
-hP QW kd z5eH
 No
-DD 14 CVJ 6583
 Yes Bad 8569
-GA 83  3326
 Yes Bad 6930
 No
-JK 62 UG 2307
 Yes Bad 5364
-WE 60 jI7 NoEk
 No
 No
-KA 07 S 7426
 Yes Bad 0090
 No
 No
@@ -2920,117 +2092,83 @@ No
 No
 No
 No
-MH 40  7803
 Yes Bad 4872
 No
-TR 74  0227
 Yes Bad 4527
-UP 54 LYX 6349
 Yes Bad 3441
-LA 64 RW 8389
 Yes Bad 0125
 No
-GA 73 LTZ 2040
 Yes Good
 No
-PB 27 P 0191
 Yes Bad 6255
 No
 No
 No
 No
 No
-DD 49 E 3486
 Yes Bad 3729
-LA 20 AJ 1228
 Yes Good
 No
 No
 No
 No
-TN 70 OU 4906
 Yes Bad 7036
 No
 No
-bq QN 1-q 6XJa
-No
-io I2  rVpE
 No
 No
-yE 7L  QVYX
 No
-OD 95 ITS 1865
+No
 Yes Bad 6505
 No
 No
-KA 15 XA 4518
 Yes Bad 3668
-MN 32 V 5074
 Yes Bad 7989
 No
-z9 y2 Z qKSu
-No
-9a IU  lhgJ
 No
 No
-EG vk P4K xBeR
 No
-MP 40 NOL 4205
+No
 Yes Bad 4697
 No
 No
 No
-DL 62 ZI 6837
 Yes Good
 No
-KL 23 JP 7813
 Yes Bad 7123
-GA 03 VU 5985
 Yes Bad 5171
 No
-KL 46 WNF 3695
 Yes Bad 6832
-JH 71  5482
 Yes Bad 8683
 No
 No
 No
 No
-KL 90  8302
 Yes Bad 1072
 No
 No
 No
-NL 08 E 9107
 Yes Bad 0987
 No
-LD 97  5973
 Yes Good
-O2 Is M PPBZ
-No
-2S 2H  P5MW
 No
 No
 No
 No
 No
 No
-vy m4 7Om iXLb
 No
 No
 No
-LA 13 YK 4806
+No
 Yes Bad 4986
 No
 No
 No
-UK 36  4945
 Yes Bad 7747
-OD 26 TN 5162
 Yes Bad 0733
 No
 No
-UP 66 ODS 7381
 Yes Bad 7137
 No
 No
@@ -3041,19 +2179,14 @@ No
 No
 No
 No
-TR 24  4815
 Yes Bad 4295
-JK 44 UAK 9539
 Yes Bad 9696
 No
 No
 No
-HP 69 JE 7418
 Yes Good
-KL 18 TPU 8582
 Yes Good
 No
-RJ 36 O 0611
 Yes Bad 8646
 No
 No
@@ -3063,53 +2196,38 @@ No
 No
 No
 No
-P3 lf Yp 0QxH
 No
 No
-HR 68 E 2660
 Yes Bad 0663
 No
-AR 32 UM 1120
 Yes Bad 3695
 No
 No
 No
-KA 67 MJB 5596
 Yes Bad 6145
-TR 88 V 7306
 Yes Bad 0316
 No
-j2 Zq yh-k i2HK
 No
-WB 09 H 5658
 Yes Good
-MN 07 L 9383
 Yes Bad 2786
 No
-MZ 00 SN 8551
 No
 No
 No
 No
-AP 36 CK 0465
 Yes Bad 2666
 No
-3Q H2 rq VkxE
 No
 No
 No
 No
 No
-Ug rj Z3-u kd90
 No
 No
-LA 71 A 0787
 Yes Good
 No
 No
-nq 7z  fMxC
 No
-RJ 73  4569
 Yes Bad 4509
 No
 No
@@ -3121,27 +2239,19 @@ No
 No
 No
 No
-GJ 42 HBQ 3623
 Yes Bad 3766
-7x rt Z RdHy
 No
 No
 No
 No
-ML 92  8248
 Yes Good
-AR 08 QE 5350
 Yes Bad 5951
 No
-hL KR  ftDu
 No
 No
 No
-Da Gs f Q3nE
 No
-S7 Db L J1nB
 No
-TR 39 SE 5757
 Yes Bad 5708
 No
 No
@@ -3149,197 +2259,136 @@ No
 No
 No
 No
-MN 89 Q 4037
 Yes Bad 4361
 No
 No
-TS 25 U 7828
 Yes Bad 7850
 No
 No
 No
-PD S6 vm LgBJ
 No
 No
-CG 00 S 9115
 No
-BR 81  6399
 Yes Bad 6546
 No
-JK 12 OR 2732
 Yes Good
 No
 No
 No
 No
-WB 60 BEQ 2879
 Yes Bad 9959
-MN 49 EO 0966
 Yes Bad 0568
-9Q 3l APJ 44Cu
 No
-UK 65  4201
 Yes Good
-rG iC  NPrj
 No
 No
 No
-R1 wJ pT rvwh
 No
-LA 83  6216
 Yes Bad 0226
-MZ 47  9822
 Yes Bad 1825
-UP 26 U 9974
 Yes Good
-WB 79  8168
 Yes Bad 2898
 No
 No
-OD 31  7909
 Yes Bad 1875
 No
 No
-JK 46 V 9738
 Yes Bad 2448
 No
-TN 67  9784
 Yes Bad 4784
 No
 No
-Sl 0k D4K GKvH
 No
 No
 No
-UP 06  0909
 Yes Bad 7960
 No
-Kw QN  W0Sb
 No
 No
-9- tD BW3O hA1h
 No
-GA 56 FR 2120
 Yes Good
 No
-AP 24 FAB 4826
 Yes Good
 No
 No
-LD 36 GF 0051
 Yes Good
-LD 57 M 9581
 Yes Bad 2194
 No
 No
 No
 No
-EK Rf 5Ua LXpt
 No
 No
 No
-KA 67  9008
 Yes Good
-JH 09 RJ 5518
 Yes Good
 No
 No
 No
-PB 53 QP 3731
 Yes Bad 8734
-MH 35  0554
 Yes Bad 2505
 No
-in Rr Pjw Q6r2
 No
-LA 64  2245
 Yes Good
 No
-pH yu NjU zEgr
 No
-LD 78 U 6392
 Yes Bad 8353
-Dp f2  qLFe
 No
 No
-5x 1z N8eg qiy-
 No
 No
-TN 24 G 8472
 Yes Bad 9472
 No
-JK 56 BJJ 3344
 Yes Bad 4844
-KL 12  8351
 Yes Bad 8582
 No
 No
-AP 39 VTJ 1896
 Yes Good
 No
 No
-MH 54 HO 0356
 Yes Bad 1576
 No
 No
-RJ 91  5789
 Yes Bad 5886
 No
 No
-AP 41 QC 1895
 Yes Bad 4808
-KA 81  9349
 Yes Bad 9509
-JH 43  7619
 Yes Good
 No
 No
 No
-PB 68 XXR 2329
 Yes Bad 7443
-UP 89 HR 5980
 Yes Bad 0086
 No
-7k qX 7 Kh2X
 No
 No
 No
 No
 No
-GJ 87  8217
 Yes Bad 5438
 No
 No
 No
 No
-c3 AF b HM1R
-No
-2L Te 7 k58s
 No
 No
 No
-8x RF  cpCP
 No
 No
-UP 66 H 6648
+No
 Yes Good
-AN 29 RZB 3388
 Yes Good
 No
 No
 No
 No
-AS 16  5581
 Yes Good
 No
-KA 03  0040
 Yes Bad 3069
-lb 9t  t4gW
 No
 No
-LD 95 H 6460
 Yes Bad 6965
-dz wD tip VAK2
 No
 No
 No
@@ -3352,95 +2401,70 @@ No
 No
 No
 No
-WB 69 YN 6514
 Yes Bad 9254
 No
 No
-HR 77  9247
 Yes Good
-UK 98 Z 2631
 Yes Bad 5938
 No
 No
 No
 No
 No
-GJ 40 XVH 7975
 Yes Bad 7377
 No
 No
 No
-LD 98 C 4483
 Yes Bad 6483
 No
 No
-SK 10  0515
 Yes Good
 No
 No
 No
 No
-LD 17  7463
 Yes Bad 1403
-Z2 Io  n5EF
 No
 No
-AS 02 ZTF 2810
 Yes Bad 9498
 No
 No
 No
 No
-MN 71 F 1048
 Yes Bad 4078
 No
 No
-LD 78 Y 4703
 Yes Bad 4024
 No
-X6 H0 nz 9Y7i
 No
 No
 No
-UT 92 9M RmnP
 No
 No
-MH 66 SFM 3706
 Yes Bad 8710
 No
 No
 No
 No
-HP 57 Q 3341
 Yes Good
-FA To G33 FmOn
 No
 No
 No
-WB 47 S 9405
 Yes Bad 9466
 No
-PY 58 MZZ 6925
 Yes Good
-LA 74  5542
 Yes Bad 6538
-TN 04 MC 1959
 Yes Good
 No
 No
-PB 27 F 7492
 Yes Good
 No
-mR 6M QA 9f3a
 No
 No
 No
-CG 99 WQ 6538
 No
-KL 08  9873
 Yes Good
 No
-CH 80  5799
 Yes Bad 7909
 No
 No
@@ -3452,38 +2476,26 @@ No
 No
 No
 No
-LA 67 QZU 2583
 Yes Bad 6796
-CH 22 IR 5754
 Yes Good
-NL 39 YAK 2235
 Yes Bad 4630
 No
-Sj jV OpX JZgW
-No
-No
-4P 9g f4o URJu
 No
 No
 No
 No
-MN 71 BHW 3286
+No
+No
 Yes Good
-UB NX mUM 81QC
 No
-MH 58 B 0212
 Yes Bad 2912
 No
-sA Ye 1 8BDs
-No
-pP 5Z qv 0aEK
-No
-No
-EF M3 s17 wxf1
 No
 No
 No
-OD 61  3737
+No
+No
+No
 Yes Good
 No
 No
@@ -3492,48 +2504,35 @@ No
 No
 No
 No
-Pq a9 dTd ZozO
 No
 No
 No
-l7 S1 U-pf 3SqE
 No
 No
-TN 56 EZV 7912
 Yes Bad 9926
 No
 No
 No
-DD 90  9807
 Yes Bad 2712
-A- XV 3 nrPn
 No
 No
 No
-PY 29 LJI 1273
 Yes Bad 9379
-4G BL E OEZi
 No
-MH 16 F 0957
 Yes Bad 0997
 No
 No
 No
 No
 No
-HR 82 PQ 7871
 Yes Good
 No
 No
 No
 No
 No
-ML 54 I 3300
 Yes Bad 3470
 No
-yd ok 7 EqWc
-No
-Gg IE KM0 n9Ji
 No
 No
 No
@@ -3545,89 +2544,64 @@ No
 No
 No
 No
-Tn Rf Wc LFQ1
 No
 No
-DL 85  9260
+No
 Yes Good
 No
 No
-BR 43 MJN 3204
 Yes Good
 No
 No
-cA Ei S 4LO8
 No
 No
 No
 No
 No
-AN 56 GB 8385
 Yes Bad 4585
 No
-GJ 91 A 2130
 Yes Bad 7837
 No
-TN 44 JVE 5182
 Yes Bad 8853
-LA 03 Q 6578
 Yes Good
 No
 No
 No
 No
-yb f2 c cv3i
 No
-JK 79 QS 9484
 Yes Bad 1284
-HP 06 ZPR 4277
 Yes Bad 2572
 No
 No
 No
-CG 63 N 5440
 Yes Bad 5572
 No
 No
 No
-LA 63 I 8647
 Yes Bad 4518
-CH 23 QJP 7290
 Yes Bad 3732
 No
-GJ 98  5992
 Yes Bad 7595
-TS 36  0197
 Yes Good
 No
-KA 57  4941
 Yes Bad 0088
 No
-MZ 25  3188
 Yes Bad 3988
-AS 75 OE 9791
 Yes Good
-AS 68 U 5307
 Yes Bad 5325
-CH 66 CVL 3254
 Yes Good
 No
-MN 93  3202
 Yes Bad 9755
-UK 82 L 3446
 Yes Good
 No
 No
-tp mX n1 2xWw
 No
-MN 30 PJL 6530
 Yes Bad 2833
 No
 No
 No
 No
 No
-TS 60 FPO 9051
 Yes Bad 9695
 No
 No
@@ -3636,20 +2610,15 @@ No
 No
 No
 No
-PB 46 KSS 9910
 Yes Good
 No
-HR 21 M 4946
 Yes Bad 8686
 No
-TS 29  6840
 Yes Bad 6945
 No
 No
-ML 08 QHC 1258
 Yes Bad 9485
 No
-MH 25 H 5229
 Yes Bad 5399
 No
 No
@@ -3659,7 +2628,6 @@ No
 No
 No
 No
-Uq Ju lWI 5Xy-
 No
 No
 No
@@ -3667,125 +2635,87 @@ No
 No
 No
 No
-UK 55 YOV 5008
 Yes Bad 7377
 No
 No
-KL 84 LV 1611
 Yes Bad 9755
 No
-NL 44 FLK 7148
 Yes Good
 No
-UP 26  7146
 Yes Good
 No
 No
-PY 97 FAN 2816
 Yes Bad 5869
-ML 35 HBM 4022
 Yes Bad 5133
-MH 37 X 1896
 Yes Bad 9926
-KL 04 ITA 3616
 Yes Good
 No
 No
-OD 44 B 6852
 Yes Good
-Yb H7 TgR nEVH
 No
 No
 No
-AS 48  6171
 Yes Bad 1271
 No
 No
 No
-WB 28 K 9750
 Yes Bad 8885
-PB 80 SH 2443
 Yes Bad 4843
 No
 No
-Hy 0K U5T0 -h9F
 No
-LA 17 AX 5954
 Yes Bad 5053
 No
 No
-PB 54 SNA 3847
 Yes Bad 9347
 No
-AR 76 G 3983
 Yes Bad 8984
 No
 No
-AR 10 TFI 8646
 Yes Good
-LA 73 HY 0933
 Yes Bad 3943
 No
 No
-vy Qg  y0Yo
 No
 No
 No
-DD 33 AG 1514
 Yes Bad 3996
 No
 No
-ZR ry 5JB 2YUD
 No
 No
 No
-TS 37  6866
 Yes Bad 5923
 No
-j6 j1 s eucF
-No
-hQ Q1 w Pimf
 No
 No
 No
 No
 No
-MZ 77 L 3291
+No
 Yes Bad 3344
 No
-OQ i3 8 khSi
 No
 No
 No
-LA 58 UWY 9655
 Yes Good
-XJ Tp  sAgt
 No
 No
 No
-HR 81 NU 2449
 Yes Bad 5781
-PY 58 BHY 3375
 Yes Bad 5976
 No
 No
-MN 55 P 2938
 Yes Bad 2930
-ML 32 P 1167
 Yes Bad 4167
 No
-TN 08 RL 7004
 Yes Bad 9907
 No
-im 7J o Rrxb
 No
-Fh SF  LOmf
 No
-GJ 30  1343
 Yes Bad 1549
 No
 No
-UK 18 UN 6265
 Yes Bad 6919
 No
 No
@@ -3793,17 +2723,8 @@ No
 No
 No
 No
-DL Th h LB9E
 No
-PY 56  3436
 Yes Bad 4438
-cH Bw  i57W
-No
-No
-No
-No
-No
-Ga S1 U f-ry
 No
 No
 No
@@ -3821,10 +2742,13 @@ No
 No
 No
 No
-JH 54  9074
+No
+No
+No
+No
+No
 Yes Good
 No
-LA 81 C 5591
 Yes Good
 No
 No
@@ -3833,54 +2757,40 @@ No
 No
 No
 No
-Y8 Uf EZR SBdM
 No
-LA 57 OYL 1554
 Yes Good
 No
-YN a4 W YYm0
 No
-MP 56  8852
 Yes Good
 No
-KA 29 CZ 0420
 Yes Bad 4484
-AR 44  5393
 Yes Bad 5366
 No
 No
 No
 No
 No
-MP 83  8492
 Yes Bad 8426
 No
 No
 No
 No
-AS 14 HE 7880
 Yes Bad 4872
 No
-sz oi C b-Fr
 No
-OD 94 SO 8911
 Yes Good
 No
 No
 No
-MZ 59  2350
 Yes Bad 9853
 No
-UP 37 XA 8755
 Yes Good
 No
 No
 No
-TR 29 HUR 7796
 Yes Bad 7798
 No
 No
-UP 51 HG 4252
 Yes Good
 No
 No
@@ -3890,23 +2800,18 @@ No
 No
 No
 No
-TR 60 M 6047
 Yes Bad 9447
 No
 No
-KL 63 P 4310
 Yes Good
 No
-JH 91 AAW 8978
 Yes Bad 8972
 No
-JH 10 NIG 8544
 Yes Good
 No
 No
 No
 No
-DD 10 I 3244
 Yes Bad 5444
 No
 No
@@ -3918,9 +2823,7 @@ No
 No
 No
 No
-MP 66 X 5070
 Yes Bad 9778
-hr iY Pw qlOH
 No
 No
 No
@@ -3931,89 +2834,64 @@ No
 No
 No
 No
--P Bd RqE 7QQh
 No
 No
 No
-KA 17 OR 5043
 Yes Good
 No
 No
-MH 03  6870
 Yes Bad 6831
 No
-CG 65  7515
 Yes Good
 No
 No
-Q8 to tu k5T9
 No
 No
 No
 No
-GJ 68  4528
 Yes Bad 5073
-AR 89  3684
 Yes Bad 3619
 No
 No
-UK 79  6428
 Yes Bad 3668
-PB 16 M 1067
 Yes Bad 9985
-NL 04 MDF 5972
 Yes Bad 9872
 No
-Os 8b  1vvo
 No
-PY 78 T 2808
-Yes Good
-No
-ku Ue u VoDf
-No
-No
-No
-UP 00 IK 0152
-No
-DL 64 TM 0727
-Yes Good
-No
-No
-GA 18 VK 4427
 Yes Good
 No
 No
 No
 No
 No
-Ey 2F q0s ZRjj
+Yes Good
 No
-UP 92 P 2873
+No
+Yes Good
+No
+No
+No
+No
+No
+No
 Yes Bad 6897
 No
-LA 17 LD 8185
 Yes Bad 8884
-19 vX N6 DtGN
 No
 No
 No
 No
 No
-LD 08 QLJ 0317
 Yes Bad 3812
-AN 87 YD 4317
 Yes Good
 No
 No
 No
 No
-AR 15  4814
 Yes Good
 No
-ML 70 OM 9817
 Yes Bad 0361
 No
-OD 91  5378
 Yes Bad 5682
 No
 No
@@ -4022,71 +2900,47 @@ No
 No
 No
 No
-CG 29 PQI 4104
 Yes Bad 5650
-TS 09  2288
 Yes Good
-Kq VP a E0EB
 No
-CG 29 SM 9171
 Yes Bad 9583
-BR 95 Y 7715
 Yes Bad 7370
-SK 05 CY 8782
 Yes Good
-GJ 90 VNJ 9613
 Yes Bad 7873
 No
 No
-MZ 68  2668
 Yes Bad 5666
 No
 No
-AR 91 C 3254
 Yes Bad 6754
 No
 No
 No
 No
-AP 46 AE 2793
 Yes Bad 5198
 No
-5O Oj Ibi U96A
 No
-ML 53 HT 6865
 Yes Bad 8974
 No
 No
 No
 No
 No
-OD 16 FX 4156
 Yes Bad 9756
 No
 No
-RJ 90 CH 0259
 Yes Bad 0659
 No
 No
 No
-cC rX D Bk4u
 No
-GA 95  7413
 Yes Bad 8458
 No
 No
-RJ 30 IMB 1693
 Yes Bad 4653
 No
-BR 63 K 6457
 Yes Bad 6758
-KA 47 WZH 5356
 Yes Bad 3559
-vl Zt m DgiU
-No
-No
-No
-DH f5 fs K-lZ
 No
 No
 No
@@ -4099,26 +2953,23 @@ No
 No
 No
 No
-JK 86 K 2075
+No
+No
+No
 Yes Bad 4597
 No
-CG 73  6590
 Yes Bad 6850
 No
 No
 No
 No
-uV U9 OL ahop
 No
-TR 53 IB 6035
 Yes Bad 6281
 No
 No
 No
-LD 65 JXK 0214
 Yes Bad 9646
 No
-SK 58  5901
 Yes Good
 No
 No
@@ -4126,99 +2977,70 @@ No
 No
 No
 No
-1a 2q Z0g 1kQb
 No
 No
-iQ oK  sWJv
 No
-LD 70 J 8660
 Yes Bad 8141
 No
 No
-DD 43  1872
 Yes Bad 3232
-l3 h6 pT FkIs
 No
-LA 75 BX 8941
 Yes Good
-3a rk van xe5T
 No
 No
-AS 04  3056
 Yes Bad 3717
-HD h5  PtKf
-No
-No
-K8 0H D7M 56dk
 No
 No
 No
-5k RF  8WAD
-No
-ZG So 8Hc nugo
 No
 No
 No
-MP 45  4775
+No
+No
+No
 Yes Bad 6775
 No
 No
 No
-f- qK vAZc X3dI
 No
 No
 No
 No
-lj HE f cbxO
 No
-CG 01 N 3210
 Yes Bad 9438
 No
 No
 No
 No
-LA 36  0109
 Yes Bad 8624
 No
 No
-mG wM  pBLV
 No
 No
 No
 No
-LD 15 Z 1015
 Yes Bad 2526
-CH 08  5092
 Yes Bad 8196
 No
-8I Ux 6 MQuM
 No
 No
-BR 65 KD 2974
 Yes Bad 2870
 No
-GJ 36 FFF 0808
 Yes Bad 3678
-NL 18  2675
 Yes Bad 2676
-AS 00 DH 2884
 No
 No
 No
 No
-AR 52 UL 8305
 Yes Bad 1875
 No
 No
 No
 No
 No
-HR 39 M 6258
 Yes Bad 9854
 No
-7N EF  bXXb
 No
-TS 32  3564
 Yes Good
 No
 No
@@ -4226,88 +3048,54 @@ No
 No
 No
 No
-GA 54  0445
 Yes Good
-RJ 45 AJA 7717
 Yes Bad 2137
-AS 33 CPG 7759
 Yes Bad 1875
-LA 12  5346
 Yes Good
 No
 No
 No
-MN 98  2772
 Yes Good
-CN Mx bx Wr7g
 No
 No
 No
 No
 No
 No
-CG 84 YC 4892
 Yes Bad 9992
-TR 41 AI 4443
 Yes Bad 4448
 No
 No
 No
-JH 38  4664
 Yes Bad 9674
 No
-JH 66 ATS 0286
 Yes Bad 9788
-TN 75 WV 4676
 Yes Bad 5676
-MZ 68 LO 8710
 Yes Bad 2744
-JK 98 RFF 7898
 Yes Bad 4816
-lc nb  ZaJZ
 No
-LD 79  5965
 Yes Bad 9095
 No
 No
-AP 69 UA 1834
 Yes Good
 No
 No
 No
-Ug o- 0l8 LagM
 No
 No
 No
-PY 19 O 9756
 Yes Good
-MZ 00 UK 4691
 No
 No
-ML 77 ZKF 0255
 Yes Bad 0655
-MP 05 WIQ 3201
 Yes Bad 8947
 No
 No
 No
-RJ 49 Q 4196
 Yes Bad 8196
 No
 No
-WB 37 IQV 2692
 Yes Good
-BR 00 HX 8458
-No
-No
-No
-No
-Sn cr  1Etp
-No
-No
-No
-No
--R fP 5X AfvE
 No
 No
 No
@@ -4322,11 +3110,15 @@ No
 No
 No
 No
-AP 93  3939
+No
+No
+No
+No
+No
+No
+No
+No
 Yes Bad 4937
-ro 7X D UCpx
-No
-xI I5 a EsbN
 No
 No
 No
@@ -4338,65 +3130,48 @@ No
 No
 No
 No
-RJ 18 FL 7317
+No
 Yes Good
 No
-CG 62 GI 8335
 Yes Bad 2465
-AN 23 IE 1156
 Yes Bad 1357
 No
-TN 61 N 1955
 Yes Good
 No
-AN 56 F 8306
 Yes Bad 8826
-gD Hz  TXIB
-No
-Fu N0  TsLc
 No
 No
 No
-AP 24 B 3569
+No
 Yes Good
-CG 50 CP 2521
 Yes Bad 3859
 No
 No
 No
 No
-Vu 5X AYd r-0q
 No
 No
 No
 No
-CH 83 ZLF 7575
 Yes Bad 7698
 No
-zT wp A Eqnf
 No
 No
 No
 No
-JK 56 EI 7474
 Yes Bad 0675
 No
-Y4 F9 51E vPzB
 No
 No
-TN 97 DRL 6946
 Yes Bad 1743
 No
-AS 94 E 0055
 Yes Bad 8055
-SK 59 EEP 6542
 Yes Good
 No
 No
 No
 No
 No
-NL 78 Y 9975
 Yes Good
 No
 No
@@ -4405,207 +3180,135 @@ No
 No
 No
 No
-AS 11  4526
 Yes Bad 5536
 No
-MP 58 BC 4792
 Yes Bad 0408
 No
 No
 No
-MN 60 M 9904
 Yes Bad 9990
-UP 61  2802
 Yes Good
-DL 41 FJK 7134
 Yes Bad 7437
-GP Yq  gKaN
 No
-DL 12  4495
 Yes Bad 8645
 No
 No
-MH 54 VD 3530
 Yes Bad 6595
 No
-x- NP xF eFvl
 No
-AP 84 NQO 1033
 Yes Bad 5438
 No
 No
 No
 No
 No
-SK 06 JT 5855
 Yes Bad 9852
-TN 32 GG 2852
 Yes Good
-y6 sq Z 1eTV
 No
 No
-0B Rr  ERaW
-No
-GT ic ukB Zk6I
 No
 No
-PB 11 TC 1216
+No
 Yes Good
-AS 50 FSO 4427
 Yes Bad 6691
 No
 No
 No
 No
-AP 28 LZ 2700
 Yes Good
-MZ 82 QOE 8102
 Yes Good
-BR 84 Y 0102
 Yes Bad 4363
-MN 10 FJA 6358
 Yes Good
 No
 No
-MZ 09 E 0625
 Yes Bad 9778
-MH 15 ERK 6583
 Yes Bad 6538
 No
-zQ tj Pa BdJ-
-No
-No
-0X u- g 5zne
 No
 No
 No
 No
-TN 62 PJV 5376
+No
+No
 Yes Bad 0786
-UK 23 G 9693
 Yes Good
-MP 50 U 8440
 Yes Bad 8757
 No
-vA I5 T cOJZ
 No
-NL 42 OJ 9065
 Yes Bad 7166
 No
 No
 No
-AR 94 JJF 8059
 Yes Bad 0353
 No
-ZC Pf WA iF6p
 No
 No
 No
 No
-ON qZ Q BXQH
 No
 No
 No
-TR 50 AN 3589
 Yes Bad 3833
-ML 13 F 1161
 Yes Good
 No
-DL 64 FLQ 1814
 Yes Bad 7814
 No
 No
 No
 No
-N8 Wc Aw WECR
 No
 No
-WB 93 C 8857
 Yes Bad 8067
 No
 No
 No
-AS 54  3166
 Yes Bad 3369
-KL 77 UYX 8750
 Yes Bad 1261
-CG 44 P 0164
 Yes Bad 8167
-fr b1  mAOK
 No
-JK 31 W 1332
 Yes Bad 3538
-VW or Ee U2xH
 No
-MZ 81 L 5883
 Yes Bad 5893
-3Y aK t 6YrT
 No
 No
-TN 11 N 6058
 Yes Bad 6361
 No
 No
 No
 No
-CG 83 TEO 5821
 Yes Bad 5291
-TN 78 TCR 5020
 Yes Bad 5196
 No
-OD 14 MEJ 8302
 Yes Good
 No
-KA 86 GBN 2260
 Yes Bad 5264
 No
 No
-UP 10  7506
 Yes Good
-N2 U9 KF 7K6L
 No
-NL 43 P 7118
 Yes Good
-BR 73  5018
 Yes Bad 1469
-AP 05 V 1927
 Yes Bad 2467
 No
 No
 No
 No
 No
-AS 88 SI 7912
 Yes Bad 4705
-zS 7j  DTB5
 No
-SJ mo i 1TBf
 No
-CG 26 CY 4943
 Yes Bad 2348
 No
 No
-DD 04 SMA 0296
 Yes Bad 7686
-MN 98 KC 7893
 Yes Bad 5993
 No
-UP 09  2617
 Yes Bad 4980
 No
-OD 72 I 1056
 Yes Good
 No
 No
-SK 81 LE 2476
 Yes Bad 3496
-tn Q- R HEGS
-No
-No
-n5 Xa T mv75
-No
-No
-Ln bs YnX 3Dgo
 No
 No
 No
@@ -4614,220 +3317,158 @@ No
 No
 No
 No
-OD 48 FES 0016
+No
+No
+No
+No
 Yes Bad 4446
 No
 No
 No
-UK 30 DXO 1582
 Yes Bad 9579
-RJ 20 GI 0244
 Yes Bad 6484
 No
 No
-TR 32 N 0849
 Yes Bad 0867
-5S 2n 6p Urhr
 No
-LD 97 HY 0189
 Yes Good
 No
 No
-AP 25 BW 7901
 Yes Bad 7371
-MZ 11 CUK 3206
 Yes Good
-KA 90 LFR 7449
 Yes Good
 No
 No
 No
 No
 No
-AR 13 P 9063
 Yes Good
-MN 53  6398
 Yes Good
 No
 No
-BR 00 BPE 0053
 No
 No
 No
 No
 No
-UP 21 L 0355
 Yes Good
-AR 95  2599
 Yes Good
-AS 82 RJM 4038
 Yes Bad 1534
-vT SW RMh x8Fv
 No
 No
 No
 No
 No
-AS 52 ROH 4412
 Yes Bad 9812
-AP 41 V 2296
 Yes Bad 8856
-TR 56  6514
 Yes Good
 No
 No
-KA 93 MF 1225
 Yes Bad 6285
-BR 18 EK 7457
 Yes Bad 7463
-HP 23 QRO 6778
 Yes Good
 No
 No
-UP 42  6316
 Yes Bad 6596
 No
 No
-cN 5l W Nhn-
 No
-5X Lh zC0 CAKq
 No
-BR 96 O 4183
 Yes Bad 8655
-PY 36  7300
 Yes Bad 0518
 No
-13 eS IL3 HLxp
 No
-JH 42  5164
 Yes Good
 No
 No
 No
 No
-9I CL g kIWO
 No
-I0 WM GZx xJJj
 No
-AP 74 XY 2397
 Yes Good
-OD 22 WLM 5615
 Yes Good
 No
 No
 No
-MZ 14 O 6730
 Yes Good
 No
-LD 15  7301
 Yes Bad 7543
 No
 No
-BR 44  9120
 Yes Bad 8647
 No
 No
-Sm xi C yGsZ
-No
-No
-ic D9 wc-I PUT6
 No
 No
 No
 No
 No
 No
-FL oC a TTMg
 No
-RJ 11  0258
+No
+No
 Yes Bad 3254
-il N6  9Qt9
-No
-up nz jfU JMLd
 No
 No
-PY 61  9534
+No
 Yes Good
-AR 12  1040
 Yes Bad 5727
 No
 No
 No
-MN 01 UC 4884
 Yes Bad 9984
 No
-pR i- DyV y7BS
-No
-No
-CG 99  4817
 No
 No
 No
 No
-MH 96 LRG 3695
+No
+No
 Yes Good
 No
 No
-MN 82 GJ 8795
 Yes Bad 8455
 No
 No
-x4 H6 P8 lTgF
 No
 No
 No
-NL 38  4847
 Yes Bad 6281
-NL 00 YE 7247
 No
 No
 No
-CH 36 FPD 2651
 Yes Good
 No
 No
-OD 09  9264
 Yes Good
-BR 26 CZJ 1220
 Yes Good
 No
 No
 No
 No
-TN 05 G 6567
 Yes Good
 No
-Eo 7s A8 8n2T
 No
-LA 24 OJ 2072
 Yes Bad 4933
 No
 No
 No
-UK 70 BJQ 8145
 Yes Good
-CH 03 V 9475
 Yes Bad 4275
 No
-RJ 81 TXO 2976
 Yes Bad 5776
 No
 No
-MZ 79 G 8469
 Yes Bad 8809
 No
 No
 No
 No
-PB 89 S 9923
 Yes Bad 6952
 No
 No
-PB 51  4827
 Yes Bad 6178
-UK 68 WPA 4417
 Yes Bad 4932
-DL 66  2599
 Yes Good
 No
 No
@@ -4836,95 +3477,67 @@ No
 No
 No
 No
-Qb pu K8G fi7J
 No
 No
-AP 82 XYT 0788
 Yes Good
 No
-AN 49 MNW 1757
 Yes Bad 9787
-v2 wR f gKTZ
 No
-hd Zk b4yN Xc-R
 No
-HR 02 B 0386
 Yes Bad 8396
 No
-WB 60 ELG 3408
-Yes Good
-No
-Ry XA V2i FRr3
-No
-TV ZT  MCm3
-No
-KL 41 NI 8475
-Yes Good
-No
-No
-9N pg r VUt8
-No
-yj mh e 3-ZI
-No
-No
-No
-No
-No
-No
-LA 15 O 2050
-Yes Good
-ML 01 FRU 9981
 Yes Good
 No
 No
 No
-xO A6 Np RPQY
+Yes Good
 No
-HP 38  2848
+No
+No
+No
+No
+No
+No
+No
+No
+Yes Good
+Yes Good
+No
+No
+No
+No
 Yes Bad 5243
 No
-GA 54 CG 3883
 Yes Good
-NL 25 XUW 9054
 Yes Good
 No
 No
 No
-CG 62 SFM 6459
 Yes Bad 9052
-WB 68  0103
 Yes Bad 3175
 No
-UK 74 XJ 5066
 Yes Bad 5216
 No
-di yN 3q M41C
-No
-No
-No
-TR 00 FCV 5333
 No
 No
 No
 No
 No
-LA 92 E 3623
+No
+No
+No
 Yes Good
 No
 No
 No
-J8 cH g 3Hb8
 No
 No
-CG 77 ZE 1467
 Yes Good
 No
 No
-CG 50 B 8826
 Yes Bad 8856
 No
 No
-PB 63 NQ 0719
 Yes Bad 5719
 No
 No
@@ -4932,91 +3545,65 @@ No
 No
 No
 No
-Z4 8C fG yfyR
 No
 No
 No
 No
 No
-PY 26 MOO 4769
 Yes Bad 9711
 No
 No
 No
 No
 No
-MN 19 S 2734
 Yes Good
 No
-MN 19 E 7928
 Yes Bad 4524
-JK 37  7955
 Yes Bad 8528
-KL 78 KN 4123
 Yes Bad 6706
 No
-XJ 7I qK EJP7
 No
 No
 No
 No
 No
 No
-UP 57 YA 5655
 Yes Bad 5355
 No
 No
-TR 06  8320
 Yes Bad 8395
 No
 No
 No
-CG 53  5621
 Yes Bad 5139
 No
 No
 No
-LA 01  0679
 Yes Bad 9633
 No
-BR 60 ZW 5330
 Yes Bad 5795
-LA 14  8338
 Yes Good
-TR 24  7229
 Yes Bad 7255
-MZ 68 VZ 0773
 Yes Bad 5177
-TN 45  3291
 Yes Bad 3497
-Xa 1q  xiqu
-No
-No
-SK 00 AQ 5727
 No
 No
 No
-TR 47 X 9892
+No
+No
 Yes Bad 7332
-MZ 37  0757
 Yes Bad 8779
 No
 No
-KL 83 K 2117
 Yes Good
-LD 72  1931
 Yes Bad 3992
 No
 No
 No
-MP 28 V 0630
 Yes Bad 1645
-o4 Es yOn d7BY
 No
 No
-HR 67 YO 4609
 Yes Bad 4692
-TR 35 G 6635
 Yes Bad 6865
 No
 No
@@ -5029,36 +3616,27 @@ No
 No
 No
 No
-TR 78  9075
 Yes Good
 No
 No
 No
 No
-JF HI v bBQV
 No
 No
 No
 No
 No
 No
-OD 20 FUF 7976
 Yes Bad 3079
 No
 No
-Fk 31 itz k3MC
 No
 No
-TR 95  4643
 Yes Bad 4717
 No
-NL 22 ZD 7063
 Yes Bad 0166
-SK 53 J 1485
 Yes Good
-hQ 1S byB 9rDu
 No
-TR 49  9454
 Yes Bad 9298
 No
 No
@@ -5067,18 +3645,14 @@ No
 No
 No
 No
-PB 21 G 0036
 Yes Bad 6236
-Y2 qm yVk 2SMo
 No
 No
 No
 No
 No
 No
-AP 29 ONG 6890
 Yes Good
-EW rX TEZ- 0-zW
 No
 No
 No
@@ -5086,41 +3660,27 @@ No
 No
 No
 No
-BR 07  9685
 Yes Bad 9719
 No
 No
-LA 54  3966
 Yes Bad 6666
 No
 No
 No
 No
-Gi s6 UGi pha2
 No
-MP 25 OS 6394
 Yes Bad 6597
 No
-fD pu IO IVXW
 No
-KL 84  3170
 Yes Bad 7679
-AS 52  0052
 Yes Bad 6355
-UK 67  5941
 Yes Bad 5597
-TN 03  5923
 Yes Bad 5483
-gQ Dz IS Maod
 No
 No
-LA 02 PLK 0499
 Yes Bad 9485
-CH 76 RSL 9937
 Yes Bad 8979
-MN 69 CIU 3193
 Yes Bad 7663
-JK 87 FP 5503
 Yes Good
 No
 No
@@ -5128,378 +3688,267 @@ No
 No
 No
 No
-MH 79 JBR 7193
 Yes Good
-TR 33 LGO 6628
 Yes Bad 3648
-AP 76 PB 5276
 Yes Bad 9276
-MP 57  1183
 Yes Bad 8823
 No
 No
-MP 03 UO 9597
 Yes Bad 3533
 No
 No
 No
-3g Ss Rd bvp0
 No
-AR 18  7192
 Yes Bad 0987
 No
 No
-RJ 89 HEJ 4918
 Yes Bad 4385
-5a Uc pCm kAbK
 No
 No
-3t 2b H-U ArXD
 No
-GJ 95 JNW 9055
 Yes Bad 9625
-AP 88 THO 1407
 Yes Bad 9497
 No
 No
-JH 71 IIM 4578
 Yes Bad 4633
 No
 No
 No
-ML 88 IXQ 6361
 Yes Good
 No
 No
-UP 83  1412
 Yes Good
-LA 41 C 9736
 Yes Bad 4836
 No
 No
-ML 72 HC 3691
 Yes Good
 No
 No
 No
 No
-QV qs  Jyqy
-No
-No
-No
-DZ 8e VGk kf5-
 No
 No
 No
 No
-AS 59 IK 9740
+No
+No
+No
 Yes Bad 8843
 No
 No
 No
-OD 57 TJ 5653
 Yes Bad 9183
 No
 No
 No
 No
-AS 69 R 7842
 Yes Bad 8076
 No
 No
 No
-AS 43  3519
 Yes Bad 3058
-JK 99  5932
 No
 No
 No
 No
-Oy nn zG BW-K
 No
 No
 No
-AR 33 B 1426
 Yes Bad 5878
 No
-TS 17 BO 2358
 Yes Bad 2351
 No
 No
-GD Gj v3 NDUP
 No
 No
-AS 24 PT 6034
 Yes Bad 7159
 No
-LA 61  8722
 Yes Bad 4728
 No
-MZ 81 NG 7371
 Yes Good
 No
 No
 No
 No
-TT wg 2cL B8QY
 No
 No
-MP 69  1710
 Yes Bad 8740
 No
-ML 80 KW 0879
 Yes Bad 3801
 No
-OD 47 Q 2665
 Yes Good
-HP 13  2920
 Yes Good
 No
-MZ 79  4175
 Yes Good
-ML 43  3378
 Yes Good
-PY 24 YCG 8817
 Yes Bad 4937
 No
-TN 30 N 0539
 Yes Bad 3539
-UK 67 N 8296
 Yes Bad 7699
 No
 No
-BR 69 M 6160
 Yes Bad 1225
-HR 23 FM 1126
 Yes Good
-AS 47  3075
 Yes Good
 No
 No
-NL 50 N 5365
 Yes Bad 5366
-BW c5 t 6KJJ
 No
 No
 No
 No
 No
 No
-NL 48 UE 7354
 Yes Bad 8355
 No
 No
-SK 60 O 9046
 Yes Good
-TR 88 ODD 8939
 Yes Bad 5650
 No
 No
 No
 No
 No
-AS 07 EVD 5900
 Yes Bad 5330
 No
-KA 05 S 1444
 Yes Bad 7944
 No
 No
 No
 No
-LA 75 CG 4601
 Yes Bad 9795
 No
-LA 41 ELR 9937
 Yes Bad 4784
 No
-KA 66 CR 4356
 Yes Bad 4308
-MZ 53 VL 7831
 Yes Bad 1141
-NL 76 ZP 7995
 Yes Good
 No
 No
-KL 45 LUZ 1073
 Yes Bad 3404
-TN 03 MRB 3803
 Yes Bad 5416
 No
 No
-Bk GI K cUer
 No
-TN 38 CH 4501
 Yes Bad 6147
-hz Gt i Tfnb
 No
 No
 No
 No
 No
-HP 39  9160
 Yes Good
-RJ 89  8219
 Yes Bad 4219
-AS 74  5226
 Yes Good
-PY 98 PI 4619
 Yes Good
 No
 No
-MZ 15 Z 4309
 Yes Bad 4639
-PY 60 FXL 8253
 Yes Bad 8273
-MZ 09 TA 4805
 Yes Bad 7445
-KL 41 YTM 7161
 Yes Good
 No
 No
 No
-PB 86 F 7449
 Yes Good
 No
 No
 No
-r5 H3 t7A HG1d
 No
-LA 06  7545
 Yes Bad 7775
 No
 No
 No
-ML 71 ZQ 1249
 Yes Bad 5249
 No
-LD 26 FFO 0434
 Yes Bad 0674
-oh zn fB bLGa
 No
-UP 13 TTN 6152
 Yes Bad 6794
-mU hX  NCIn
 No
-JK 13 FW 0330
 Yes Bad 4500
-hC TW n JPOX
 No
-TN 71  5668
 Yes Good
 No
 No
 No
 No
 No
-LA 23 KU 5819
 Yes Bad 5849
 No
-iQ yr  Y4xA
 No
 No
-UU Cs  wuVr
 No
 No
-BR 74  4009
 Yes Good
 No
 No
 No
-AR 17 GC 5588
 Yes Bad 9532
 No
-TR 10  2801
 Yes Bad 9781
 No
-DD 59 E 0805
 Yes Bad 2168
-sx Ub vf Q8yW
 No
 No
-DD 48  2660
 Yes Bad 8566
 No
 No
 No
-D9 jc FZo -Rpc
 No
-Zg W2  8zrR
 No
-PY 82 LO 7315
 Yes Good
 No
 No
-RJ 10 RO 6384
 Yes Good
-SL Ks bOp a3lC
 No
-RJ 29 QV 9002
 Yes Good
 No
 No
 No
-OD 27 OTG 0295
 Yes Bad 2548
 No
 No
 No
-l7 t9 2tB N-qd
 No
 No
-TS 85 QV 7943
-Yes Good
-No
-No
-I3 4N eMT IBmj
-No
-No
-No
-Oy lN hf ayVo
-No
-No
-No
-No
-Oa 2v q 6FMZ
-No
-GA 96 VAW 7768
 Yes Good
 No
 No
 No
-b- lI V lyUa
 No
 No
 No
-D8 NS K8o hAFk
 No
 No
 No
-AS 54 RY 8854
+No
+Yes Good
+No
+No
+No
+No
+No
+No
+No
+No
+No
 Yes Bad 7858
 No
 No
 No
 No
 No
-4Y z6 b NWvI
 No
 No
 No
 No
 No
-dN kj  eEKd
 No
 No
 No
-zh nJ O tnLM
 No
 No
-HP 80 J 7693
 Yes Bad 6757
-MZ 61 ZQB 7269
 Yes Bad 7681
-go Hv y gHEx
 No
 No
 No
@@ -5507,101 +3956,75 @@ No
 No
 No
 No
-MH 13 UEM 8349
 Yes Bad 3348
 No
 No
 No
 No
-PY 18  5375
 Yes Bad 5772
-KL 00 D 3146
 No
 No
 No
-NL 11 PPR 2690
 Yes Bad 2205
-LD 01 E 1862
 Yes Good
-XS Db 59m EeeT
-No
-No
-No
-rd 9W us-M 2PME
 No
 No
 No
 No
-sc W2 NL UG6F
 No
-LA 45 WA 7300
+No
+No
+No
 Yes Bad 0428
 No
 No
 No
 No
 No
-OD 68  6311
 Yes Bad 6317
 No
-rV aA U-O roVF
 No
 No
-PB 81 LP 5006
 Yes Bad 5747
 No
 No
 No
 No
 No
-AP 46 WE 4376
 Yes Bad 5476
-AN 83 EBQ 0463
 Yes Bad 9423
 No
-OD 62 P 3533
 Yes Bad 3587
 No
 No
 No
-Dz Tt rkQ fCNV
 No
 No
 No
 No
 No
-NL 60  0406
 Yes Bad 2616
 No
-PB 64 BS 0219
 Yes Good
 No
 No
 No
 No
 No
-MH 63 ROQ 6521
 Yes Bad 6591
 No
 No
 No
-AK kL EKe M9ow
 No
-JH 29 OQS 4517
 Yes Bad 9098
-YB oD yvO Kgfo
-No
-sq OX 0 CCRp
 No
 No
-HR 78  5809
+No
 Yes Bad 8379
 No
 No
 No
-BR 88 C 5435
 Yes Bad 9557
-KL 90 QT 0772
 Yes Bad 0877
 No
 No
@@ -5612,69 +4035,49 @@ No
 No
 No
 No
-HP 13 TPP 8990
 Yes Bad 8968
-xd Fj  Q1tC
 No
-UK 34 XWB 0077
 Yes Bad 6118
 No
 No
 No
 No
 No
-LA 90 Y 8281
 Yes Bad 2201
 No
 No
 No
-MZ 33 RI 6777
 Yes Good
-A9 wV omo ugwu
 No
-HP 86 O 0858
 Yes Bad 2358
-JK 43  4698
 Yes Bad 6839
-OD 19 BT 8800
 Yes Bad 8320
 No
 No
-GA 68  4067
 Yes Bad 6567
 No
 No
-LD 19 YZK 7804
 Yes Bad 1857
 No
-OG Ef E AKEc
 No
 No
-MH 14 C 7921
 Yes Bad 2186
 No
 No
 No
-TN 30 EI 4437
 Yes Good
-HR 75 DX 2954
 Yes Bad 9954
 No
 No
 No
 No
-JH 37 HP 0951
 Yes Bad 7658
-GJ 66 DKF 0365
 Yes Good
-CV LV  GefM
 No
 No
-PY 39 PF 8304
 Yes Bad 0314
 No
 No
-OD 93 ZCP 6864
 Yes Bad 6764
 No
 No
@@ -5683,26 +4086,19 @@ No
 No
 No
 No
-L4 Jp bR1 eUMT
 No
-NL 86 Q 5705
 Yes Good
 No
 No
 No
-BR 57 HQS 1437
 Yes Bad 1438
 No
-GA 57 VI 4540
 Yes Good
-UJ 7Y 07 CqeB
 No
 No
 No
 No
-AN 28  2504
 Yes Bad 3935
-AS 36  6838
 Yes Bad 2837
 No
 No
@@ -5711,67 +4107,46 @@ No
 No
 No
 No
-HR 84 O 0397
 Yes Bad 4598
-AR 65 F 0669
 Yes Bad 1662
 No
 No
 No
-nT cx U-m N4C5
-No
-jB QI dH4 j9xs
 No
 No
 No
 No
-LD 57 K 6395
+No
 Yes Good
 No
 No
 No
-BR 98 KC 0941
 Yes Bad 7292
 No
 No
-HP 11 A 9176
 Yes Bad 9781
 No
 No
 No
-Pj vl G z52E
 No
 No
-TR 44 EO 6426
 Yes Good
-NL 24 LY 1068
 Yes Bad 2748
-LA 69 TY 1914
 Yes Bad 5579
 No
-HR 86 JGV 7122
 Yes Good
 No
-BR 88 WSD 6718
 Yes Bad 8419
 No
 No
-KL 50 N 4777
 Yes Bad 4278
-OD 89 KO 4899
 Yes Good
-Jz gN 5 xeJy
 No
-HR 29 VPP 5203
 Yes Bad 5013
-TS 56 DQR 8345
 Yes Bad 8995
-AP 59 I 1206
 Yes Bad 3226
 No
-tc he JB psjj
 No
-LA 24 D 6735
 Yes Good
 No
 No
@@ -5779,114 +4154,79 @@ No
 No
 No
 No
-PY 75 TO 6676
 Yes Bad 5306
-BR 27 HOH 4845
 Yes Bad 4892
-MH 88 UB 7491
 Yes Good
-TR 17  4465
 Yes Bad 7765
-RJ 20 VB 4484
 Yes Bad 8444
 No
-DL 80 VS 2261
 Yes Bad 9724
 No
 No
 No
 No
 No
-Vr C3 6 PX-L
 No
-KA 87 X 5482
 Yes Good
-TN 86 ID 2192
 Yes Bad 5337
 No
-NL 33 BSP 6872
 Yes Good
 No
 No
 No
 No
-PB 22  7052
 Yes Good
 No
-OD 31 P 4312
 Yes Bad 3423
 No
 No
-G5 hT A MReP
 No
 No
 No
 No
-MH 77  1554
 Yes Bad 6697
-AS 65 SXY 3336
 Yes Bad 5368
 No
 No
 No
-DL 95  9194
 Yes Bad 1618
 No
-DL 15 J 7940
 Yes Bad 8929
 No
-CH 37 GS 5167
 Yes Bad 6960
 No
-KL 18 M 1981
 Yes Bad 9354
-CH 83  7108
 Yes Bad 0285
-GJ 40 ASI 1977
 Yes Good
-LA 84 S 7591
 Yes Good
 No
-CH 89 TB 3861
 Yes Bad 5161
 No
 No
 No
-UP 65 M 3684
 Yes Bad 3868
-LA 17 N 6868
 Yes Bad 8496
 No
 No
-tf A4 jNux -bX-
 No
-DL 07 YB 9214
 Yes Good
-BR 25  0442
 Yes Bad 9644
 No
 No
-5W G5 MPq 1Ciu
 No
 No
 No
 No
-KA 57 A 7107
 Yes Good
-MP 82 U 2864
 Yes Bad 4264
-OD 23 SBR 3519
 Yes Good
-BR 01 AR 6138
 Yes Bad 6660
 No
-yY hu qYW nK48
 No
 No
 No
 No
 No
-DD 25  9116
 Yes Good
 No
 No
@@ -5896,107 +4236,76 @@ No
 No
 No
 No
-li xh N nUuu
 No
-LA 66  7402
 Yes Bad 0692
-GA 99 YEH 2041
-No
-No
-Ej iX  TLg9
 No
 No
 No
 No
 No
 No
-yt XK lWd 9r8O
 No
-JK 93  3219
+No
+No
 Yes Good
-JH 47 DYN 1263
 Yes Bad 3365
-AR 74 SM 1514
 Yes Bad 1778
 No
 No
 No
 No
-HR 82 CC 1264
 Yes Bad 8566
 No
 No
-PT bN 9 wPlQ
 No
 No
 No
 No
 No
-py AI V70 4nI6
 No
 No
 No
 No
-BF XZ PAK pKdE
 No
-OD 18 NHF 2484
 Yes Good
 No
-GA 95 ESE 7049
 Yes Bad 7582
 No
-HR 96  4373
 Yes Bad 1875
-Yb GE 6x Za7c
 No
 No
-ML 03  9519
 Yes Bad 2715
 No
 No
 No
 No
-CG 78  8031
 Yes Good
 No
 No
 No
 No
 No
-TR 68 P 8495
 Yes Bad 8228
-DL 01 HO 8752
 Yes Bad 4799
-GV p1 oul c-5N
 No
 No
-NL 11 RLP 2711
 Yes Bad 6072
 No
 No
-TN 27 TK 7788
 Yes Bad 9728
 No
 No
-UK 83 MPF 7038
 Yes Bad 7738
 No
-0A rL 6 LYyJ
 No
 No
-gF zo  dn5d
 No
-TN 47 L 7730
 Yes Good
-0L 4v 1 f8tL
 No
-Y0 sy  IP5v
 No
-OD 19 FSW 3301
 Yes Bad 5401
 No
 No
-AR 56  4135
 Yes Bad 9485
 No
 No
@@ -6005,72 +4314,51 @@ No
 No
 No
 No
-Yk jc K 4E3e
 No
-qB KU 6-m QZ5a
 No
-MP 75 X 0909
 Yes Bad 9359
-Rm iE lY odkg
 No
 No
-MH 72 KD 5560
 Yes Bad 2539
 No
 No
 No
-MP 50 VJM 0688
 Yes Bad 0621
-PY 09  9956
 Yes Bad 4555
-qA QC  x1eN
 No
 No
 No
 No
 No
 No
-PB 12  9185
 Yes Bad 5187
 No
-MH 25  2535
 Yes Bad 2532
-NL 36 B 9342
 Yes Good
-SK 46 FQI 8480
 Yes Bad 9760
-KL 82 EY 2408
 Yes Bad 7445
 No
 No
 No
 No
 No
--W UB uuH ypa-
 No
-KL 14 GPQ 5793
 Yes Good
 No
 No
 No
 No
-PB 84  0302
 Yes Good
-OD 45 TJT 3769
 Yes Good
 No
 No
 No
-SK 19 SM 8196
 Yes Bad 8946
 No
-KL 71 ZGQ 7649
 Yes Bad 6999
-KA 36  8259
 Yes Bad 8392
 No
 No
--q ZY 1 5ImY
 No
 No
 No
@@ -6080,34 +4368,25 @@ No
 No
 No
 No
-PB 32 MD 3548
 Yes Bad 4743
-KA 91  8933
 Yes Bad 8984
-AP 67 K 4505
 Yes Good
-TR 62 FVU 4550
 Yes Bad 8852
-pl y7  CVwH
 No
 No
 No
 No
 No
 No
-KL 87 BJI 9248
 Yes Good
 No
-PB 48 FFX 4893
 Yes Bad 5695
-D6 3e  vCMo
 No
 No
 No
 No
 No
 No
-KL 39 CB 2820
 Yes Bad 5132
 No
 No
@@ -6117,24 +4396,16 @@ No
 No
 No
 No
-ML 86 DCR 1909
 Yes Bad 1436
 No
 No
-Rz 2h u fBl6
 No
-GA 29 JT 2564
 Yes Bad 6376
-s4 9J bvM 9ZAU
 No
 No
-LD 62  9176
 Yes Good
-GA 03 V 5043
 Yes Bad 8393
-TS 03 QB 8254
 Yes Good
-TS 73 KAJ 6918
 Yes Bad 6948
 No
 No
@@ -6144,108 +4415,73 @@ No
 No
 No
 No
-zq Kz hqW OT1d
 No
-WB 29 SU 0187
 Yes Bad 8285
 No
 No
 No
 No
-CT Ae Zk 6hNm
 No
 No
 No
-gy h3 Br BlCo
 No
 No
-WB 11 TT 9365
 Yes Bad 2707
 No
-Vk 61 kI1 Ewqu
 No
-DD 29 U 8550
 Yes Bad 1953
-6V qg luQ k1Nh
 No
 No
-08 6c Jdl 5xSE
 No
-MN 25  5258
 Yes Good
 No
-CH 08 YBN 0055
 Yes Bad 5168
-f0 RB lV 1sCY
 No
 No
-HR 22  6531
 Yes Good
 No
-DD 16 I 1038
 Yes Bad 5938
-HR 38 ZGI 0523
 Yes Bad 3547
 No
 No
-MH 60 DPA 0526
 Yes Bad 3768
-SK 75  1517
 Yes Good
 No
 No
-AS 86 N 7509
 Yes Bad 7559
 No
 No
-KL 13 GYQ 2236
 Yes Bad 2710
 No
 No
-cT 9H em AXgf
 No
 No
 No
-MZ 88  7130
 Yes Good
 No
-lE tf dzc Jws8
 No
 No
 No
-KA 18 X 1193
 Yes Bad 4999
 No
 No
 No
-LA 77 QS 9153
 Yes Good
-tA Vh n 7lvn
 No
-SK 29 HPS 4025
 Yes Bad 8492
-tp h3 Dn SMNO
 No
 No
 No
-MH 32 LQN 8837
 Yes Good
 No
-NL 16 KJ 4301
 Yes Bad 7702
 No
-HP 87 Y 8955
 Yes Bad 8785
-LA 01 OX 2392
 Yes Bad 4326
 No
-MZ 78 EVO 0189
 Yes Bad 9524
-RJ 07 US 8703
 Yes Good
-LD 10 AV 9132
 Yes Good
-KA 73 M 4848
 Yes Good
 No
 No
@@ -6256,44 +4492,34 @@ No
 No
 No
 No
-kd t- Jiek S0-C
 No
-4Y 0f  6das
 No
-c0 pQ N QNRg
 No
-KA 52 M 0874
 Yes Good
 No
 No
 No
 No
-CG 12 JW 5816
 Yes Bad 5989
 No
 No
 No
 No
-AP 23 QP 3864
 Yes Bad 3789
 No
 No
 No
 No
-JH 67 A 8989
 Yes Bad 2947
 No
 No
-BR 07 U 2894
 Yes Bad 6024
-BR 53 JL 0247
 Yes Bad 0229
 No
 No
 No
 No
 No
-7M t6 Ss Uxz8
 No
 No
 No
@@ -6301,21 +4527,16 @@ No
 No
 No
 No
-HR 13 TKY 4349
 Yes Bad 3829
-AP 43 E 2624
 Yes Bad 2954
 No
 No
 No
 No
-MP 68 QMH 6644
 Yes Bad 5294
 No
 No
-AR 56  7751
 Yes Bad 7563
-HR 12 V 8146
 Yes Good
 No
 No
@@ -6323,95 +4544,69 @@ No
 No
 No
 No
-3n uv LdP fIKK
 No
-CH 12  8782
 Yes Bad 2832
 No
-LD 48 AEO 9405
 Yes Bad 3345
 No
-PB 57 VK 3800
 Yes Bad 8029
 No
 No
-LA 37 UO 8240
 Yes Bad 7547
 No
-cV gs l5 mJwa
 No
-MZ 39 RIF 6217
 Yes Bad 1298
-AN 83 FW 2143
 Yes Good
-Wz PZ  GSQL
-No
-gg k1  Nuq1
 No
 No
 No
 No
 No
-ML 19  0264
+No
 Yes Bad 2361
 No
 No
 No
-TN 26 Y 7662
 Yes Bad 7682
 No
 No
 No
 No
 No
-O1 U5 fs u2Zc
 No
 No
 No
-AS 46  8273
 Yes Bad 2273
-KO g4 VhNg BJk-
 No
 No
 No
-RJ 67 MPG 7629
 Yes Bad 1629
 No
-LA 00 GIO 4108
-No
-No
-GH Gs 1 M4yT
 No
 No
 No
 No
 No
 No
-HR 90  6692
+No
+No
 Yes Bad 8694
 No
-LA 97  5806
 Yes Good
-KL 61  3089
 Yes Bad 3549
 No
 No
 No
 No
 No
-JN Ct  2vZw
 No
 No
 No
-Jh l4  mVds
 No
 No
-CH 52 G 3916
 Yes Good
 No
-HP 33  5856
 Yes Bad 1706
-HR 23 IQN 1888
 Yes Good
 No
 No
@@ -6423,87 +4618,61 @@ No
 No
 No
 No
-HP 91 D 8860
 Yes Bad 1268
 No
 No
 No
-AP 42 IP 8445
 Yes Bad 8943
 No
 No
 No
-DL 34 JQD 5358
 Yes Bad 4361
 No
-BR 94 L 3455
 Yes Good
 No
 No
 No
-HR 78 VL 9341
 Yes Good
 No
-TN 64 I 2819
 Yes Bad 7918
 No
-LA 86 QBQ 7051
 Yes Bad 1856
 No
 No
 No
-kd mL l qgBe
 No
-SK 09 ZI 4959
 Yes Good
-JK 47  5679
 Yes Bad 9976
 No
 No
-xp ke f e8ru
 No
 No
 No
-UK 39 Z 7160
 Yes Bad 7367
-GJ 16  7671
 Yes Bad 7675
 No
 No
-CG 07 OXC 8701
 Yes Bad 3732
-RJ 78 HR 1710
 Yes Bad 3887
-UK 10 BDY 9567
 Yes Good
-LG b3 x bWuY
 No
 No
 No
 No
 No
 No
-PB 36 T 4519
 Yes Bad 4578
 No
-CH 03 GIA 3130
 Yes Bad 3949
-MH 27 NK 1152
 Yes Bad 1922
-NL 90  4581
 Yes Bad 4508
-JH 18 QUD 9699
 Yes Bad 6636
 No
-1D Vt  nEQQ
 No
-AS 44 QAP 4591
 Yes Good
 No
 No
-ql U5  GeZD
 No
-GJ 36 VTT 3564
 Yes Bad 3566
 No
 No
@@ -6512,61 +4681,42 @@ No
 No
 No
 No
-KA 13 H 3092
 Yes Bad 5969
-LA 81 YM 2024
 Yes Bad 3938
 No
-om kT 0-f XpQP
 No
 No
-JK 40 HN 3106
 Yes Bad 3173
-NL 67 TXL 9366
 Yes Bad 9359
 No
 No
-RM Ws bM NgVm
-No
-Td CQ Qa inRE
 No
 No
-CH 43 PH 2909
+No
 Yes Good
 No
-AR 10 DB 2337
 Yes Good
-BR 07 Z 2903
 Yes Bad 4013
 No
 No
 No
-MN 24 HOD 5896
 Yes Good
-km 85 9 yL2J
 No
 No
-UK 66 V 4290
 Yes Bad 4526
-JH 12 DX 6396
 Yes Bad 8554
 No
-KA 94 T 7849
 Yes Bad 7569
 No
 No
-TN 38  7889
 Yes Bad 7539
 No
 No
 No
 No
-CH 78 P 4591
 Yes Good
-MP 42 Y 3801
 Yes Bad 5871
 No
-DD 00  0068
 No
 No
 No
@@ -6574,20 +4724,14 @@ No
 No
 No
 No
-MP 23 LA 8469
 Yes Bad 9693
-TR 77 IN 2263
 Yes Bad 8684
 No
-JK 10  6746
 Yes Bad 6762
 No
 No
-MN 48 H 8775
 Yes Bad 1775
-CH 54 L 9784
 Yes Bad 6428
-DL 75 T 7915
 Yes Bad 8915
 No
 No
@@ -6598,26 +4742,19 @@ No
 No
 No
 No
-MH 67 LBY 7451
 Yes Bad 7404
 No
 No
-RJ 74 TE 9596
 Yes Good
-NY vS  INQz
 No
 No
-LA 86 JG 2532
 Yes Good
 No
 No
 No
-MP 08 QVA 0593
 Yes Good
 No
-GJ 89 MMH 2166
 Yes Good
-6Z I- ID 1THm
 No
 No
 No
@@ -6625,87 +4762,61 @@ No
 No
 No
 No
-U8 Zs c CPj1
 No
-DD 95 RJY 2533
 Yes Bad 4973
 No
 No
-Y4 nI Pc5 fwm1
 No
-LD 57  9632
 Yes Bad 1818
 No
 No
 No
 No
 No
-JK 40 IAY 6878
 Yes Bad 7588
 No
-OD 72  7423
 Yes Bad 3423
-ML 01 WQ 5436
 Yes Good
 No
-AS 85 R 1470
 Yes Bad 5196
 No
-hV lP  4ZiL
 No
-LD 67 PP 4561
 Yes Good
 No
 No
-EA Jl V GrYP
 No
 No
-LA 37 M 0555
 Yes Good
 No
-DD 76 M 4724
 Yes Bad 7954
-MN 46  3916
 Yes Good
 No
-HP 62  9598
 Yes Bad 3562
 No
-NL 26  6519
 Yes Bad 2581
 No
-BR 91  9967
 Yes Good
 No
 No
 No
-MH 41  4868
 Yes Bad 8895
 No
-NL 65 CS 5584
 Yes Bad 5524
-LA 66 UKS 7602
 Yes Good
 No
 No
 No
 No
 No
-PY 29 IY 0436
 Yes Bad 7031
 No
-CH 47 NR 8862
 Yes Good
 No
 No
-JH 57 R 5602
 Yes Good
-KL 92 SGH 2562
 Yes Good
-PY 28 RI 9926
 Yes Bad 7626
 No
-LD 41  5352
 Yes Bad 8450
 No
 No
@@ -6716,68 +4827,51 @@ No
 No
 No
 No
-DD 18 AN 3339
 Yes Good
 No
-LA 93 T 6568
 Yes Good
 No
 No
-RJ 19 JD 7017
 Yes Bad 9485
 No
 No
 No
 No
 No
-MP 61  2298
 Yes Bad 7696
 No
 No
 No
-J9 NQ pc vtuv
 No
-DL 05 MS 2448
 Yes Good
 No
-Ux 4L j ELrq
 No
 No
-UP 03  8173
 Yes Good
 No
-x3 UR Lh QpoS
 No
 No
 No
 No
 No
-OD 33 PCP 6577
 Yes Bad 6878
-HP 31 GSE 3683
 Yes Bad 3748
 No
-AP 71  9813
 Yes Good
-Em w2 UH 4xTA
 No
 No
 No
 No
-HR 16 F 0983
 Yes Bad 8284
 No
 No
 No
 No
-MZ 74 ST 0519
 Yes Good
 No
 No
-NL 05 U 6168
 Yes Bad 6263
 No
-uA K2  iCNE
 No
 No
 No
@@ -6785,52 +4879,37 @@ No
 No
 No
 No
-JH 34 RTU 8483
 Yes Bad 3049
-BR 92 QNG 8692
 Yes Bad 8642
 No
-GA 51 NOD 0073
 Yes Bad 4274
-JH 46 B 6549
 Yes Bad 7595
-ML 18 ETD 8059
 Yes Bad 1455
 No
-oC FO 8 4pBo
 No
-AP 57 GNB 3614
 Yes Bad 9664
 No
-SK 41 SN 0078
 Yes Bad 5219
 No
 No
 No
 No
-DD 58 Z 4166
 Yes Bad 7966
 No
 No
 No
 No
-PB 68  0690
 Yes Good
 No
-LS Ra QY 9aHi
-No
-AQ 94 B 8kzw
 No
 No
 No
-OD 74 RZL 5845
+No
 Yes Bad 5697
-JH 98 B 5336
 Yes Bad 8469
 No
 No
 No
-U8 vU RAq OxGZ
 No
 No
 No
@@ -6839,30 +4918,22 @@ No
 No
 No
 No
-CH 83 J 0328
 Yes Bad 0362
 No
 No
 No
-RJ 04 M 7469
 Yes Good
 No
 No
-HR 42 B 5331
 Yes Bad 8681
-AS 40 LPX 2607
 Yes Good
-SX t9  npgg
 No
-HP 49 KU 0634
 Yes Bad 6868
 No
 No
-53 o5  CMLZ
 No
 No
 No
-OD 23  7065
 Yes Good
 No
 No
@@ -6870,35 +4941,25 @@ No
 No
 No
 No
-LD 93 BKO 9500
 Yes Good
 No
 No
-GJ 47 Z 1511
 Yes Good
 No
 No
 No
-CG 08 DL 4036
 Yes Good
 No
-LD 04 O 5092
 Yes Good
-Ou S6 V 08YX
 No
-Rv 5R E 1kie
 No
-AN 31 F 8056
 Yes Bad 0242
 No
-E9 aM  7wTE
 No
 No
 No
-OD 58 BM 9520
 Yes Good
 No
-AS 92 A 8143
 Yes Bad 5845
 No
 No
@@ -6906,344 +4967,227 @@ No
 No
 No
 No
-Pn q4 GCZ 9szz
 No
-TR 69  7192
 Yes Good
 No
-TS 47  6283
 Yes Good
-wm Fb bQL bVHQ
 No
-LA 87 Z 3946
 Yes Good
 No
 No
 No
 No
-4S vn M 8uFJ
 No
 No
-CG 91 JMQ 3827
 Yes Bad 3889
-iT G9  QAqJ
 No
 No
 No
 No
 No
-8Z Gz b CpZi
 No
 No
 No
-MZ 89 Z 3711
 Yes Bad 0993
-BR 63  3045
 Yes Bad 3467
 No
-MZ 52 XB 5144
 Yes Bad 2964
 No
 No
-AS 99 TA 5290
 No
 No
-TR 84 VI 4464
 Yes Bad 6267
-w3 R8  q8Tj
 No
 No
 No
-TS 02  6410
 Yes Bad 6969
-Zj 5V  r1aC
 No
-JH 83 IJ 3445
 Yes Bad 0778
 No
 No
 No
-9o L0 geWd 83e-
 No
 No
-UP 01 XUG 1483
 Yes Bad 1454
-UP 19 I 4875
 Yes Bad 7819
-HR 52 DTY 2138
 Yes Bad 5331
-jI 3v j0 G7Ka
 No
 No
 No
 No
-TN 44 VM 3009
 Yes Bad 5365
 No
 No
-LA 27 EHW 1624
 Yes Bad 3766
-RJ 84 G 7082
 Yes Bad 1889
-AS 17 RL 0639
 Yes Bad 4636
-DL 59 K 0009
 Yes Bad 7410
 No
 No
 No
 No
 No
-Y5 06 0 Efbn
 No
-HR 77 SRD 6749
 Yes Bad 6146
 No
-TN 73 TK 9682
 Yes Good
-GA 47 XKX 1403
 Yes Bad 3853
 No
 No
-pc FA y NS6m
 No
-6X kB J4 OscY
 No
-TS 89 U 1607
 Yes Bad 5679
 No
 No
 No
-CG 89 IIJ 8986
 Yes Bad 4068
 No
-CG 23 A 6794
 Yes Bad 6013
 No
 No
-SK 48  4748
 Yes Bad 9756
 No
-vi 1t Y GoJi
 No
-ML 49 TGW 0280
 Yes Good
-b9 yt rgW vlNM
 No
 No
 No
 No
 No
-HP 45  5871
 Yes Bad 1818
 No
 No
 No
-bZ wf  nf1W
 No
 No
-WB 34 T 9371
 Yes Good
 No
 No
 No
-AN 93  0097
 Yes Bad 8260
-NL 43  7088
 Yes Bad 5514
 No
-wM FR db2 TqAm
 No
-LA 17 Z 9952
 Yes Bad 1552
 No
-f- nj Nv rsCy
 No
-LA 13 TBH 6138
 Yes Good
-AN 33 GU 0115
 Yes Bad 1217
 No
-ML 98 LZZ 3183
 Yes Bad 7489
-DD 73 D 0566
 Yes Bad 2826
 No
 No
 No
-CH 67 R 7337
 Yes Bad 1877
-JK 83  4374
 Yes Bad 1154
-AN 01 GS 7591
 Yes Bad 7604
 No
-AR 39 I 9998
 Yes Bad 2738
 No
 No
-TN 77 IJE 7579
 Yes Good
-PB 94 MNA 1650
 Yes Bad 4678
 No
 No
 No
-DD 17 YH 0138
 Yes Bad 4992
 No
-PY 79 LT 4943
 Yes Good
-JH 33  9759
 Yes Good
-SK 21 HY 3646
 Yes Good
-RJ 35 RJC 9501
 Yes Bad 8541
-JK 01  1781
 Yes Bad 1712
 No
-AS 70  6029
 Yes Bad 6269
 No
-PS DB dh btrH
 No
 No
 No
 No
-TR 61  6291
 Yes Bad 9581
 No
 No
 No
-KA 25 ZIE 7688
 Yes Bad 7646
 No
-DI de S bivG
 No
 No
 No
 No
 No
 No
-PY 73  7338
 Yes Bad 8538
 No
-Ec To X EdnD
 No
 No
 No
-WB 88 XSW 6458
-Yes Good
-o0 aU 6qK gAwp
-No
-No
-No
-19 Vw  9SlW
-No
-No
-No
-ku Nh J GSjD
-No
-TS 35  0017
-Yes Good
-No
-sS hi DaX KZlH
-No
-No
-No
-No
-No
-WB 03 Y 0347
-Yes Good
-TR 07 NJ 2431
-Yes Good
-z7 SF 08 bEnS
-No
-W9 sS D7m XQ7w
-No
-No
-No
-No
-No
-No
-TS 13 EM 8201
 Yes Good
 No
 No
-JK 49 ABV 6684
+No
+No
+No
+No
+No
+Yes Good
+No
+No
+No
+No
+No
+No
+Yes Good
+Yes Good
+No
+No
+No
+No
+No
+No
+No
+Yes Good
+No
+No
 Yes Bad 7884
-HR 22 J 5693
 Yes Good
-jn Bt p 4aWa
 No
-LD 15 S 8251
 Yes Good
 No
 No
-TN 92 QES 8924
-Yes Good
-No
-1s kJ R64LA --Zt
-No
-No
-No
-No
-No
-No
-JK 97 TC 1933
 Yes Good
 No
 No
-LD 94 OH 9435
+No
+No
+No
+No
+No
+Yes Good
+No
+No
 Yes Bad 1455
 No
-KA 57  1321
 Yes Bad 7352
 No
-JK 45  0234
 Yes Good
-LA 07 AU 9810
 Yes Bad 1150
 No
 No
 No
-LA 11 R 9836
 Yes Bad 2949
 No
 No
-PB 69 X 1871
 Yes Bad 7836
 No
-YZ Jy 7 e2he
 No
-HR 52 OC 4818
 Yes Bad 5578
 No
 No
-AR 60 ZM 2231
 Yes Bad 2371
 No
 No
 No
-XC lo 1a 5aci
-No
-No
-No
-No
-No
-No
-No
-No
-No
-hh xP g QzqG
-No
-XV Fg k8e DpKk
-No
-No
-No
-No
-20 I3  vJnj
 No
 No
 No
@@ -7254,7 +5198,20 @@ No
 No
 No
 No
-MP 01 ETI 7857
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
 Yes Bad 7226
 No
 No
@@ -7262,70 +5219,48 @@ No
 No
 No
 No
-MN 91  5079
 Yes Bad 9823
-BR 68 BPZ 7714
 Yes Bad 2334
 No
-42 iZ S S6xD
 No
 No
 No
 No
-MH 22  6649
 Yes Bad 6979
 No
-MZ 64 TV 4427
 Yes Good
 No
-MP 90 LTH 9457
 Yes Good
 No
-HR 19 VD 1245
 Yes Good
 No
 No
-JH 87 YP 6682
 Yes Good
-DD 64  8862
 Yes Bad 2804
 No
 No
-he vh ufY Dnmg
 No
-MP 62  2601
 Yes Bad 2383
-1N 9h  l7zI
 No
 No
 No
-MZ 66 Q 8639
 Yes Good
 No
-AN 08 L 1171
 Yes Bad 7119
 No
 No
-TS 48  0853
 Yes Bad 5554
 No
-MP 28  0447
 Yes Bad 2777
 No
 No
 No
-GA 42  8655
 Yes Bad 1675
-GA 17 JR 1668
 Yes Bad 5626
-AP 90 CCD 5283
 Yes Bad 5246
-MZ 75 MF 4526
 Yes Bad 4876
-AN 62 VSV 9725
 Yes Bad 9737
 No
-GJ 97 Z 6188
 Yes Bad 0888
 No
 No
@@ -7333,37 +5268,28 @@ No
 No
 No
 No
-4a dN sE IhAs
 No
 No
 No
 No
 No
-GJ 30 AD 8787
 Yes Good
 No
 No
 No
-LD 41 AGX 4362
 Yes Bad 4605
-OD 55 PIF 0229
 Yes Bad 1222
 No
 No
 No
-vb fr M4P sXDd
 No
 No
 No
-MZ 62 N 2313
 Yes Bad 2921
-HR 44 S 0944
 Yes Bad 8989
-NL 61 TSN 1668
 Yes Bad 7609
 No
 No
-LA 34  3251
 Yes Good
 No
 No
@@ -7372,88 +5298,63 @@ No
 No
 No
 No
-GJ 74 ET 3221
 Yes Bad 7628
 No
 No
 No
 No
 No
-AR 53 IR 5447
 Yes Good
 No
-AN 91 ZDC 4060
 Yes Good
-MN 92 Q 1090
 Yes Bad 5776
 No
 No
 No
 No
-xP t0 1yI nHP9
 No
-MZ 28  0432
 Yes Bad 0692
-sx kw v ZbkP
 No
 No
-GA 61 V 2691
 Yes Good
 No
 No
-AN 18  4484
 Yes Bad 7255
-Hb hN w Tge8
 No
 No
-JH 72  6061
 Yes Bad 3218
 No
 No
 No
-Yp 2X  znoC
 No
 No
 No
-PY 52  2573
 Yes Bad 3697
-62 0g q jSNE
 No
 No
-RJ 43 SD 9994
 Yes Bad 1198
 No
-HR 88  1142
 Yes Good
 No
-OD 89 CR 0895
 Yes Bad 2115
 No
 No
 No
-LA 59  6833
 Yes Bad 7178
-UK 05 AOQ 1341
 Yes Bad 2818
 No
 No
-yY ID R qIVe
 No
-MZ 64  5598
 Yes Good
 No
 No
 No
 No
-lz 7D  HCzz
 No
 No
-16 PZ  qbWh
 No
 No
-WB 16  3351
 Yes Bad 3412
-Fk Eo  AQ1e
 No
 No
 No
@@ -7462,32 +5363,23 @@ No
 No
 No
 No
-WB 39  4763
 Yes Bad 4782
 No
 No
-Gg ut  8wJw
 No
 No
-JH 18 DYU 5546
 Yes Bad 9146
 No
 No
-KL 69 VHH 9691
 Yes Good
 No
 No
 No
 No
-oT eb zBs dhRg
 No
-GA 93 VHC 3227
 Yes Bad 6427
-SK 62 N 7374
 Yes Good
-MH 04  6686
 Yes Bad 4686
-CH 38 QGV 3532
 Yes Bad 4672
 No
 No
@@ -7495,77 +5387,55 @@ No
 No
 No
 No
-lw zV r znbB
 No
-UP 05 QV 1486
 Yes Bad 1482
 No
 No
 No
 No
-AR 19 M 9898
 Yes Bad 1792
-zt A7  4tnY
 No
 No
-CH 64 JD 1662
 Yes Good
-RJ 25 B 8507
 Yes Bad 2748
 No
 No
 No
-UK 02 T 2319
 Yes Bad 3864
 No
 No
-LD 48  8765
 Yes Good
 No
-OD 68  6793
 Yes Bad 6933
 No
-TN 97 D 4562
 Yes Good
 No
-MN 99 BGR 9483
 No
 No
 No
 No
-SW 5M  qME7
 No
 No
-LA 52 IRW 5381
 Yes Good
 No
-AR 11  8179
 Yes Good
-CH 83  1783
 Yes Bad 8179
-DL 41 KA 9843
 Yes Bad 2866
 No
 No
 No
-CG 16  6197
 Yes Bad 9690
-ML 60  3488
 Yes Bad 6448
 No
-OD 64 EEE 6446
 Yes Good
 No
-Ia 7W LQc nGUE
 No
 No
-RJ 02  6446
 Yes Bad 0478
 No
 No
 No
 No
-MP 34 SXP 6684
 Yes Good
 No
 No
@@ -7574,152 +5444,107 @@ No
 No
 No
 No
-gr dW E JzIR
 No
 No
-LA 04  6795
 Yes Bad 6775
 No
 No
-AS 59 E 3298
 Yes Good
-0d xK Y7c RgY5
 No
-JK 38 JKB 6167
 Yes Good
-DL 15 RH 0192
 Yes Bad 0822
 No
 No
-r6 wK 69C ucZp
 No
-HP 62 YXH 2257
 Yes Bad 0627
 No
-5J aw  fB7p
-No
-No
-k6 xI k9 1Iij
 No
 No
 No
-ML 04 LS 3629
+No
+No
 Yes Bad 8732
 No
 No
-MH 61 PW 9868
 Yes Bad 9753
 No
 No
-NT jn  VCcN
 No
-Fv Xl i qMJm
 No
-LA 22 ZV 0309
 Yes Bad 9462
-TN 54 AP 8700
 Yes Good
 No
-nh Dh mY luNH
 No
-JH 36 GNR 6230
 Yes Good
 No
 No
 No
 No
 No
-LD 66 I 6025
 Yes Bad 6957
 No
-IR xd  Hii1
 No
 No
 No
 No
-pU jd  52aO
 No
-OD 80 KF 4044
 Yes Good
-JC 8L eMY -CA8
 No
 No
 No
 No
-Aj Zt FS kBlO
 No
-MP 19 Q 2356
 Yes Bad 2366
-MH 91 S 8530
 Yes Good
 No
 No
 No
 No
-AS 27 SZ 0915
 Yes Good
-TS 91 GY 6908
 Yes Bad 8984
 No
 No
-Xg o1 zu b3ia
 No
 No
 No
 No
-AP 80  4314
 Yes Bad 6364
 No
 No
 No
 No
-RJ 79 U 5486
 Yes Good
-Tq 9O B qZlk
-No
-No
-Rq nf Q IKKr
-No
-uR NF  6QrD
 No
 No
 No
-OD 47 CC 8439
+No
+No
+No
 Yes Bad 6389
-ti jN y G7PZ
 No
-JK 00 QP 2187
 No
-UP 67 Y 3089
 Yes Good
 No
-uT 6E  lEji
 No
-OD 14 A 6276
 Yes Bad 6476
 No
 No
 No
 No
-LA 60  5438
 Yes Good
 No
-MZ 70 FU 1528
 Yes Bad 5545
 No
 No
 No
 No
-nl jV HV 9yGL
 No
 No
-DL 37 RV 5327
 Yes Bad 9697
 No
 No
 No
 No
-JK 21 SI 1317
 Yes Good
 No
 No
@@ -7728,9 +5553,7 @@ No
 No
 No
 No
-WB 70 Q 3760
 Yes Bad 8397
-AN 13 F 2853
 Yes Good
 No
 No
@@ -7739,14 +5562,11 @@ No
 No
 No
 No
-Nq Ns IIR o44f
 No
 No
 No
 No
-TN 92 J 0868
 Yes Good
-LD 86 QG 1794
 Yes Bad 7356
 No
 No
@@ -7754,107 +5574,79 @@ No
 No
 No
 No
-PB 77  5395
 Yes Good
-5r B4 DQX Y3JQ
 No
 No
 No
-Ix dn 0cN dnnv
 No
-HR 81 OO 2281
 Yes Bad 7789
 No
-UP 57  4474
 Yes Bad 7478
 No
 No
 No
-CH 01 ADK 1000
 Yes Bad 3460
 No
-PY 00  7496
 No
 No
-AN 89 N 1518
 Yes Bad 3562
 No
 No
 No
 No
 No
-UK 77  9830
 Yes Good
 No
 No
 No
 No
 No
-TR 62 IIQ 6411
 Yes Good
 No
 No
 No
 No
-HP 28 MA 1439
 Yes Bad 4980
-ER dv u1q hiTU
-No
-LA 00 W 1818
-No
-No
-DD 99 C 3776
 No
 No
 No
 No
-DL 12 P 5399
+No
+No
+No
 Yes Bad 9899
 No
 No
 No
-iM 3p  ImWd
 No
 No
 No
 No
-GJ 98 RZ 5905
 Yes Good
-lR kq 9 Th37
 No
 No
 No
-AS 85 ZI 9203
 Yes Bad 9247
 No
-aU f8 G 193b
 No
-RJ 38 V 6569
 Yes Good
 No
 No
-TS 60  3488
 Yes Bad 2582
 No
-GA 76  6487
 Yes Bad 8687
 No
 No
 No
-8I GB  qNyE
 No
 No
-PY 79 O 9403
 Yes Bad 4243
-PB 76  6857
 Yes Good
 No
 No
 No
 No
-JH 82 Q 2525
 Yes Bad 5252
-PB 05 DXT 4402
 Yes Bad 4469
 No
 No
@@ -7862,91 +5654,69 @@ No
 No
 No
 No
-HR 89 X 5973
 Yes Bad 2334
 No
 No
 No
-h3 NR 2 YHDS
 No
 No
-GA 63  7025
 Yes Bad 7428
-TN 74 N 0797
 Yes Bad 5717
 No
 No
-RJ 89  9343
 Yes Bad 7388
 No
-WB 42 C 1267
 Yes Bad 7267
 No
 No
-Hz 4R  njRe
-No
-yl a6 e 1cIc
-No
-No
-R2 DN M45 csHc
 No
 No
 No
 No
 No
-LD 28 T 9758
+No
+No
+No
 Yes Bad 1431
 No
-PB 16  3277
 Yes Bad 7547
 No
 No
 No
 No
-Bn TW 84 kylL
 No
 No
 No
 No
 No
-AS 19  0088
 Yes Bad 5088
 No
 No
 No
 No
-6O Ce  GecZ
 No
 No
 No
 No
 No
 No
-CH 65 PI 3655
 Yes Bad 8783
 No
-MH 63 YGJ 6955
 Yes Bad 6956
-LA 60  2844
 Yes Bad 2169
-PY 42 E 5692
 Yes Bad 6238
 No
 No
 No
 No
 No
-CG 83  6688
 Yes Good
-GJ 61 O 3689
 Yes Good
-LA 17 RU 0136
 Yes Bad 9149
 No
 No
 No
 No
-48 V3 BA -aH4
 No
 No
 No
@@ -7954,26 +5724,16 @@ No
 No
 No
 No
-CH 64 P 3094
 Yes Bad 3141
 No
-DL 77 UP 7224
 Yes Bad 7598
-TR 22 OLB 6996
 Yes Bad 6120
 No
--k nL 6 qjx8
 No
-MP 27  7409
 Yes Bad 8932
 No
-PB 46  3370
 Yes Bad 9377
 No
-93 vo 4O HS-K
-No
-No
-Nl AP XG e-fn
 No
 No
 No
@@ -7982,25 +5742,20 @@ No
 No
 No
 No
-GJ 60 JI 7072
+No
+No
 Yes Bad 3378
 No
 No
-LD 99 KX 0342
 No
-MH 74 CM 6473
 Yes Bad 2573
 No
 No
-TS 90  5247
 Yes Good
-sK Rz i F2u-
 No
 No
 No
-KL 14 U 3233
 Yes Good
-uc bc  mZvR
 No
 No
 No
@@ -8012,156 +5767,113 @@ No
 No
 No
 No
-x9 1j K tOY1
 No
 No
 No
-PB 31  1408
 Yes Bad 3844
 No
 No
-MZ 68 UQ 4905
 Yes Bad 5275
-MH 93 N 3526
 Yes Bad 3096
 No
 No
 No
-BR 58  7969
 Yes Good
 No
 No
-LD 58  4812
 Yes Good
 No
-HR 35 O 8586
 Yes Bad 9361
-AN 12 I 7033
 Yes Bad 4294
 No
-GJ 80 QW 2390
 Yes Good
 No
-LA 28 PSN 6494
 Yes Good
 No
-KA 03  5016
 Yes Good
-KA 76  8336
 Yes Bad 8437
-PB 00 X 3905
 No
 No
 No
-98 3W zyw pWd6
 No
 No
-DL 38 ZO 9997
 Yes Bad 3937
 No
 No
 No
 No
 No
-TR 53 U 8618
 Yes Bad 2683
 No
-CG 60 Y 3184
 Yes Good
 No
 No
-3a 9f wG7 toIB
 No
 No
-SK 65  5158
 Yes Bad 0984
-PY 60 F 4462
 Yes Good
 No
 No
 No
 No
-6n D6 YNT cJw9
 No
 No
 No
-AS 16 YM 9432
 Yes Bad 1944
 No
-6T vf f FeCL
 No
 No
-KA 75 PWU 6357
-Yes Good
-No
-No
-pQ Fu U fNso
-No
-No
-fb 3K A J32o
-No
-CG 71 O 3592
-Yes Good
-No
-No
-AP 16  4146
 Yes Good
 No
 No
 No
-ya 6i  Fbtk
 No
-MN 43 KPY 0056
+No
+Yes Good
+No
+No
+Yes Good
+No
+No
+No
+No
 Yes Bad 6757
 No
-KL 55 BQ 4308
 Yes Bad 5698
 No
 No
 No
 No
-CH 67 C 9833
 Yes Bad 2074
 No
-MZ 06 IA 8014
 Yes Bad 7986
 No
 No
-MP 15  3239
-Yes Good
-dl DE 2 HVvi
-No
-3H VQ ZCG veZ7
-No
-No
-No
-No
-No
-No
-No
-No
-No
-No
-ML 44 HR 3468
 Yes Good
 No
 No
 No
-LA 90 AQG 1103
+No
+No
+No
+No
+No
+No
+No
+No
+Yes Good
+No
+No
+No
 Yes Bad 1204
-TN 46  3748
 Yes Bad 7748
 No
 No
-CH 95  1457
 Yes Good
 No
-RJ 46  1453
 Yes Bad 7953
 No
-TR 95  1765
 Yes Bad 1766
-UK 23 U 4880
 Yes Bad 4881
 No
 No
@@ -8172,134 +5884,94 @@ No
 No
 No
 No
-CH 58 KKC 0659
 Yes Good
-KA 48 Y 0282
 Yes Bad 8984
 No
 No
 No
-MN 60 QH 9626
 Yes Bad 3890
 No
-AR 60 G 9576
 Yes Bad 0511
 No
 No
-JH 96 PPC 5489
 Yes Good
-WB 11 AO 4142
 Yes Bad 4452
 No
 No
-GA 34 U 4963
 Yes Bad 4437
 No
 No
-PY 20 MD 0676
 Yes Bad 4686
-GA 59 AV 9449
 Yes Bad 9157
 No
 No
-CG 90 GO 5287
 Yes Bad 5687
--4 vb V-jY RLWW
 No
 No
 No
-vJ Vz XY vCKC
 No
 No
-MH 74 FI 1329
 Yes Bad 1677
-CG 66 SU 1770
 Yes Good
-Ak Sl MxM Vi2l
 No
 No
 No
 No
 No
-GJ 29 Z 2488
 Yes Bad 2483
-CH 27 O 1245
 Yes Bad 1777
 No
 No
 No
 No
-wY Xt if 8dZB
 No
-O8 DS  7ts9
 No
-MN 79  2407
 Yes Good
 No
-DL 03  5918
 Yes Bad 5085
 No
-OD 87 SND 4079
 Yes Bad 5887
 No
 No
-LD 62 T 2007
 Yes Good
-46 sZ cm YVwQ
 No
 No
-ML 33 B 6257
 Yes Bad 8960
 No
 No
 No
 No
 No
-HP 59 DSJ 4748
 Yes Bad 4717
-BR 45 IJ 4056
 Yes Bad 4866
 No
 No
-TR 03 XYI 0611
 Yes Bad 0852
 No
 No
 No
-Pa M4 Z F2Pp
 No
-KA 55 XA 9247
 Yes Bad 3227
 No
 No
 No
-GA 74  6475
 Yes Bad 8470
-AP 84 M 3508
 Yes Good
 No
 No
-AN 40  8423
 Yes Bad 8609
 No
-KL 04 U 2439
 Yes Bad 8834
 No
-LD 63 E 5886
 Yes Bad 9186
 No
 No
-OD 21 T 3239
 Yes Bad 7538
 No
-yJ zc  6fJg
 No
 No
-SK 17 TZU 8319
 Yes Bad 5349
-jr Wq p4 -Gys
 No
-JK 77 SUY 1968
 Yes Bad 3947
 No
 No
@@ -8308,16 +5980,12 @@ No
 No
 No
 No
-GA 34 ZGV 8083
 Yes Bad 8881
 No
-65 ym 2 p4O1
 No
 No
-AR 31 C 7663
 Yes Good
 No
-DD 95 LP 9438
 Yes Good
 No
 No
@@ -8326,13 +5994,6 @@ No
 No
 No
 No
-AP 00 TZ 6626
-No
-No
-No
-DY sk r6 Lut5
-No
-VK yr  C84F
 No
 No
 No
@@ -8341,100 +6002,72 @@ No
 No
 No
 No
-h9 UI  FQhq
 No
 No
 No
-NL 71 UA 0355
+No
+No
+No
+No
 Yes Bad 3675
 No
 No
-YT N1 K2O vK6R
-No
-Yj tW  kxRg
 No
 No
-l4 cW 0 1q8i
 No
 No
-XK LA Iyw C3fm
 No
-KA 18  4343
+No
 Yes Bad 8764
-KA 26 Y 9711
 Yes Good
 No
 No
 No
-LA 02 PYN 7699
 Yes Bad 7721
 No
-TR 89  2647
 Yes Good
-OD 81 EPE 0222
 Yes Bad 3649
-WB 35 UBH 0637
 Yes Bad 6679
-UP 25 TWU 3495
 Yes Bad 7455
 No
-Ok OF q ATwA
-No
-No
-RN vk  YnXt
-No
-Xh 9T  Wkcw
 No
 No
 No
 No
-MH 93 F 6564
+No
+No
+No
 Yes Good
 No
-El LM  jVra
 No
 No
-JH 23  8467
 Yes Good
 No
-tr qu  UeLe
-No
-VB C- Atza Razs
-No
-No
-Rn TU Zx wEzc
 No
 No
 No
 No
-NL 64  4575
+No
+No
+No
 Yes Bad 4525
-zj xD  EOXV
 No
 No
 No
 No
-AS 51  5921
 Yes Bad 5506
-Gl Y4 N bzmv
 No
 No
 No
-NL 32 S 6856
 Yes Bad 7856
-BE HK RR mgl-
 No
 No
 No
-WB 74 KXE 9059
 Yes Good
-MZ 08 DH 7964
 Yes Bad 7975
-WB 14 VX 3020
 Yes Bad 4084
 No
 No
-LA 49  4410
 Yes Bad 4418
 No
 No
@@ -8446,41 +6079,32 @@ No
 No
 No
 No
-HR 79 F 3432
 Yes Good
 No
 No
 No
-HR 54  9182
 Yes Bad 8788
 No
 No
 No
-GA 34  9509
 Yes Good
 No
 No
 No
 No
 No
-MZ 04 O 2622
 Yes Bad 4529
 No
-AS 59  3845
 Yes Good
 No
-Z0 YX DX w-YO
 No
 No
 No
 No
-LA 78 EBK 1038
 Yes Bad 5438
 No
-PY 00  9143
 No
 No
-PB 13 BPV 8786
 Yes Bad 2776
 No
 No
@@ -8489,71 +6113,51 @@ No
 No
 No
 No
-YS CK 1 hV2P
 No
 No
 No
-HP 41 P 4132
 Yes Bad 7739
 No
 No
 No
-DD 65 AAV 7950
 Yes Good
-SK 14  2783
 Yes Bad 8793
 No
-BR 03 V 2894
 Yes Bad 3844
-Im Sn  2enE
-No
-H3 UR mRS j5ap
 No
 No
 No
 No
 No
 No
-K9 7g k EYM1
 No
 No
 No
-LA 69  0236
+No
 Yes Good
 No
-AP 79 PXS 2041
 Yes Bad 4392
 No
 No
 No
 No
-LA 29 ASV 2341
 Yes Bad 8493
 No
-EA Ov tY 9Gwo
 No
 No
-GA 58 K 0730
 Yes Good
-GA 88 R 4947
-Yes Good
-No
-Rw lt rs c6X0
-No
-r4 Go  ROS9
-No
-No
-No
-LA 76 FN 1040
 Yes Good
 No
 No
 No
-AS 37 QD 6995
+No
+No
+Yes Good
+No
+No
+No
 Yes Bad 4855
-MN 29 GWR 7483
 Yes Bad 2782
-GA 75 L 9331
 Yes Bad 0432
 No
 No
@@ -8562,34 +6166,24 @@ No
 No
 No
 No
-CG 05 CXR 8304
 Yes Good
 No
-YF Kw f taAY
-No
-No
-9G EW OL jTuO
 No
 No
 No
 No
-RJ 39 FZ 3191
+No
+No
 Yes Bad 0193
 No
-GA 77  9010
 Yes Good
 No
-SK 47 JPP 5246
 Yes Bad 4297
-w4 pt 1l cOfz
 No
-eQ r1 ObK tpi6
 No
-MN 01 MP 7331
 Yes Bad 0331
 No
 No
-AS 47 IV 5097
 Yes Bad 6160
 No
 No
@@ -8597,90 +6191,59 @@ No
 No
 No
 No
-CH 78 DB 5301
 Yes Bad 0569
-AN 24 HH 5277
 Yes Good
 No
-BR 82 BVV 0854
 Yes Good
-6q MB  WhLO
 No
 No
-KA 72 FV 0601
 Yes Good
 No
 No
 No
-KA 58 C 9596
 Yes Bad 2581
 No
-d6 DY uSX hj9Y
 No
-HP 65  7298
 Yes Bad 3729
 No
-ML 98  3413
 Yes Bad 6943
 No
-M6 c9 w 8H4a
 No
-NL 43 J 5035
 Yes Bad 5195
-LD 65 QLQ 8319
 Yes Bad 8365
-LD 73  3827
 Yes Bad 7547
-LD 53  0752
 Yes Bad 7162
-UP 87 ZW 2901
 Yes Bad 2211
-GJ 28 FGI 1893
 Yes Bad 0083
 No
 No
-BR 86 Y 7451
 Yes Bad 7857
 No
-dL 6U VP 43st
 No
 No
-GA 44 BPK 8932
 Yes Bad 8917
-ML 85 OI 1478
 Yes Bad 2074
 No
-JH 36 BY 7003
 Yes Bad 7921
-HP 80  2632
 Yes Good
 No
-ML 55 VIG 9717
 Yes Bad 2786
-PY 48 B 1091
 Yes Good
 No
-g1 Af Yo nWaC
 No
 No
 No
-BR 25 XB 4845
 Yes Bad 1265
 No
-AR 12 FF 9680
 Yes Bad 0621
-OD 96 N 9360
 Yes Bad 4392
 No
 No
 No
-UP 45  9082
 Yes Bad 3226
-NL 35 MJ 8988
 Yes Good
 No
 No
-LA 82 CKV 0906
 Yes Bad 4811
 No
 No
@@ -8690,10 +6253,8 @@ No
 No
 No
 No
-MN 53  7201
 Yes Good
 No
-5A 25  9wPU
 No
 No
 No
@@ -8705,75 +6266,53 @@ No
 No
 No
 No
-LA 49 U 0402
 Yes Bad 1402
-OD 17  6561
 Yes Good
 No
 No
 No
-OD 47 V 1642
 Yes Good
 No
 No
 No
 No
 No
-LA 90  3287
 Yes Bad 7211
-MN 24 FY 2458
 Yes Good
 No
-NL 82 I 8700
 Yes Bad 9787
-SK 50 VK 0683
 Yes Bad 8743
-JK 42 FQ 9773
 Yes Bad 4793
 No
 No
-PB 46 A 0430
 Yes Bad 3433
-MN 04 VT 7426
 Yes Good
-GA 36  8139
 Yes Bad 3199
 No
-HP 56 XGD 9714
 Yes Bad 3734
 No
 No
 No
-SK 82 KD 8698
 Yes Bad 9131
 No
-MP 03 A 6442
 Yes Good
-DL 38 TY 7413
 Yes Bad 7453
-GA 67  5617
 Yes Bad 6240
-1Z yF  8AXt
 No
-JK 44  7086
 Yes Bad 1006
 No
 No
-JH 83 UZ 7067
 Yes Bad 7169
 No
 No
 No
-GJ 28 ZF 1066
 Yes Bad 1577
 No
 No
-jI FB dXc yZmH
 No
 No
 No
 No
-JK 59 N 7193
 Yes Bad 7273
 No
 No
@@ -8784,60 +6323,44 @@ No
 No
 No
 No
-AS 58 NC 0946
 Yes Bad 3346
 No
 No
 No
 No
-cV oR d QFIr
 No
 No
 No
 No
 No
 No
-MZ 03 B 9040
 Yes Bad 9933
-zc bA sEk 0q40
 No
 No
 No
-7o C3 Q- UnM3
 No
-LA 80 SM 9349
 Yes Good
 No
 No
 No
-RJ 25 QP 2677
-Yes Good
--W aH Wa c-Qo
-No
-No
-WY gG UEo TxPn
-No
-No
-No
-No
-RJ 09  1196
 Yes Good
 No
-AP 42 ZJ 6606
+No
+No
+No
+No
+No
 Yes Good
 No
-UK 48 S 5103
+Yes Good
+No
 Yes Bad 7129
 No
 No
-CG 02 YTP 4846
 Yes Bad 5506
-mf GM  DLB0
 No
-CH 54  0828
 Yes Good
 No
-PB 86 SJ 5947
 Yes Bad 2642
 No
 No
@@ -8845,217 +6368,154 @@ No
 No
 No
 No
-CH 77  6027
 Yes Bad 6021
 No
 No
-sc Nl wg -rFb
 No
 No
 No
 No
 No
-RJ 21 DA 0720
 Yes Good
 No
 No
 No
-MN 75 LS 2461
 Yes Bad 4483
 No
 No
 No
-BR 54  3954
 Yes Bad 5076
-2K 4F iQ LE8x
 No
 No
-AK fa  GP5f
-No
-3M Q8 2fwT hoM-
 No
 No
-LA 48 SB 4271
+No
 Yes Bad 7979
-XJ O- q tysW
 No
 No
-GJ 88  4439
 Yes Good
 No
 No
 No
 No
-HP 14  3940
 Yes Good
 No
-GA 02  9189
-Yes Good
-No
-No
-No
-No
-qT 37 Qa- 2mEc
-No
-No
-JJ io H CE0R
-No
-UK 18 X 3392
 Yes Good
 No
 No
 No
-SK 26 RJ 9978
+No
+No
+No
+No
+Yes Good
+No
+No
+No
 Yes Bad 9044
 No
 No
 No
-zB Iq Ar OmDS
 No
-NL 26 PXU 6570
 Yes Bad 0531
 No
 No
 No
-XR pk 5yM hB70
 No
 No
 No
-KL 50 VKH 1609
 Yes Bad 6799
 No
-JH 15 S 0140
 Yes Bad 2346
-OU F7 cy B25-
 No
 No
 No
 No
 No
 No
-Eb c3 Jyy KwFx
 No
 No
-MP 47 EFA 2741
 Yes Bad 9042
-iE KJ  4jLN
 No
 No
-CG 83  7396
 Yes Bad 7696
 No
 No
 No
 No
 No
-HP 16 N 3990
 Yes Bad 9997
 No
-es vv Aj F34W
 No
-TS 41 M 3691
 Yes Good
-OD 21 U 6209
 Yes Bad 1007
 No
 No
 No
 No
 No
-AR 63  9921
 Yes Good
 No
 No
 No
 No
 No
-VE Sw V 4FY6
 No
-MN 50 DPW 9592
 Yes Bad 6292
 No
-UK 64  2060
 Yes Bad 0568
 No
-OD 43  2498
 Yes Bad 7428
 No
 No
-LA 14 MWM 4435
 Yes Bad 2435
 No
 No
 No
 No
 No
-LA 41 UIQ 8571
 Yes Bad 8791
 No
 No
-Fz ey 1 fnch
 No
 No
-MH 24 HY 9222
 Yes Bad 9053
 No
-SK 75 LC 9798
 Yes Good
 No
 No
-BR 96 YQV 5714
 Yes Good
-SK 96 J 0320
 Yes Bad 7363
-Qa Lr 5Z roln
 No
-JH 23 ZZ 6926
 Yes Good
-JK 27  3070
 Yes Bad 8785
-MH 16  6441
 Yes Bad 9692
 No
 No
 No
 No
-PY 21 MU 0022
 Yes Bad 6922
 No
-DD 81 C 3580
 Yes Bad 6589
 No
 No
-AS 74  4860
 Yes Bad 4062
-KL 79  6303
 Yes Bad 7547
 No
 No
 No
 No
-lC pR S bQa7
 No
 No
 No
 No
-TN 57 M 7455
 Yes Bad 7855
-HR 99 ZQ 7310
 No
-WB 58 YHZ 0266
 Yes Bad 1382
 No
-AS 96 FKI 2873
 Yes Bad 5887
-PB 41 S 0050
 Yes Bad 5651
 No
-RI S4  AbyY
-No
-No
-No
-No
-bh 9y ko 5EQm
 No
 No
 No
@@ -9067,21 +6527,20 @@ No
 No
 No
 No
-MH 45 FL 8729
+No
+No
+No
+No
 Yes Bad 9481
 No
-Fc ut SE o6-U
-No
-No
-Qk OA M4 TYaq
 No
 No
 No
-UK 75 FMJ 4774
+No
+No
 Yes Bad 7714
 No
 No
-DD 58 O 6710
 Yes Bad 9273
 No
 No
@@ -9089,31 +6548,24 @@ No
 No
 No
 No
-SK 76 PEO 3486
 Yes Bad 6483
 No
 No
 No
-fG OM  nv9L
 No
 No
 No
-LD 01 BZ 9220
 Yes Bad 0054
 No
 No
 No
-AN 73  9104
 Yes Bad 0794
 No
 No
-NL 45 ID 2905
 Yes Bad 2949
 No
 No
-AS 00 UB 2685
 No
-AN 13 CR 1584
 Yes Bad 1902
 No
 No
@@ -9121,82 +6573,57 @@ No
 No
 No
 No
-JH 77  3648
 Yes Good
-PB 69 DC 7526
 Yes Good
-DL 56 OR 0299
 Yes Bad 8264
-HP 29  0750
 Yes Bad 9481
-W6 yR  8Sql
 No
 No
-jw od hp WiTO
 No
-HP 14 D 2441
 Yes Bad 4538
 No
 No
-hk 6E 9 s6Bn
 No
 No
-AR 16 R 8287
 Yes Bad 3517
 No
 No
 No
-MZ 74  4645
 Yes Good
 No
-CH 65 HO 9315
 Yes Bad 9245
 No
 No
 No
-PY 95 Z 9650
 Yes Good
 No
-ML 37 JSO 1486
 Yes Bad 6436
 No
 No
 No
-WB 34 UQO 3899
 Yes Bad 3828
 No
 No
 No
-GA 03 D 2775
 Yes Good
-RJ 44  2557
 Yes Good
 No
-If uI FWR vIII
 No
-HP 43 O 2550
 Yes Bad 8202
 No
 No
-DD 23 YIS 1263
 Yes Bad 4393
-LD 20 K 3439
 Yes Bad 3851
 No
-UP 20  4837
 Yes Good
-PB 83  8326
 Yes Bad 8486
-TN 05 VL 4500
 Yes Bad 4481
 No
 No
-TR 95  7049
 Yes Bad 7143
 No
 No
 No
-RJ 63 YD 6291
 Yes Good
 No
 No
@@ -9207,59 +6634,42 @@ No
 No
 No
 No
-gj Tj aWTp -fB4
 No
 No
-GA 20 PS 2330
 Yes Good
-ei 6J  XWvf
 No
 No
 No
-AR 57  5035
 Yes Bad 5842
 No
-MP 53  7114
 Yes Bad 2361
 No
-CH 66 K 6611
 Yes Bad 6683
-1T 4K n PC-u
 No
-H4 0L jc KRPt
 No
-OD 69 TUK 1147
 Yes Bad 1178
 No
-CG 98 RN 4436
 Yes Good
 No
-LA 65  5868
 Yes Bad 5962
 No
-UP 22 XB 0065
 Yes Bad 8019
 No
 No
 No
 No
-DL 48 YV 7326
 Yes Bad 0327
 No
 No
 No
-in oR UZ BU5F
-No
-8t tK FKnI ep1-
 No
 No
 No
 No
-Rc 1e p5Z cNsX
 No
 No
 No
-BR 15  9231
+No
 Yes Bad 2411
 No
 No
@@ -9268,134 +6678,97 @@ No
 No
 No
 No
-AP 54 A 0409
 Yes Bad 1466
 No
-4g jo Us fAGo
-No
-Hz Rk UR9fP -v-2
 No
 No
 No
 No
-JH 41 J 6646
+No
 Yes Bad 9653
-Ng zL x4 ptrT
 No
 No
-PY 01 KIU 8850
 Yes Good
 No
-ML 81 UOM 5594
 Yes Good
 No
-LA 35  4316
 Yes Bad 4972
 No
 No
 No
-PY 33 USA 7776
 Yes Good
 No
 No
-OD 54 JX 2607
 Yes Bad 7627
 No
 No
-CH 48 M 0180
 Yes Bad 9186
 No
-BR 29 U 7863
 Yes Good
 No
-LA 81 TCQ 2265
 Yes Bad 3860
 No
 No
-AN 69 GLU 4016
 Yes Good
-PY vF 0o GueX
 No
 No
 No
 No
-KL 37 FTL 6090
 Yes Bad 6919
 No
 No
 No
 No
-KA 90 LV 7863
-Yes Good
-Lx iB 9 XSRa
-No
-No
-No
-No
-No
-No
-No
-ML 93 B 6386
 Yes Good
 No
 No
-PB 05 BIM 1764
+No
+No
+No
+No
+No
+Yes Good
+No
+No
 Yes Bad 8595
 No
 No
-KA 52  7190
 Yes Good
-ML 76  1454
 Yes Bad 4015
 No
-AR 91 X 1761
 Yes Bad 2526
-w- py 5SA wn0R
 No
 No
 No
 No
 No
-MH 60  9446
 Yes Bad 4847
 No
-r9 oh xcI Perz
 No
 No
 No
-DD 01 BHU 3224
 Yes Good
 No
 No
 No
-UP 93 MDW 1967
 Yes Good
 No
-TS 10  1425
 Yes Bad 9435
 No
-LA 98 BKY 4743
 Yes Bad 9747
-RJ 18 VC 9496
 Yes Bad 9596
 No
-HR 50 DD 5971
 Yes Bad 5922
 No
 No
-LA 83  3623
 Yes Bad 6628
 No
 No
 No
-OD 89  8566
 Yes Bad 8336
-KL 10 P 7038
 Yes Bad 4461
-PY 83  2695
 Yes Bad 2792
 No
-CG 83 U 5532
 Yes Bad 5568
 No
 No
@@ -9406,30 +6779,21 @@ No
 No
 No
 No
-2p 3V  Kk2v
 No
 No
-GJ 79 X 7845
 Yes Bad 5879
 No
 No
-BR 24 VQR 5492
 Yes Bad 5694
-PB 72  2921
 Yes Bad 7451
-OD 45 XE 1326
 Yes Bad 1762
-JK 98 H 5251
 Yes Good
 No
 No
-XX Jk J 5PN5
 No
 No
 No
-CG 69 ZT 3279
 Yes Good
-KL 56 C 3721
 Yes Bad 8967
 No
 No
@@ -9438,70 +6802,50 @@ No
 No
 No
 No
-TR 70  7275
 Yes Bad 8716
 No
-Wj OP 85H wj1h
 No
 No
-JK 52 U 3308
 Yes Good
 No
 No
 No
-SK 10 R 8711
 Yes Bad 4771
-yy T0 T Uja-
 No
 No
 No
-AR 54 K 4063
 Yes Bad 4617
 No
 No
 No
 No
-AN 97 R 6039
 Yes Bad 5299
 No
 No
 No
-9W qr oyUO 9v-1
 No
 No
-KL 05  0598
-Yes Good
-No
-No
-HR 00 TU 5773
-No
-fj lq j xRhq
-No
-No
-No
-AP 04 CB 6532
 Yes Good
 No
 No
 No
 No
-CH 28  7455
+No
+No
 Yes Good
-UK 40 WA 4783
+No
+No
+No
+No
+Yes Good
 Yes Bad 4983
-NL 92 FQ 8870
 Yes Good
 No
-TR 54 SA 2316
 Yes Good
-yS 9Y  38qC
 No
 No
-JH 87  9316
 Yes Bad 4617
-OD 55 M 1049
 Yes Bad 2429
-MZ 74 C 4984
 Yes Bad 4361
 No
 No
@@ -9509,164 +6853,119 @@ No
 No
 No
 No
-TR 34 T 5520
 Yes Good
 No
-HW nW t G4yv
 No
 No
-AS 82  8882
 Yes Bad 8624
 No
-1L rY oAZR OJ-u
 No
-GJ 12 ZS 8933
 Yes Bad 8636
 No
 No
 No
-NL 20 NKT 6983
 Yes Bad 7956
-g1 xT 5 uyGt
 No
 No
 No
 No
-CH 19 OR 2311
 Yes Bad 7393
-uF 6X  6Yk5
 No
-GJ 85 VP 5358
 Yes Good
 No
 No
-OD 80 I 3886
 Yes Bad 5859
 No
 No
 No
-PB 13 PRV 5810
 Yes Bad 5948
 No
 No
 No
 No
-yA fi 3 b9hi
 No
 No
 No
 No
 No
-nC cH uqB uCVE
 No
-MZ 95 X 7247
 Yes Bad 7647
 No
 No
 No
-fV W3 78L yEPI
 No
-RJ 32  9131
 Yes Bad 0736
 No
-ms jt C lAOO
-No
-4B zP Gmg mAkx
-No
-No
-No
-No
-BR 00 KSJ 7936
 No
 No
 No
 No
 No
 No
-VM g4 f kXHI
 No
 No
-CG 68 GKE 2921
+No
+No
+No
+No
+No
 Yes Bad 4252
 No
 No
 No
-NL 82 YX 9013
 Yes Bad 1794
 No
 No
 No
 No
 No
-FG Wz v 51Xj
 No
 No
-LD 21 QS 6592
 Yes Good
-SK 34 E 8537
 Yes Bad 6539
 No
 No
 No
-8A hR  dXXt
 No
 No
 No
-MP 60 OB 1922
 Yes Bad 9920
 No
 No
 No
-JK 57 V 5563
 Yes Good
-HR 98 WGX 6400
 Yes Bad 6145
 No
-BR 38 O 3635
 Yes Good
 No
-Jq fK Em Nrxl
 No
 No
-MZ 22 FVQ 9938
 Yes Bad 3648
 No
 No
 No
-mH 9- Gp8L NbBu
 No
 No
 No
-3K M7 u 4kJk
 No
-SK 83 VIB 8984
 Yes Good
-HP 21 XA 3439
 Yes Bad 9444
 No
-PY 47 X 1650
 Yes Bad 5850
 No
-HP 63 KN 2758
 Yes Bad 9958
 No
 No
-oS S9 Sks QXgz
 No
 No
-MP 58  1432
 Yes Bad 4834
-JK 91 DE 5243
 Yes Good
 No
 No
 No
 No
-Ui RF J7 Vmds
 No
-MZ 90 JF 1686
 Yes Bad 6686
-MH 35 IS 2948
 Yes Good
 No
 No
@@ -9675,46 +6974,32 @@ No
 No
 No
 No
-TG UW WoV ycnq
 No
-5C Qd Pe xNHm
 No
-TR 71 WMO 1913
 Yes Bad 2985
 No
 No
-Zg Ss  UOT0
-No
-No
-No
-Kx Er  9TgE
 No
 No
 No
 No
 No
 No
-MH 24  7210
+No
+No
+No
 Yes Bad 7919
-DL 86  1631
 Yes Bad 1438
-SK 30 XGQ 3669
 Yes Good
 No
 No
-RJ 47 FMF 8896
 Yes Bad 4986
 No
-MN 78 QL 2173
 Yes Good
 No
-JK 08 HWP 3169
 Yes Bad 4362
-PY 64  5854
 Yes Bad 5856
-LA 25  6545
 Yes Good
-ML 63 S 0867
 Yes Bad 2581
 No
 No
@@ -9733,56 +7018,40 @@ No
 No
 No
 No
-NL 24 PL 3168
 Yes Bad 5629
 No
 No
 No
-OD 72 WED 0359
 Yes Bad 2356
-GA 63 MHE 1536
 Yes Bad 2576
-SK 31 W 7449
 Yes Good
 No
 No
-DD 15  8085
 Yes Good
 No
-MN 05 YEP 5906
 Yes Good
 No
-MP 42 QQQ 1577
 Yes Bad 5649
-AP 88 R 7824
 Yes Bad 8868
 No
-7v yV  u8l6
 No
 No
 No
-TN 81  7230
 Yes Bad 8832
-MP 01  3446
 Yes Bad 3950
 No
 No
 No
-MN 06 JB 4251
 Yes Good
-WB 50 OEU 7534
 Yes Bad 7537
 No
 No
 No
 No
-UK 67 FV 9199
 Yes Bad 8155
 No
-yj 73  gxMU
 No
 No
-DL 90 V 5154
 Yes Bad 5549
 No
 No
@@ -9794,12 +7063,9 @@ No
 No
 No
 No
-GA 12 O 3016
 Yes Bad 8912
 No
-LA 19 VFN 5305
 Yes Bad 9812
-JK 13 WOZ 9466
 Yes Good
 No
 No
@@ -9810,95 +7076,66 @@ No
 No
 No
 No
-TR 70 XS 6770
 Yes Bad 0775
 No
-GA 70 E 5834
 Yes Bad 8434
 No
 No
 No
 No
-LD 06 LUJ 5739
 Yes Bad 8279
-Ce sE q7 tnYd
 No
-MP 67 AU 7099
 Yes Bad 0617
-DL 27  5506
 Yes Good
 No
-CG 57 GWB 5187
 Yes Good
-wQ 22 1-Iz CzDa
 No
 No
 No
-CG 57 J 8464
 Yes Bad 2564
 No
 No
 No
 No
-NL 47 WCX 5637
 Yes Bad 8163
 No
-UK 47 D 9825
 Yes Bad 9236
 No
 No
-MZ 11 TKT 6708
 Yes Good
 No
-MN 47 WTH 6866
 Yes Bad 6864
-DL 93 Y 0031
 Yes Bad 2548
-MP 91 KMU 4714
 Yes Bad 6769
 No
-GJ 66  4840
 Yes Bad 4829
 No
 No
 No
-RJ 92 XU 3312
 Yes Bad 6448
-WB 12  5063
 Yes Bad 8634
-GJ 74 BXO 1073
 Yes Bad 7774
 No
-RJ 33 JXC 5645
 Yes Bad 5651
 No
-OD 32 S 9943
 Yes Good
 No
 No
 No
 No
 No
-CH 88 Q 6987
-Yes Good
-Kl 26  dNaW
-No
-AS 45 TRQ 4126
-Yes Good
-CG 95 A 8620
 Yes Good
 No
-NL 32 X 5379
 Yes Good
-59 9F 4 y9BN
+Yes Good
 No
-CG 40 K 5021
+Yes Good
+No
 Yes Bad 6837
 No
 No
 No
 No
-f- QE Ha gEW6
 No
 No
 No
@@ -9907,13 +7144,9 @@ No
 No
 No
 No
-KA 56 SPG 2151
 Yes Bad 6363
-MN 08 ZP 2429
 Yes Good
-UK 41 JSD 0602
 Yes Bad 6663
-AN 11  9410
 Yes Good
 No
 No
@@ -9925,57 +7158,41 @@ No
 No
 No
 No
-JH 90 U 4494
 Yes Bad 8934
-OD 18 CG 8930
 Yes Bad 8992
 No
 No
-PB 73 MU 1956
 Yes Bad 2116
 No
 No
-LA 66 X 7672
 Yes Bad 7877
 No
 No
 No
-CG 85 D 8076
 Yes Bad 9776
 No
 No
 No
 No
-BR 42 BG 9152
 Yes Bad 9197
-CG 57  6066
 Yes Good
-UP 84 MN 0979
 Yes Bad 2079
-AR 00 QS 9651
-No
-No
--R I2 w5MW hdG4
 No
 No
 No
 No
 No
 No
-LA 45 K 0060
+No
+No
 Yes Bad 5928
-NL 42 OLI 4073
 Yes Bad 4558
-et 9w 8K OSx7
 No
-KA 66 YJH 1100
 Yes Bad 8124
-Lu Yq PjT fpSt
 No
 No
 No
 No
-LA 09 OK 2057
 Yes Good
 No
 No
@@ -9986,32 +7203,24 @@ No
 No
 No
 No
-FM wR F4U wDxG
-No
-rs AP  IAiT
 No
 No
 No
 No
-BR 33 ACL 5993
+No
 Yes Good
 No
 No
-MP 73 N 4748
 Yes Bad 9741
 No
-GJ 15  0487
 Yes Bad 9587
 No
 No
 No
-GJ 96  0148
 Yes Good
 No
 No
-TR 25 G 5010
 Yes Bad 9812
-LA 93 ITB 4151
 Yes Bad 9557
 No
 No
@@ -10019,89 +7228,66 @@ No
 No
 No
 No
-JH 10  6749
 Yes Bad 6759
 No
-mb L- b Zy71
 No
 No
 No
 No
 No
-Hy Wx ib ZSN8
 No
 No
 No
 No
 No
-MN 38 TL 8671
 Yes Bad 2374
 No
 No
 No
-RJ 00 B 9333
-No
--w Om ont GCug
 No
 No
 No
 No
 No
 No
-KA 01 QUH 7092
+No
 Yes Bad 7711
 No
 No
-MN 27 JW 8209
 Yes Bad 1269
-AS 90 A 0197
 Yes Bad 0398
-4R UE  b0Iv
-No
-No
-fE nv p eiIQ
 No
 No
 No
-LD 29 WSV 6272
+No
+No
 Yes Bad 0773
 No
-PK cq nF KSKw
 No
 No
 No
 No
-LA 82 VEP 0784
 Yes Bad 5937
 No
 No
-IN id uIl 62KW
 No
 No
-CH 20 MT 3953
 Yes Bad 7858
 No
 No
-S4 Tw BM 8lYm
 No
-CH 65 R 3677
 Yes Bad 0572
-AS 08 HC 4930
 Yes Bad 5291
 No
 No
 No
-CH 14 G 8462
 Yes Bad 9767
 No
 No
 No
 No
-HP 77 PMO 0986
 Yes Bad 7009
-UK 62 MEG 8622
 Yes Bad 8672
-CG 89 MZU 7038
 Yes Bad 7833
 No
 No
@@ -10110,75 +7296,55 @@ No
 No
 No
 No
-DL 03  5222
 Yes Bad 9682
-TN 83  1402
 Yes Good
 No
 No
-MN 54 ACC 9013
 Yes Good
 No
 No
-iU 98 wK nUsM
 No
 No
-CH 51 J 9996
 Yes Bad 4926
-MZ 32 IZ 4890
 Yes Bad 4811
 No
 No
-CG 36 Q 8704
 Yes Bad 3724
-JK 39 CY 2328
 Yes Bad 8568
 No
-NL 90  3308
 Yes Bad 6762
 No
 No
-xy Qc eui- -tAM
 No
 No
-PB 70 X 1856
 Yes Bad 9056
-LD 92  4781
 Yes Bad 6887
 No
 No
-TR 98 WZ 8409
 Yes Bad 2427
 No
-GA 49 HT 0286
 Yes Bad 6887
 No
 No
 No
-tk rH 3 Gy0e
 No
 No
 No
 No
 No
-MN 17  7245
 Yes Good
-BU 8c b8l-5 8Fl-
-No
-No
-YL Ip j3A HTeg
-No
-No
-No
-No
-F0 ky D LbvI
 No
 No
 No
 No
 No
 No
-DL 30 YP 0689
+No
+No
+No
+No
+No
+No
 Yes Bad 1633
 No
 No
@@ -10188,104 +7354,71 @@ No
 No
 No
 No
-AP 16 M 5388
 Yes Bad 8655
-HR 29  4692
 Yes Good
 No
-DD 69 L 2382
 Yes Bad 9356
-CH 56  0549
 Yes Good
-BR 93 JER 7541
 Yes Good
-LA 06 EYS 6609
 Yes Bad 1859
 No
 No
-OD 70 QE 2487
 Yes Good
 No
 No
-TN 02 MGK 5608
 Yes Bad 5697
-AN 26 K 7524
 Yes Good
-PB 09 PWX 9001
 Yes Bad 9888
 No
 No
-LA 02 RGZ 3183
 Yes Bad 7983
 No
-DD 95  9446
 Yes Bad 2796
 No
 No
 No
-TS 68 AZ 8127
 Yes Bad 2361
 No
 No
-yI aV 32i SrHD
 No
-UP 88 G 6895
 Yes Good
 No
 No
 No
-PY 14 KDB 4148
 Yes Bad 7155
-MN 48 NII 2145
 Yes Good
 No
 No
-HR 19 V 7537
 Yes Bad 7578
-TN 47  8428
 Yes Good
 No
 No
 No
 No
-AR 97 FF 9101
 Yes Good
 No
 No
 No
 No
-AP 66 F 0755
 Yes Bad 0455
-UK 97 CS 2030
-Yes Good
-Yo tL n-Ml frua
-No
-AN 01 SPT 0946
 Yes Good
 No
-2K t0  sm7U
-No
-No
-No
-No
-BR 17 G 1999
 Yes Good
-TS 30 IO 6468
+No
+No
+No
+No
+No
+Yes Good
 Yes Bad 6800
 No
-HP 30 GF 7464
 Yes Bad 0884
-SK 06 GH 9787
 Yes Bad 4921
-7V x4 lZ NKeL
 No
-KA 55 C 0877
 Yes Bad 0321
 No
-UK 22  3669
 Yes Bad 3994
 No
-KL 92  0031
 Yes Bad 5137
 No
 No
@@ -10294,33 +7427,24 @@ No
 No
 No
 No
-TN 58  7208
 Yes Good
-TS 44 X 0799
 Yes Bad 6869
-ML 77 ZHZ 1817
 Yes Bad 5187
-HR 80  9801
 Yes Bad 5513
 No
 No
-HR 20 XH 5974
 Yes Bad 9574
 No
-PY 32 MOY 8261
 Yes Bad 8383
 No
 No
 No
 No
-AN 98  8150
 Yes Bad 5111
-k4 51 aSA z8V5
 No
 No
 No
 No
-MN 51 OY 4021
 Yes Bad 0827
 No
 No
@@ -10329,44 +7453,32 @@ No
 No
 No
 No
-MH 99 OU 4716
 No
-BR 67 SXM 3710
 Yes Bad 9714
 No
 No
 No
-PB 96 UKW 6052
 Yes Bad 6413
 No
 No
 No
-RJ 92 VQP 2263
 Yes Bad 2563
-HR 83  4453
 Yes Bad 5853
 No
 No
 No
-MH 72 X 1588
 Yes Bad 5583
--d 3C 3TxR PRXs
 No
 No
-wI Rv hl n6Dd
 No
-ML 18 RQ 7209
 Yes Bad 9399
 No
-TR 08 NQ 1805
 Yes Good
 No
 No
-HR 99 AYE 8961
 No
 No
 No
-TN 01 AH 3123
 Yes Bad 4292
 No
 No
@@ -10376,59 +7488,44 @@ No
 No
 No
 No
-oh sW 4iv C2pc
 No
 No
-OD 06 PAG 1417
 Yes Good
 No
 No
 No
 No
-5r 0i V 1zSz
 No
 No
 No
 No
-KL 92 RBN 7211
 Yes Bad 2289
-MP 74 RJ 1168
 Yes Bad 4869
 No
-TR 38  6493
 Yes Good
 No
 No
 No
-VZ AO qxK gZsy
-No
-Et GX se hgTq
 No
 No
 No
 No
 No
-UP 96 PBG 9547
+No
 Yes Bad 0551
-4T PO m Z2CP
 No
 No
 No
 No
-TS 57  7812
 Yes Bad 4888
-AR 36 BDD 1567
 Yes Bad 4077
-PB 46 EU 6727
 Yes Good
-CG 89  4906
 Yes Bad 6957
 No
 No
 No
 No
 No
-LD 99  9012
 No
 No
 No
@@ -10437,36 +7534,26 @@ No
 No
 No
 No
-Ri vw  Js80
 No
 No
-TN 70 HT 3146
 Yes Bad 8846
 No
 No
 No
 No
-7b Eh u T4Rm
 No
 No
 No
 No
 No
-DL 00  5680
 No
 No
-LA 78 KS 6280
 Yes Bad 7388
 No
-DD 67 CVX 4870
 Yes Bad 4205
-PB 65  2345
 Yes Bad 2795
-LD 81 EYD 3138
 Yes Good
-nK kd 3eO Jazz
 No
-OD 43 A 7619
 Yes Bad 2617
 No
 No
@@ -10475,53 +7562,38 @@ No
 No
 No
 No
-MN 78  2815
 Yes Bad 2145
 No
-LA 83 BHK 2042
 Yes Bad 9148
 No
 No
-MP 02 QL 4267
 Yes Bad 9187
-u0 kP K G50u
 No
 No
-AN 97  4569
 Yes Bad 0979
 No
-JK 24 KT 6100
 Yes Bad 1677
 No
 No
-PB 02  2960
 Yes Bad 4061
-LA 55 N 0376
 Yes Good
 No
-AP 76 P 1007
 Yes Bad 6463
-JK 11 W 9613
 Yes Bad 9046
-VA pH bm jHNj
 No
-KA 31  6088
 Yes Bad 6791
 No
-bi zi  5iKf
 No
 No
 No
 No
 No
 No
-MP 31 G 1815
 Yes Bad 7055
 No
 No
 No
 No
-CG 92 E 8437
 Yes Bad 1492
 No
 No
@@ -10531,38 +7603,25 @@ No
 No
 No
 No
-JH 93 Q 6714
 Yes Bad 0815
-UP 80 LCE 7840
 Yes Bad 7846
-BR 74 KY 7818
 Yes Bad 0432
 No
-AR 02 H 1948
 Yes Bad 9954
-ML 17 WO 3782
 Yes Bad 6784
-NL 90 Z 1032
 Yes Bad 6432
 No
-UP 06 DQH 1599
 Yes Bad 1644
 No
-NL 15 W 1085
 Yes Bad 3405
 No
 No
-LA 28  3339
 Yes Bad 5139
-DD 91  8196
 Yes Bad 8836
 No
-qs uc  LfVd
 No
 No
-WB 36  0317
 Yes Bad 9347
-uN TH p9W 1wGk
 No
 No
 No
@@ -10573,53 +7632,32 @@ No
 No
 No
 No
-TN 54 JTU 3708
 Yes Bad 3385
 No
 No
-LA 58 NKV 3858
 Yes Good
-qe 32 fzb lhLB
 No
 No
-PB 25 YT 3490
 Yes Good
 No
 No
 No
 No
-PB 63 Z 2560
 Yes Good
 No
 No
-TN 71  0756
 Yes Bad 0758
 No
-JK 13 WIY 5079
 Yes Bad 5804
 No
 No
-O6 Lm 1Ql iQKR
 No
 No
-UK 42 V 7382
 Yes Bad 7315
 No
-mn zd 811 QSGN
 No
-JK 39  1382
 Yes Bad 3782
 No
-MZ 43 VIM 8851
-Yes Good
-oX Ox  5b8C
-No
-No
-No
-No
-No
-No
-JH 90  5615
 Yes Good
 No
 No
@@ -10627,16 +7665,16 @@ No
 No
 No
 No
-gE Wh Lu Prh8
+Yes Good
 No
-MN 38 QE 0427
+No
+No
+No
+No
+No
+No
 Yes Bad 9457
 No
-WC Bu pFR LAAe
-No
-No
-No
-Y7 7s 5 ND-6
 No
 No
 No
@@ -10645,33 +7683,26 @@ No
 No
 No
 No
-pM ti A GNBF
 No
-HP 47 BH 3558
+No
+No
+No
 Yes Good
-e2 j1 P 803y
 No
 No
 No
-DL 67 ZCS 5872
 Yes Bad 5535
-CH 29 N 2273
 Yes Good
 No
 No
-RJ 44  7749
 Yes Bad 9499
 No
-OD 12  5181
 Yes Bad 9418
-BR 18 HFN 4931
 Yes Bad 4705
 No
-vn 3o 5c DN5o
 No
 No
 No
-JK 58  6879
 Yes Good
 No
 No
@@ -10681,20 +7712,12 @@ No
 No
 No
 No
-HR 61 V 2615
 Yes Bad 7646
 No
 No
 No
 No
 No
-O7 Yd gW 7xcQ
-No
-No
-Pn Ln 1 tDWo
-No
-No
-gU m7 5 DZhz
 No
 No
 No
@@ -10706,21 +7729,21 @@ No
 No
 No
 No
-AN 58 LU 7607
+No
+No
+No
+No
 Yes Bad 0652
 No
 No
 No
 No
 No
-CG 86  3829
 Yes Bad 3883
 No
 No
 No
-UK 51 AYW 7742
 Yes Good
-DL 38 JP 7944
 Yes Bad 0966
 No
 No
@@ -10728,31 +7751,13 @@ No
 No
 No
 No
-PB 27 XKX 8074
 Yes Bad 4274
 No
-KA 36  7423
 Yes Bad 1601
 No
 No
 No
 No
-vq Y9 yvR LSY6
-No
-th DT 0 YqVX
-No
-No
-No
-No
-No
-No
-V0 Lc Au ibGg
-No
-No
-No
-No
-No
-qd xW  M18P
 No
 No
 No
@@ -10760,92 +7765,75 @@ No
 No
 No
 No
-JK 65 OGO 2795
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
 Yes Bad 2005
 No
-KL 09 VR 2962
 Yes Bad 2377
-JK 67  4189
 Yes Bad 7282
 No
 No
-GA 61 BN 7406
 Yes Bad 7456
 No
 No
 No
 No
 No
-AS 58 RGJ 3072
 Yes Bad 8673
 No
-cZ YZ RU t43f
 No
-UP 03 ZHM 3600
 Yes Bad 1302
 No
 No
-MN 14 ZTQ 7923
 Yes Bad 5626
-P6 bN 5e ZTmu
 No
-MH 55 QW 8945
 Yes Bad 1046
-5B V2 6ysN -INn
 No
-AP 48 L 2888
 Yes Bad 3380
-w6 6U  AwU9
 No
 No
 No
 No
 No
 No
-BR 99 SE 4813
-No
-No
-B0 0Y S GwNn
 No
 No
 No
 No
-GJ 05  5154
+No
+No
 Yes Bad 5454
-OD 82 AND 2454
 Yes Good
-UP 66 T 9272
 Yes Bad 1673
-LA 48  4931
 Yes Bad 9541
 No
 No
 No
-hr S5 5Rv O7TO
 No
 No
-UP 42 AIM 9697
 Yes Bad 4197
-TR 69 R 2718
 Yes Bad 9738
-UP 14 QJ 1053
 Yes Bad 3558
-GJ 69 U 8053
 Yes Good
 No
 No
-LA 49 F 4554
 Yes Good
 No
 No
-zU wS O 9JTw
 No
-AN 05  7097
 Yes Bad 1227
-H5 oG VHF q4dk
 No
 No
-AS 37 KPC 4715
 Yes Bad 4499
 No
 No
@@ -10854,50 +7842,36 @@ No
 No
 No
 No
-L4 Xx oMut wte-
 No
 No
-MN 39 F 3085
 Yes Bad 3677
-CH 48 B 5743
 Yes Bad 6868
-PB 67  1355
 Yes Good
-RJ 62 DYM 2377
 Yes Bad 9320
 No
-WB 13 I 4561
 Yes Good
 No
 No
 No
 No
 No
-wF tu I a45W
 No
 No
 No
 No
-AN 87  2943
 Yes Good
-DL 86 DH 3703
 Yes Good
 No
-wZ rl  haOU
 No
 No
-RJ 08  9437
 Yes Bad 6937
 No
 No
 No
 No
-MZ 51  3425
 Yes Good
-KL 20 J 0312
 Yes Bad 0343
 No
-DD 21 TK 7400
 Yes Bad 7687
 No
 No
@@ -10906,56 +7880,41 @@ No
 No
 No
 No
-KL 10 KI 8407
 Yes Good
 No
 No
 No
-BR 05 RJ 0132
 Yes Bad 8496
 No
 No
-DD 33 AA 7180
 Yes Bad 0694
 No
-GJ 75 X 8513
 Yes Bad 8016
-KA 29 AG 8439
 Yes Bad 4992
 No
 No
 No
 No
-DL 49 JE 5330
 Yes Bad 2338
-HR 79 EOF 6841
 Yes Bad 4504
 No
-vQ x3  5pRP
 No
 No
 No
 No
 No
-GA 67  8419
 Yes Bad 4966
 No
-AP 43 GI 2889
 Yes Bad 8882
-GA 10 CP 2523
 Yes Bad 9873
-DY jQ U U4vF
 No
 No
-MN 68  5171
 Yes Bad 7592
 No
 No
 No
-SK 89 AON 1760
 Yes Good
 No
-JH 40 RR 9163
 Yes Bad 8976
 No
 No
@@ -10963,14 +7922,10 @@ No
 No
 No
 No
-CC 8z fVm ZQmm
 No
 No
-GA 50 ATZ 8371
 Yes Good
-KL 83  7516
 Yes Bad 8516
-AP 42 W 4173
 Yes Bad 6339
 9
 LD-10-SJT-2882 qxp
