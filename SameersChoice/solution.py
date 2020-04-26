@@ -2,6 +2,10 @@ import re
 from collections import defaultdict
 
 class Solution:
+    def is_palindrome(self,n):
+        if(n == n[::-1]):
+            return True
+        return False
     def check_print_number(self,n,vehicle_type,pattern_dict):
         number = ''
         flag = 1  #decide if number is good or bad
@@ -14,7 +18,7 @@ class Solution:
                 number += str(pattern_dict[vehicle_type][i][0])
         if(flag):
             print('Yes','Good')
-            return True
+            return self.is_palindrome(n)
         else:
             print('Yes','Bad',number)
             return False
