@@ -23,7 +23,7 @@ No
 HP-80-BIF-4068
 Yes Good
 DL-32-5985
-Yes Good
+No
 AR-93-WG-9665
 Yes Good
 DL-56-D-0409
@@ -43,9 +43,9 @@ No
 HeBXZWxqu0PGX7sHHze8bv
 No
 TR-10--4819
-Yes Bad 6851
+No
 JK-81-1619
-Yes Bad 1710
+No
 TR-95-Y-4919
 Yes Bad 4926
 CndU
@@ -79,7 +79,7 @@ No
 DL-17-FHIG-7525801733
 No
 LA-80-0265
-Yes Bad 0366
+No
 AFr
 No
 JBZq
@@ -147,7 +147,7 @@ No
 A72F8mp2QRizYcjBGYTczEQva
 No
 CH-27-4377
-Yes Bad 2573
+No
 v1jDwilOUUhBf5t
 No
 Vri9KI5s86sdk0UlFO
@@ -171,7 +171,7 @@ Yes Good
 LEt1xb83RSFUTV7FwzKiMcO
 No
 JK-87-7853
-Yes Good
+No
 DD-67-EB-9801
 Yes Bad 8641
 MH-97-KPT-8360448064
@@ -213,7 +213,7 @@ No
 0lpgHAMSQ8iTOMuv0
 No
 JK-25--0260
-Yes Bad 4864
+No
 Rp4D
 No
 PY-05-A-8217
@@ -267,9 +267,9 @@ No
 SK-77-ZQ-9506
 Yes Bad 9586
 MZ-48-0629
-Yes Good
+No
 LD-76-3668
-Yes Good
+No
 4n3aJm0kQcfrY8vz2bNtpGC
 No
 k-BzpQvK7L
@@ -289,9 +289,9 @@ No
 KBDxL56p9vofM02FV9qGUo
 No
 UK-15-0085
-Yes Good
+No
 RJ-38--0513
-Yes Bad 2541
+No
 3Lqmqp6h21yzfnYFtUXfls
 No
 hnkbHRRpBCzKzFlzEIkpsr
@@ -303,13 +303,13 @@ No
 63PexeuYGJlFWt4
 No
 BR-53-4274
-Yes Good
+No
 LA-96-RU-5893
 Yes Good
 LD-48-H-1102
 Yes Bad 9706
 TR-67-9653
-Yes Bad 7637
+No
 UHyUEXBPAyipII
 No
 JK-07-Z-7262
@@ -339,11 +339,11 @@ No
 ysuRC
 No
 OD-89-0503
-Yes Good
+No
 85wzgKk0q3D
 No
 PY-64-1214
-Yes Good
+No
 EhW
 No
 qzb3k0k6T68JG6vU4AeAi
@@ -359,7 +359,7 @@ No
 7JQI03UcRFwxa
 No
 WB-01-6574
-Yes Good
+No
 PY-90-PL-4776
 Yes Bad 5826
 KA-08-LT-4927
@@ -417,7 +417,7 @@ Yes Bad 4454
 j7w1KQ3t
 No
 RJ-84--5149
-Yes Bad 5749
+No
 zGxFG
 No
 FCZA
@@ -459,7 +459,7 @@ No
 kq451-jm9-DwYe69hgRAW6
 No
 GA-04-5734
-Yes Bad 5374
+No
 7RK1CKfdr
 No
 uafVw4tDNHIMy3aN7kpZ
@@ -573,7 +573,7 @@ No
 Q84qmEXviuJkPCOcwF1i
 No
 DL-85--9504
-Yes Bad 0644
+No
 TE8AxgoXE1KrNZKrcl
 No
 D6SOsVj
@@ -599,7 +599,7 @@ No
 AP-11-YO-8304
 Yes Bad 2724
 UK-17-6361
-Yes Bad 6364
+No
 SK-51-Z-7112
 Yes Bad 0373
 m29TEQk0JzGdq3b2Kl7ATwE81
@@ -633,7 +633,7 @@ No
 GJ-02-JOWZM-0879821842
 No
 BR-91-5276
-Yes Bad 5256
+No
 py5DRYiAMM8eI0e
 No
 DzIuZHOU6HXpmOD6db
@@ -689,11 +689,11 @@ No
 TYP6XnadC
 No
 GA-45-5914
-Yes Good
+No
 wlyebLw593S8XMWvRB
 No
 JH-84-8437
-Yes Bad 9457
+No
 jMIrZHY5a
 No
 MZ-46-BO-0936
@@ -701,7 +701,7 @@ Yes Bad 4156
 Vi5zY2oXOLDBsc3mbrQ
 No
 AR-31-9395
-Yes Bad 9398
+No
 AP-29-GDV-7487788621
 No
 UGCBmy4XTB500UPjYBDt
@@ -723,7 +723,7 @@ No
 YDpWMHiF5ueFM56B5ToksKNNc
 No
 OD-80-6617
-Yes Bad 0418
+No
 7G3vKUyO5dG6Ae
 No
 KA-66-AJ-9826
@@ -741,7 +741,7 @@ No
 tIu0ELzpTT8QzYcD5Cwqu3F
 No
 KL-25-9203
-Yes Bad 9285
+No
 KlKVYSEvItxmQjVFHvWmrk7Jp
 No
 h6o
@@ -781,9 +781,9 @@ No
 BR-66-YL-1428
 Yes Bad 1778
 MP-70--4782
-Yes Bad 7732
+No
 LA-62-3531
-Yes Good
+No
 7cm1GV8M6hfGYk2
 No
 jwSVNWjEov7SDrXi
@@ -797,7 +797,7 @@ No
 pI448x-gIMqbpe
 No
 OD-25-9937
-Yes Bad 9847
+No
 UGWGnlllCZAtWnmJMI7DjN
 No
 s2heYNRfae-piivSclfFe
@@ -847,7 +847,7 @@ No
 NQNgcU-bgLCBoQ9kuUIfoUOwM
 No
 OD-26--0284
-Yes Bad 4324
+No
 OD-95-I-0780081422
 No
 mGpRghE5RT
@@ -857,11 +857,11 @@ No
 q
 No
 AR-12-6142
-Yes Bad 8119
+No
 VpChcf
 No
 ML-32-7904
-Yes Bad 2925
+No
 d1i
 No
 NL-56-A-3981
@@ -871,7 +871,7 @@ No
 K
 No
 UP-18-1959
-Yes Good
+No
 nQyZG4MWsFcOIFxQekRl0ZT7L
 No
 6tV
@@ -897,7 +897,7 @@ No
 usqFkBqx5OFB6yqJCZScHG1
 No
 ML-36--7842
-Yes Bad 8844
+No
 7dIRUYwoBs3kIQeNdfnE
 No
 HR-91-CLR-5603
@@ -917,7 +917,7 @@ No
 mskayMj
 No
 TS-54-8481
-Yes Good
+No
 FyxMDHd
 No
 O-mZh66xBdFn46r
@@ -999,7 +999,7 @@ Yes Good
 PY-21-NLZU-8642195516
 No
 AP-19-9089
-Yes Bad 1285
+No
 CG-95-MU-9486
 Yes Bad 7411
 L5Xqnrzp-DFHiCZK
@@ -1113,7 +1113,7 @@ No
 KZo6wFBn
 No
 NL-21--5392
-Yes Bad 8853
+No
 VZ6ODvduNdW
 No
 W3A7O9Wq1dKPPBir3t
@@ -1121,9 +1121,9 @@ No
 BquTaaSr8L
 No
 DD-55-3346
-Yes Bad 6647
+No
 MN-78-9713
-Yes Good
+No
 H-mUnkeRRpHit69
 No
 sQfkCtum5PoBjfX1Wve3g
@@ -1157,7 +1157,7 @@ No
 C0u8ai0XCNV
 No
 JK-02--0816
-Yes Bad 8827
+No
 mAQRLOTN7fnVv6J4a8Lcm
 No
 hTpNtzsUjz4-Ardp-A
@@ -1223,7 +1223,7 @@ No
 AS-55-X-7082757789
 No
 LD-78--4936
-Yes Bad 4416
+No
 GA-36-U-4222
 Yes Bad 4336
 O2Q-kDW3ylcaWtW67h
@@ -1239,7 +1239,7 @@ No
 aFjG87RgE
 No
 MP-02-9988
-Yes Good
+No
 aF
 No
 5FBZuqT
@@ -1265,7 +1265,7 @@ No
 wSyHT
 No
 AN-76-0123
-Yes Good
+No
 KL-91-OD-7034
 Yes Bad 7234
 bPbHb
@@ -1287,7 +1287,7 @@ Yes Bad 1957
 CG-72-YM-9894333374
 No
 KA-87-6859
-Yes Good
+No
 OU
 No
 O-RyKFJQavWZB
@@ -1297,7 +1297,7 @@ Yes Good
 PB-41-OZP-9878442668
 No
 AR-65-6024
-Yes Bad 6435
+No
 UP-93-WHT-7216
 Yes Good
 F8nha7O2eV
@@ -1313,7 +1313,7 @@ No
 UK-74-OW-1376
 Yes Bad 1486
 AN-34-8191
-Yes Bad 8292
+No
 EoflcJbiZd9t5MP3
 No
 LuFE
@@ -1363,11 +1363,11 @@ No
 xF9sjeKjo3-TAijOe85KW0UD-
 No
 UP-33-0382
-Yes Bad 3583
+No
 TN-20-LJ-5949
 Yes Bad 5674
 PY-74-2757
-Yes Bad 9777
+No
 uFTpPmp-B1ioThChNwi
 No
 Eu6ycPANKZ
@@ -1395,13 +1395,13 @@ Yes Good
 g2KdAzbtIJgHTLp
 No
 BR-86-7638
-Yes Bad 7653
+No
 ukMW4ZxHQLC-ng3cm07aV3Y-4
 No
 Xf99
 No
 AS-93-0828
-Yes Good
+No
 AS-04-NA-3395
 Yes Bad 3800
 TK2n9WV9mXDRvUIL-1GS
@@ -1419,7 +1419,7 @@ No
 JH-83-C-3404
 Yes Bad 7174
 AP-66-2674
-Yes Bad 5976
+No
 FPM1GrcS
 No
 AR-09-BJ-4329512179
@@ -1443,7 +1443,7 @@ Yes Bad 9977
 5tJOB2RobylopwxOmdhIUJnju
 No
 TN-31--2755
-Yes Bad 8594
+No
 MZ-83-SJSV-7102248679
 No
 WXcgDFYW00Y9Hl
@@ -1479,7 +1479,7 @@ No
 HP-58-JDW-3228387229
 No
 MH-65-4885
-Yes Bad 4895
+No
 LA-49-YAT-1389
 Yes Bad 5682
 2
@@ -1495,7 +1495,7 @@ No
 tKvc4fQDNnSigMjMwHGS
 No
 MH-21-4989
-Yes Bad 4946
+No
 JH-93-SGW-3102
 Yes Bad 7193
 qVlSP8NaYaXNjsrdwc47Vuot
@@ -1503,7 +1503,7 @@ No
 AS-91-LP-1048286954
 No
 CH-07-3094
-Yes Bad 3414
+No
 EcIjC
 No
 MSqH
@@ -1549,11 +1549,11 @@ Yes Bad 8725
 PPzYy2UBqboMTAoBU7Pjt6fa
 No
 HP-17-9124
-Yes Bad 8394
+No
 CH-86-W-9737408537
 No
 MP-28--7060
-Yes Bad 9568
+No
 1MFNBLgUHfsicajJhye3SYp
 No
 CG-25-TW-8940
@@ -1651,7 +1651,7 @@ Yes Good
 jzyMSVj2n9eovh9g0sqOJImqp
 No
 CG-49-6847
-Yes Bad 9641
+No
 KL-74-NEO-2475
 Yes Bad 8485
 CG-97-CZZ-3601
@@ -1669,7 +1669,7 @@ Yes Good
 xXr9AcH
 No
 BR-66-5235
-Yes Good
+No
 s5wGZXGmeSDdksqmqKAO4KTm
 No
 JK-23-KDPG-4796189724
@@ -1695,11 +1695,11 @@ No
 lMoveu0jIDgFpFrJme6
 No
 TS-28--5951
-Yes Bad 7793
+No
 UK-24-NN-5004
 Yes Good
 SK-83-4952
-Yes Bad 9153
+No
 CH-42-UDM-6578
 Yes Bad 9591
 mAI
@@ -1737,13 +1737,13 @@ No
 GNqPHGqYq
 No
 JH-84-9992
-Yes Good
+No
 0YlQq2GfvUPwq6cyS7iGqKc
 No
 vPdA00GFYEkD8DoYTNxWfLS
 No
 TS-45-0418
-Yes Good
+No
 CH-79-GMHX-1773440823
 No
 KL-66-P-3692
@@ -1757,7 +1757,7 @@ No
 OD-84-A-3473
 Yes Bad 3487
 LD-12--4067
-Yes Bad 4167
+No
 PB-89-RXB-1935
 Yes Bad 1742
 Rs4yFwLaG
@@ -1783,7 +1783,7 @@ No
 MP-73-BL-4749451776
 No
 JK-60--9743
-Yes Bad 9218
+No
 jxQ2PNfh6ycSFQpOl
 No
 JH-45-S-2243
@@ -1803,7 +1803,7 @@ Yes Bad 5706
 FsaQraK
 No
 AS-11-5799
-Yes Bad 5283
+No
 ql2LuypUJgD
 No
 BR-10-KRIH-8543740316
@@ -1857,11 +1857,11 @@ No
 BR-27-UV-9373
 Yes Bad 0078
 SK-92-5200
-Yes Good
+No
 pmcI7Vi0GH6es6
 No
 GJ-64-0533
-Yes Bad 4618
+No
 ZFIX70yB7RPCF0ETqWD
 No
 BR-31-3463998545
@@ -1887,9 +1887,9 @@ No
 P
 No
 AN-87-0984
-Yes Bad 9401
+No
 LA-63-0367
-Yes Bad 1877
+No
 GA-14-VQ-1806
 Yes Bad 3679
 SK-09-K-8838
@@ -1913,7 +1913,7 @@ No
 0CP3H1Y5QR
 No
 DL-22-0465
-Yes Bad 4465
+No
 LA-33-ZI-1545
 Yes Bad 9450
 LA-22-Q-8515828447
@@ -1927,7 +1927,7 @@ No
 NTLDspKcBFBQwyqKfBeYS
 No
 PY-39--3139
-Yes Bad 3360
+No
 CH-09-OP-4754
 Yes Bad 4257
 ex9KjH1EeY27fS
@@ -1965,7 +1965,7 @@ No
 -UTKL
 No
 WB-55-7906
-Yes Bad 0485
+No
 1N9bk6uvLIe
 No
 HP-44-ZA-1394
@@ -1977,7 +1977,7 @@ Yes Good
 JK-82-1545434632
 No
 TN-90-7096
-Yes Bad 0732
+No
 LUGsuOF87v7cffTX1UOVNEpI
 No
 ViAkE
@@ -1985,7 +1985,7 @@ No
 FG
 No
 ML-80-8151
-Yes Good
+No
 RvI9yCSSdc
 No
 qNyr5ADnEy86
@@ -2069,7 +2069,7 @@ Yes Good
 tHXK5w4vZ-JBvvcOY8y
 No
 CH-11--7344
-Yes Bad 7874
+No
 QKYTYDIyjCIq
 No
 dkeW97StIGIVQm62cz3P
@@ -2077,7 +2077,7 @@ No
 JH-60-IJQ-7971
 Yes Bad 7032
 DD-79-5496
-Yes Bad 8076
+No
 KW44MUVoCF
 No
 xxAO
@@ -2085,7 +2085,7 @@ No
 4
 No
 SK-40-8569
-Yes Bad 5589
+No
 TR-69-MBJ-3993
 Yes Good
 P4UhSTc-e5VVQcHA
@@ -2101,7 +2101,7 @@ No
 AR-18-N-0271
 Yes Bad 2609
 KA-04-7869
-Yes Bad 3898
+No
 DBxyX-5
 No
 GJ-33-A-1887
@@ -2157,7 +2157,7 @@ No
 G1P3X0MhePf4W7qM5ZOlm9
 No
 MH-65--4857
-Yes Bad 3007
+No
 wz53lF2aTkOk0x4irEkNNIr
 No
 CIWSBCsIgEwLQ4P
@@ -2211,7 +2211,7 @@ No
 5MKgqdUDsGKgBwKd
 No
 HR-97--2997
-Yes Bad 3227
+No
 HR-34-ZS-0402200281
 No
 RGOdwlbFubP
@@ -2259,9 +2259,9 @@ No
 6J-RYmPqlnFmxtqxwb
 No
 LD-26--9937
-Yes Bad 4237
+No
 JH-31-4867
-Yes Good
+No
 SK-83-LMKSE-4003259102
 No
 Z2GFefTP5BWkyShSqVyYa
@@ -2333,7 +2333,7 @@ No
 JK-54-XZXY-8184007294
 No
 TR-11-2235
-Yes Bad 4966
+No
 UK-14-Q-5614
 Yes Bad 9868
 g1gUVf8BRLMF98rej
@@ -2351,11 +2351,11 @@ Yes Good
 WrSVkPLmTUXIDwQxEZ
 No
 ML-88-9120
-Yes Good
+No
 GA-63-ISH-5598
 Yes Bad 5283
 MH-21--5049
-Yes Bad 6569
+No
 tt8hrdy
 No
 sjIrFB8Pf4Ej10f6OACG98kY
@@ -2427,7 +2427,7 @@ No
 OD-88-1989879384
 No
 JH-26--3307
-Yes Bad 3712
+No
 cAcfvjsXhNkHo4R
 No
 JK-90-UNO-9467576566
@@ -2469,7 +2469,7 @@ No
 NYPB5-0aMbGd09
 No
 PB-97--7786
-Yes Bad 4486
+No
 R1lyBJBksyyi4
 No
 3G
@@ -2493,7 +2493,7 @@ No
 fRD6
 No
 BR-67-1497
-Yes Bad 4997
+No
 LA-16-P-4645
 Yes Bad 9645
 Yxtm7RkUuNqI
@@ -2517,7 +2517,7 @@ No
 MZ-87-XA-2243
 Yes Good
 HP-68--0227
-Yes Bad 3677
+No
 A5DWdrO9pEzXrQHS3
 No
 e
@@ -2533,7 +2533,7 @@ No
 0JrFK2IYeb
 No
 MZ-12--3574
-Yes Bad 4588
+No
 UP-95-M-9840
 Yes Bad 9357
 2Qbbjr4wwTJ
@@ -2553,7 +2553,7 @@ Yes Bad 5705
 MZ-65-VM-7652613303
 No
 AS-22-5950
-Yes Good
+No
 toCs-5Whu26Kh
 No
 dfMvGZBp6EWVH4wq
@@ -2581,7 +2581,7 @@ No
 Ksy6mIQ3UJ
 No
 CH-28-5317
-Yes Bad 0139
+No
 HR-13-E-5206
 Yes Bad 5276
 BzPQtaBD
@@ -2607,7 +2607,7 @@ No
 DD-77-OFD-0368
 Yes Bad 7878
 JK-81-6418
-Yes Good
+No
 XSSxq3UfnJK
 No
 MN-41-NMJV-7592097945
@@ -2645,7 +2645,7 @@ No
 5QAzXGeoClUGHjg
 No
 UK-63-2466
-Yes Good
+No
 AP-10-LQ-7995
 Yes Good
 tjcg6DRVD
@@ -2653,7 +2653,7 @@ No
 PB-55-X-0319
 Yes Bad 7946
 CH-46-9731
-Yes Good
+No
 IMofprZVzGO9zO1J5iJf
 No
 PB-68-HP-7500
@@ -2667,7 +2667,7 @@ No
 SWEhT70QIQpf60
 No
 ML-28-5316
-Yes Good
+No
 VzDHTSDw3
 No
 BXPi9Sg
@@ -2675,7 +2675,7 @@ No
 KA-03-5842089599
 No
 TN-98-7520
-Yes Good
+No
 UK-28-UA-5356117684
 No
 0DubY
@@ -2711,7 +2711,7 @@ No
 E2OI-cmU4deklNSBW5M0UktJ
 No
 LA-56--2607
-Yes Bad 7638
+No
 fIxrBoxljjqxQfldAuoO4
 No
 MN-11-DAO-2837722591
@@ -2733,7 +2733,7 @@ No
 HR-04-JTHAO-1541164803
 No
 UK-73-4790
-Yes Good
+No
 AS-49-A-6314
 Yes Bad 6637
 PB-50-C-2725
@@ -2755,7 +2755,7 @@ No
 y
 No
 LA-38--9283
-Yes Bad 4248
+No
 ovvzJR
 No
 AS-69-UEDO-9162760494
@@ -2779,7 +2779,7 @@ No
 m280-
 No
 PB-53-9475
-Yes Good
+No
 N1D34QB
 No
 HEAGFbbptbMc06qe9hI1F4
@@ -2799,11 +2799,11 @@ No
 RZXeH2hu7Ud1
 No
 RJ-84-7275
-Yes Bad 7475
+No
 AS-35-RQO-6640268371
 No
 NL-80-6963
-Yes Bad 8785
+No
 UK-05-O-2626
 Yes Good
 A
@@ -2835,7 +2835,7 @@ Yes Good
 SK-46-XQ-9585
 Yes Bad 1986
 MZ-20-3202
-Yes Good
+No
 dgv7c8Se6UaHQU8NSPEe4D2
 No
 QFHppbusSSlAbCzKoMF
@@ -2853,7 +2853,7 @@ No
 pE3512xDqw
 No
 TN-24-0758
-Yes Good
+No
 LD-32-PHA-5347
 Yes Bad 5647
 pMLQdyGA
@@ -2959,7 +2959,7 @@ No
 exUECl8Hd5
 No
 UK-68-1120
-Yes Bad 4127
+No
 JH-59-C-5608064992
 No
 hLM6v1wNJUVaT9uIE8V6goqd
@@ -2991,9 +2991,9 @@ No
 KA-08-TI-4657
 Yes Bad 8851
 MN-34-9009
-Yes Bad 0211
+No
 MH-24-2822
-Yes Bad 4592
+No
 STqoFCIcOMm3J4LY9FO
 No
 KOZ7rl4klw6Gv7uPv-F
@@ -3025,7 +3025,7 @@ Yes Bad 8633
 hU
 No
 LD-21--0838
-Yes Bad 0634
+No
 Ro0
 No
 eBJZQMDa-c
@@ -3065,7 +3065,7 @@ No
 4Puafw9
 No
 GJ-59-3416
-Yes Bad 9169
+No
 dMDzH
 No
 KA-40-VD-7936
@@ -3093,7 +3093,7 @@ No
 R4Dp7
 No
 CH-74-9682
-Yes Bad 2185
+No
 KA-64-TDOI-5341939732
 No
 zq5b5yL-C2Oui8PpqNj
@@ -3139,13 +3139,13 @@ No
 YYj
 No
 LA-86--6629
-Yes Bad 6890
+No
 eD6Qmt79b
 No
 MH-66-REP-1978
 Yes Bad 2678
 CG-39--4196
-Yes Bad 4431
+No
 xOrO1CY
 No
 GJ-67-PS-1848
@@ -3177,7 +3177,7 @@ No
 DL-70-ZNJ-5938
 Yes Good
 CG-67--0792
-Yes Bad 7794
+No
 ORVegGzcby-1Q
 No
 MZ-32-J-1391
@@ -3245,13 +3245,13 @@ No
 TR-37-NQP-6634
 Yes Good
 LD-40-1529
-Yes Bad 1577
+No
 JUS
 No
 f2vbW772lYl-JU
 No
 PB-72-3414
-Yes Good
+No
 GJ-31-RJA-1859
 Yes Good
 DL-48-EUE-0614
@@ -3279,7 +3279,7 @@ No
 BR-73-KI-8050
 Yes Bad 1658
 AN-69-1021
-Yes Bad 1072
+No
 MP-31-A-8714
 Yes Good
 HP-52-TW-0132
@@ -3317,7 +3317,7 @@ No
 lNpqk
 No
 LA-15--3576
-Yes Good
+No
 TS-60-LOU-1609029788
 No
 CH-64-WE-0216
@@ -3335,7 +3335,7 @@ No
 DL-95-KRT-1847
 Yes Bad 8397
 BR-52-4253
-Yes Good
+No
 gGsCjOgo4VjLs4dZuVC7rO8
 No
 T
@@ -3345,7 +3345,7 @@ No
 zxERNFLZ7YeMXZY
 No
 LA-12-5375
-Yes Good
+No
 L
 No
 TR-73-OFF-3611
@@ -3375,7 +3375,7 @@ No
 C6lgFk3VxC3
 No
 OD-06-5087
-Yes Bad 1388
+No
 MZ-40-FPWS-0114827548
 No
 MP-79-6270962877
@@ -3391,7 +3391,7 @@ Yes Bad 1295
 GA-70-VHL-9379
 Yes Good
 AR-96-7267
-Yes Good
+No
 o6
 No
 93bOzoiB379A
@@ -3405,7 +3405,7 @@ No
 ZvX9oYKy
 No
 GJ-15--7023
-Yes Bad 1453
+No
 GJurH41Wx8QAx9o4BpEbeBVZD
 No
 xPP
@@ -3449,7 +3449,7 @@ No
 0HC0f
 No
 BR-55-4571
-Yes Good
+No
 NL-50-T-1384
 Yes Bad 5987
 JH-89-KI-1163
@@ -3473,7 +3473,7 @@ No
 MH-68-ZW-0323
 Yes Good
 AS-79-7284
-Yes Bad 8679
+No
 MNeiZp5
 No
 6OUNE03RfFMnygL2QXr
@@ -3555,7 +3555,7 @@ No
 HHZUFdnOXd0SX3QvbDuallj
 No
 CG-51-3786
-Yes Good
+No
 6uTL97MQzw
 No
 WB-99-Y-4623
@@ -3599,7 +3599,7 @@ No
 qABETfycd
 No
 ML-62-3788
-Yes Bad 7730
+No
 07g28tWi4knle6u6
 No
 Oa
@@ -3627,7 +3627,7 @@ No
 DL-61-NR-4466
 Yes Bad 1407
 AS-59-2882
-Yes Good
+No
 L-euhZSXxYSs0nwck6
 No
 7iUKSUS3tnA
@@ -3683,7 +3683,7 @@ No
 VjI5hrjhQl1kj3oB
 No
 LA-68--1603
-Yes Bad 5698
+No
 hunbSK
 No
 r4YDwwr-bagyh4jXV
@@ -3691,7 +3691,7 @@ No
 heVuVdFeAEZV
 No
 MP-90-2747
-Yes Bad 2713
+No
 S9dVwkp28Aw
 No
 ODg
@@ -3785,7 +3785,7 @@ No
 EMyUGZv-l1ltub3T
 No
 LA-25--1265
-Yes Bad 2377
+No
 l2spcdVWagEduYEnKLbxfMz
 No
 MZ-14-YSXN-7905543181
@@ -3831,7 +3831,7 @@ Yes Good
 onOVsCGtD3OnyxEtf5FFQ
 No
 AN-50--6552
-Yes Bad 8578
+No
 MP-07-CH-6480
 Yes Bad 6781
 wSyD-BNNEc7Tlu0vstxQ5JnG
@@ -3861,7 +3861,7 @@ No
 lbQzFyi1z
 No
 DL-75-9550
-Yes Bad 6858
+No
 WZqHd7BjmVyoZnrjPe0Jb
 No
 orlE2mN9WUZe3M7F
@@ -3939,13 +3939,13 @@ No
 TeYZwzbRiOwHERNTzvwN
 No
 LD-91-9365
-Yes Bad 2315
+No
 ML-09-QDK-6398
 Yes Bad 6552
 IQXrvao2Tx
 No
 JH-54--1471
-Yes Bad 5678
+No
 8
 No
 6xyptma0s
@@ -3973,7 +3973,7 @@ No
 JK-15-P-2003470887
 No
 CG-36-5388
-Yes Good
+No
 X3zk6cjR0PjC3NBwHJ
 No
 CH-50-I-9936
@@ -3999,7 +3999,7 @@ No
 YUISX
 No
 LA-40-3298
-Yes Bad 3699
+No
 WZTTmFs2gVY833JUJ
 No
 ATwrAqLYwPPCdmquQ5wyHJZkl
@@ -4019,7 +4019,7 @@ Yes Bad 1712
 RJ-21-HVG-5436
 Yes Bad 7596
 WB-81-4820
-Yes Bad 4977
+No
 HyQamISxfG2
 No
 QNn7mAd-MCqB
@@ -4029,13 +4029,13 @@ No
 PP1RDxSQd-WLQ
 No
 AP-45-3260
-Yes Bad 4367
+No
 b
 No
 STSCKSyH50EudwAK54Dowj5
 No
 MH-66--7597
-Yes Bad 7519
+No
 Jp5mKC
 No
 QnQm-vktwDyVC
@@ -4075,7 +4075,7 @@ Yes Good
 QVaZaa2JZ8kFMupkmWwNrbO60
 No
 WB-70--3726
-Yes Bad 9736
+No
 mwFZmigdBKDYdYK2LX5VN
 No
 M4c8qm4a
@@ -4083,7 +4083,7 @@ No
 OH7in
 No
 MN-93-2548
-Yes Good
+No
 85ZmN0yUFg
 No
 NpNj-5
@@ -4111,7 +4111,7 @@ No
 VVMlacNNAqeW
 No
 UK-36-1561
-Yes Bad 1976
+No
 6sOezWWCxaup233NJ59aWbcRF
 No
 neZNEGUFiP9ujAk9vp8YzuD1
@@ -4121,7 +4121,7 @@ Yes Bad 5056
 PB-09-J-2916
 Yes Bad 2346
 NL-33-2416
-Yes Good
+No
 HR-73-RMH-4808838413
 No
 Pb8K-NFkUoYGcCPWNSVZPKO
@@ -4133,7 +4133,7 @@ No
 vvxAexFo
 No
 ML-59--7030
-Yes Bad 7139
+No
 MZ-70-ZTI-1561
 Yes Bad 4568
 yQzggz-xZduJk
@@ -4153,13 +4153,13 @@ No
 JJgUKI2gg4PCO-SBAd-
 No
 MN-39-8014
-Yes Good
+No
 hPQWkdz5eH
 No
 DD-14-CVJ-6583
 Yes Bad 8569
 GA-83-3326
-Yes Bad 6930
+No
 jFoz7O9SdxGiNlSL
 No
 JK-62-UG-2307
@@ -4187,11 +4187,11 @@ No
 pLoGS4SKUm0OCnk
 No
 MH-40-7803
-Yes Bad 4872
+No
 U5ZDto
 No
 TR-74-0227
-Yes Bad 4527
+No
 UP-54-LYX-6349
 Yes Bad 3441
 LA-64-RW-8389
@@ -4281,7 +4281,7 @@ No
 KL-46-WNF-3695
 Yes Bad 6832
 JH-71-5482
-Yes Bad 8683
+No
 v-AgI1N
 No
 el11HdQKJ5OGEQIJZQnTFyT
@@ -4291,7 +4291,7 @@ No
 mREd5
 No
 KL-90-8302
-Yes Bad 1072
+No
 puz
 No
 6sGKSTuPKwkUPoqN414wTcj5L
@@ -4303,7 +4303,7 @@ Yes Bad 0987
 n4N5FBBEaErp21B-z
 No
 LD-97-5973
-Yes Good
+No
 O2IsMPPBZ
 No
 2S2HP5MW
@@ -4333,7 +4333,7 @@ No
 ntPyK
 No
 UK-36--4945
-Yes Bad 7747
+No
 OD-26-TN-5162
 Yes Bad 0733
 xkec7
@@ -4361,7 +4361,7 @@ No
 c51s0r-MXV36dXgjA65dfREN
 No
 TR-24-4815
-Yes Bad 4295
+No
 JK-44-UAK-9539
 Yes Bad 9696
 JvoOJ17QkM7Wj8
@@ -4459,7 +4459,7 @@ No
 nq7zfMxC
 No
 RJ-73--4569
-Yes Bad 4509
+No
 Wl
 No
 dCxRjv7uX3FiMVcv5kxIG0
@@ -4491,7 +4491,7 @@ No
 bf58mev2JOr4ZpB
 No
 ML-92-8248
-Yes Good
+No
 AR-08-QE-5350
 Yes Bad 5951
 sFgY7eOSncFGb5VI8
@@ -4541,7 +4541,7 @@ No
 CG-00-S-9115
 No
 BR-81-6399
-Yes Bad 6546
+No
 iJLPBdnbeBSrX01fX
 No
 JK-12-OR-2732
@@ -4561,7 +4561,7 @@ Yes Bad 0568
 9Q3lAPJ44Cu
 No
 UK-65-4201
-Yes Good
+No
 rGiCNPrj
 No
 MP-53-0365847231
@@ -4571,19 +4571,19 @@ No
 R1wJpTrvwh
 No
 LA-83--6216
-Yes Bad 0226
+No
 MZ-47--9822
-Yes Bad 1825
+No
 UP-26-U-9974
 Yes Good
 WB-79-8168
-Yes Bad 2898
+No
 6sFwVAbhXAUe60VKjMDf
 No
 UP-16-QAD-0533070602
 No
 OD-31-7909
-Yes Bad 1875
+No
 GOD0UGmNZMdNydq3-5tBk
 No
 OD-18-Z-3741015313
@@ -4593,7 +4593,7 @@ Yes Bad 2448
 QqyxzU09krQb1llVLAcqg
 No
 TN-67-9784
-Yes Bad 4784
+No
 Jg1W0bpVLqU4TI
 No
 d-t0cAUaZdSp4SV3
@@ -4605,7 +4605,7 @@ No
 71x0O
 No
 UP-06-0909
-Yes Bad 7960
+No
 RyeetOB4FaDvR-j1LMgAO
 No
 KwQNW0Sb
@@ -4643,7 +4643,7 @@ No
 FysGywczob7mkgGZLzU
 No
 KA-67-9008
-Yes Good
+No
 JH-09-RJ-5518
 Yes Good
 8q2q
@@ -4655,13 +4655,13 @@ No
 PB-53-QP-3731
 Yes Bad 8734
 MH-35--0554
-Yes Bad 2505
+No
 zGhFGA59JwhORixqthI1
 No
 inRrPjwQ6r2
 No
 LA-64-2245
-Yes Good
+No
 u4XmKaxwhrkilUPCQ0
 No
 pHyuNjUzEgr
@@ -4683,7 +4683,7 @@ No
 JK-56-BJJ-3344
 Yes Bad 4844
 KL-12--8351
-Yes Bad 8582
+No
 lEHKN8aM5JY602GMYZI4aGwnN
 No
 MqLJ-IGz9E3eA9phw06YS6
@@ -4701,7 +4701,7 @@ No
 SOdB3nOE2Bouf7
 No
 RJ-91-5789
-Yes Bad 5886
+No
 CT9cY
 No
 uK6oWh04085m
@@ -4709,9 +4709,9 @@ No
 AP-41-QC-1895
 Yes Bad 4808
 KA-81-9349
-Yes Bad 9509
+No
 JH-43--7619
-Yes Good
+No
 Ndfrd6ab6mInQjOZ07oB
 No
 mM
@@ -4735,7 +4735,7 @@ No
 34Y44RqvxZTshlT4dF0BXanTS
 No
 GJ-87-8217
-Yes Bad 5438
+No
 WB-56-XM-8510150041
 No
 rSoDXOCDGbr4B
@@ -4769,11 +4769,11 @@ No
 CG-65-WQQ-2294177319
 No
 AS-16-5581
-Yes Good
+No
 YubdyLzlzDkiQ
 No
 KA-03-0040
-Yes Bad 3069
+No
 lb9tt4gW
 No
 6RmEo
@@ -4811,7 +4811,7 @@ No
 fnf0ixGLCO1XkWTRANwK11Em
 No
 HR-77-9247
-Yes Good
+No
 UK-98-Z-2631
 Yes Bad 5938
 jYdExw4l0HOEpbQZD7W
@@ -4839,7 +4839,7 @@ No
 J6yuKn3qARQ46AB
 No
 SK-10-0515
-Yes Good
+No
 mNCRjBR
 No
 OD-70-1451921419
@@ -4849,7 +4849,7 @@ No
 G
 No
 LD-17--7463
-Yes Bad 1403
+No
 Z2Ion5EF
 No
 CaUFiFLPm2fMv2Pf9
@@ -4909,7 +4909,7 @@ No
 PY-58-MZZ-6925
 Yes Good
 LA-74--5542
-Yes Bad 6538
+No
 TN-04-MC-1959
 Yes Good
 6QdAI
@@ -4929,11 +4929,11 @@ No
 CG-99-WQ-6538
 No
 KL-08-9873
-Yes Good
+No
 BQdeutSpppox6EHW6
 No
 CH-80--5799
-Yes Bad 7909
+No
 R5vV4syqrMhaAyJdSP9Su
 No
 CH-45-MV-0874015467
@@ -4995,7 +4995,7 @@ No
 VH
 No
 OD-61-3737
-Yes Good
+No
 ybi6EWpeYWhy-NOgRKr
 No
 AN-20-PHD-0171039351
@@ -5029,7 +5029,7 @@ No
 AP-38-M-8064394700
 No
 DD-90-9807
-Yes Bad 2712
+No
 A-XV3nrPn
 No
 BWb9fomHaQZNeyLa
@@ -5097,7 +5097,7 @@ No
 LA-16-K-5658092651
 No
 DL-85-9260
-Yes Good
+No
 d3E90sb
 No
 dC5xERXhJvaRUZH-UydVm
@@ -5165,17 +5165,17 @@ Yes Bad 3732
 DxuKx
 No
 GJ-98-5992
-Yes Bad 7595
+No
 TS-36-0197
-Yes Good
+No
 CH-76-DRD-9810486405
 No
 KA-57-4941
-Yes Bad 0088
+No
 dPIQpU
 No
 MZ-25--3188
-Yes Bad 3988
+No
 AS-75-OE-9791
 Yes Good
 AS-68-U-5307
@@ -5185,7 +5185,7 @@ Yes Good
 A81iUedTZQqAbYsmF5Is3VM
 No
 MN-93--3202
-Yes Bad 9755
+No
 UK-82-L-3446
 Yes Good
 nQJoY
@@ -5231,7 +5231,7 @@ Yes Bad 8686
 I
 No
 TS-29-6840
-Yes Bad 6945
+No
 AR-06-1864404691
 No
 fqytFF7YyXA2zYeikcjeIO
@@ -5287,7 +5287,7 @@ Yes Good
 QwXdydHxWVsaMt7dvlBFcE
 No
 UP-26-7146
-Yes Good
+No
 Znvmq-qF
 No
 P
@@ -5313,7 +5313,7 @@ No
 9OEm1wfNNzG3loX9F
 No
 AS-48--6171
-Yes Bad 1271
+No
 lI2
 No
 i6tDyxYYwxXl
@@ -5373,7 +5373,7 @@ No
 UD
 No
 TS-37-6866
-Yes Bad 5923
+No
 AR-32-YOP-9500870682
 No
 j6j1seucF
@@ -5429,7 +5429,7 @@ No
 FhSFLOmf
 No
 GJ-30-1343
-Yes Bad 1549
+No
 Il
 No
 pKxtw3TgsS769g
@@ -5451,7 +5451,7 @@ No
 DLThhLB9E
 No
 PY-56-3436
-Yes Bad 4438
+No
 cHBwi57W
 No
 IuszLEW1U5CjFfdoUhBTIKyD
@@ -5497,7 +5497,7 @@ No
 pJu6vfuUbvpbfMxO
 No
 JH-54-9074
-Yes Good
+No
 TS-12-3172629720
 No
 LA-81-C-5591
@@ -5525,13 +5525,13 @@ No
 YNa4WYYm0
 No
 MP-56-8852
-Yes Good
+No
 txGYlZ
 No
 KA-29-CZ-0420
 Yes Bad 4484
 AR-44-5393
-Yes Bad 5366
+No
 bDnAc145nv4En4
 No
 rs4jNW6nkaVWUede0FBaNj
@@ -5543,7 +5543,7 @@ No
 4-6TwqDo9nUwvvZ2bjrRIJy
 No
 MP-83--8492
-Yes Bad 8426
+No
 bkgpBoFHVDQE7TpLDeXagOh
 No
 gfh
@@ -5567,7 +5567,7 @@ No
 EoycYYkQWBnU9St
 No
 MZ-59--2350
-Yes Bad 9853
+No
 J6t
 No
 UP-37-XA-8755
@@ -5683,11 +5683,11 @@ No
 KA-75-1333156402
 No
 MH-03-6870
-Yes Bad 6831
+No
 RkGWfIMSwuQxJM8P5Za-Yuv5m
 No
 CG-65-7515
-Yes Good
+No
 z
 No
 RMHWXU0Pq9wC1bJT
@@ -5701,15 +5701,15 @@ No
 0VPPt
 No
 GJ-68-4528
-Yes Bad 5073
+No
 AR-89--3684
-Yes Bad 3619
+No
 rUO4lkOwNWQ9ukz4kxRKU
 No
 5GzVWxSpnPhLNxIrpXb2l
 No
 UK-79-6428
-Yes Bad 3668
+No
 PB-16-M-1067
 Yes Bad 9985
 NL-04-MDF-5972
@@ -5779,7 +5779,7 @@ No
 9g6DzvjtW0Os1v2
 No
 AR-15-4814
-Yes Good
+No
 GJ-45-IFARV-5881779333
 No
 ML-70-OM-9817
@@ -5787,7 +5787,7 @@ Yes Bad 0361
 Zi70P1VJafTg2ne0jdrSNh
 No
 OD-91--5378
-Yes Bad 5682
+No
 v
 No
 5d
@@ -5805,7 +5805,7 @@ No
 CG-29-PQI-4104
 Yes Bad 5650
 TS-09-2288
-Yes Good
+No
 KqVPaE0EB
 No
 CG-29-SM-9171
@@ -5821,7 +5821,7 @@ No
 7bBPTDY
 No
 MZ-68-2668
-Yes Bad 5666
+No
 NL4T-V4IOFIzV
 No
 2aZueL09qgG8ERBac
@@ -5871,7 +5871,7 @@ No
 cCrXDBk4u
 No
 GA-95-7413
-Yes Bad 8458
+No
 pVSDza5DpAVRwDR
 No
 GA-95-TLJNI-3709660347
@@ -5919,7 +5919,7 @@ Yes Bad 4597
 lu0141
 No
 CG-73-6590
-Yes Bad 6850
+No
 0Pyv
 No
 kHQKlxh
@@ -5943,7 +5943,7 @@ Yes Bad 9646
 sMppWMHUg1reEw8XgteqvCcSf
 No
 SK-58-5901
-Yes Good
+No
 N0RDbAgI82xz
 No
 sUF4zv
@@ -5969,7 +5969,7 @@ No
 zB96
 No
 DD-43--1872
-Yes Bad 3232
+No
 l3h6pTFkIs
 No
 LA-75-BX-8941
@@ -5979,7 +5979,7 @@ No
 vxiDxhc
 No
 AS-04--3056
-Yes Bad 3717
+No
 HDh5PtKf
 No
 aRyeavVfaXfQJEtU7LJ75xF
@@ -5999,7 +5999,7 @@ No
 dsubiz0lG25fUPb5B
 No
 MP-45--4775
-Yes Bad 6775
+No
 tA
 No
 qnTUMMCNQgy-oNWJ
@@ -6027,7 +6027,7 @@ No
 FqctGN7iWQ6vY
 No
 LA-36-0109
-Yes Bad 8624
+No
 9zxwhcSajSsW
 No
 dqneUoTx7fpJjm
@@ -6043,7 +6043,7 @@ No
 LD-15-Z-1015
 Yes Bad 2526
 CH-08-5092
-Yes Bad 8196
+No
 Csm
 No
 8IUx6MQuM
@@ -6057,7 +6057,7 @@ No
 GJ-36-FFF-0808
 Yes Bad 3678
 NL-18-2675
-Yes Bad 2676
+No
 AS-00-DH-2884
 No
 LD-46-CGQS-9600979263
@@ -6085,7 +6085,7 @@ No
 7NEFbXXb
 No
 TS-32-3564
-Yes Good
+No
 mPxuoJzkylaaBt
 No
 iibNtXknwHRtpCG
@@ -6099,13 +6099,13 @@ No
 ilzoIUwt8MztsyxLMy1fQVW24
 No
 GA-54-0445
-Yes Good
+No
 RJ-45-AJA-7717
 Yes Bad 2137
 AS-33-CPG-7759
 Yes Bad 1875
 LA-12-5346
-Yes Good
+No
 2uZuQlpZh1tNxFunG
 No
 99wg1seDkRtsrVN9
@@ -6113,7 +6113,7 @@ No
 3mNmnSDYoBCdBxhYiazGsh2
 No
 MN-98-2772
-Yes Good
+No
 CNMxbxWr7g
 No
 8EJ-YYmvFf9g3MPiNbCaG
@@ -6137,7 +6137,7 @@ No
 ukPW6lIiYeel93vbzOC
 No
 JH-38-4664
-Yes Bad 9674
+No
 AbI88hkLahNMgDDf
 No
 JH-66-ATS-0286
@@ -6151,7 +6151,7 @@ Yes Bad 4816
 lcnbZaJZ
 No
 LD-79-5965
-Yes Bad 9095
+No
 mqnBu-VTedmEYD
 No
 dh0CB
@@ -6239,7 +6239,7 @@ No
 M8J4zKGwi-4h5nxg4254eaJ81
 No
 AP-93-3939
-Yes Bad 4937
+No
 ro7XDUCpx
 No
 xII5aEsbN
@@ -6363,7 +6363,7 @@ No
 ad0vPnZJhsIlQWZqQPX84
 No
 AS-11-4526
-Yes Bad 5536
+No
 0
 No
 MP-58-BC-4792
@@ -6377,13 +6377,13 @@ No
 MN-60-M-9904
 Yes Bad 9990
 UP-61-2802
-Yes Good
+No
 DL-41-FJK-7134
 Yes Bad 7437
 GPYqgKaN
 No
 DL-12--4495
-Yes Bad 8645
+No
 Ts6WKsRCW45u5cNnTuyaymsr
 No
 6A
@@ -6527,7 +6527,7 @@ No
 vIowaMnlenpL1
 No
 AS-54-3166
-Yes Bad 3369
+No
 KL-77-UYX-8750
 Yes Bad 1261
 CG-44-P-0164
@@ -6571,13 +6571,13 @@ No
 wiMYlpV
 No
 UP-10-7506
-Yes Good
+No
 N2U9KF7K6L
 No
 NL-43-P-7118
 Yes Good
 BR-73--5018
-Yes Bad 1469
+No
 AP-05-V-1927
 Yes Bad 2467
 k619duM6X4dVnMpiQeLXG
@@ -6609,7 +6609,7 @@ Yes Bad 5993
 ixFPHLluNBiujO94gHLsb
 No
 UP-09-2617
-Yes Bad 4980
+No
 PY-39-YXZQT-9407100514
 No
 OD-72-I-1056
@@ -6689,7 +6689,7 @@ No
 AR-13-P-9063
 Yes Good
 MN-53-6398
-Yes Good
+No
 jsMTWsX-sYXm4USq9EAJ7LIO
 No
 wbV0I
@@ -6707,7 +6707,7 @@ No
 UP-21-L-0355
 Yes Good
 AR-95-2599
-Yes Good
+No
 AS-82-RJM-4038
 Yes Bad 1534
 vTSWRMhx8Fv
@@ -6725,7 +6725,7 @@ Yes Bad 9812
 AP-41-V-2296
 Yes Bad 8856
 TR-56-6514
-Yes Good
+No
 ODM0
 No
 fR3t2anoa3O3w30
@@ -6741,7 +6741,7 @@ No
 174E4SVYySZeOEH
 No
 UP-42-6316
-Yes Bad 6596
+No
 M8JkaL6d3rzEDt5y-Gb-
 No
 n6sP25
@@ -6753,13 +6753,13 @@ No
 BR-96-O-4183
 Yes Bad 8655
 PY-36--7300
-Yes Bad 0518
+No
 1np
 No
 13eSIL3HLxp
 No
 JH-42-5164
-Yes Good
+No
 cyo5fwGxiFjCg
 No
 IMo
@@ -6787,13 +6787,13 @@ Yes Good
 HR-79-CFUOZ-8157768521
 No
 LD-15--7301
-Yes Bad 7543
+No
 uR
 No
 wN9
 No
 BR-44--9120
-Yes Bad 8647
+No
 Krk5gmsqPopv
 No
 MChHMWYD9FSUjzHcMwDMBF
@@ -6817,7 +6817,7 @@ No
 FLoCaTTMg
 No
 RJ-11--0258
-Yes Bad 3254
+No
 ilN69Qt9
 No
 upnzjfUJMLd
@@ -6825,9 +6825,9 @@ No
 CiZ
 No
 PY-61-9534
-Yes Good
+No
 AR-12-1040
-Yes Bad 5727
+No
 KuapHJeX3-6bthDmou5sKl
 No
 kJqiffciflFW
@@ -6869,7 +6869,7 @@ No
 MH-75-I-8347464566
 No
 NL-38--4847
-Yes Bad 6281
+No
 NL-00-YE-7247
 No
 AS-74-5149244747
@@ -6883,7 +6883,7 @@ No
 -aav3Ng88LKjj6T6PaZ6
 No
 OD-09-9264
-Yes Good
+No
 BR-26-CZJ-1220
 Yes Good
 PLR7w
@@ -6937,11 +6937,11 @@ No
 S2VIwDhTLSZfY
 No
 PB-51-4827
-Yes Bad 6178
+No
 UK-68-WPA-4417
 Yes Bad 4932
 DL-66-2599
-Yes Good
+No
 UK-82-GEFTZ-9477757322
 No
 a4mic
@@ -7015,7 +7015,7 @@ No
 xOA6NpRPQY
 No
 HP-38-2848
-Yes Bad 5243
+No
 yFw584g
 No
 GA-54-CG-3883
@@ -7031,7 +7031,7 @@ No
 CG-62-SFM-6459
 Yes Bad 9052
 WB-68-0103
-Yes Bad 3175
+No
 MH-29-VY-5577574567
 No
 UK-74-XJ-5066
@@ -7121,7 +7121,7 @@ No
 MN-19-E-7928
 Yes Bad 4524
 JK-37-7955
-Yes Bad 8528
+No
 KL-78-KN-4123
 Yes Bad 6706
 t6LUOul7LhLMcdvI3qwl-zzs
@@ -7145,7 +7145,7 @@ No
 q3BF3mNdkzgITEbnyK
 No
 TR-06--8320
-Yes Bad 8395
+No
 DD-44-AWX-4790586749
 No
 HyfpcV3-uxWxYSnaE
@@ -7153,7 +7153,7 @@ No
 9-OTOGQ
 No
 CG-53--5621
-Yes Bad 5139
+No
 Wb83m
 No
 k8fboKxN9HgwxuDfROk4um
@@ -7161,19 +7161,19 @@ No
 cRR22eFBhmskSrrxfq
 No
 LA-01-0679
-Yes Bad 9633
+No
 OigCwuDnOjX32kIH
 No
 BR-60-ZW-5330
 Yes Bad 5795
 LA-14-8338
-Yes Good
+No
 TR-24-7229
-Yes Bad 7255
+No
 MZ-68-VZ-0773
 Yes Bad 5177
 TN-45-3291
-Yes Bad 3497
+No
 Xa1qxiqu
 No
 bHSo6TjFSyLKw8OlHNzMi3s0
@@ -7187,7 +7187,7 @@ No
 TR-47-X-9892
 Yes Bad 7332
 MZ-37-0757
-Yes Bad 8779
+No
 TN-87-PJE-7738260067
 No
 po3lUcZUjX9GzITX5YUJOFST
@@ -7195,7 +7195,7 @@ No
 KL-83-K-2117
 Yes Good
 LD-72--1931
-Yes Bad 3992
+No
 VyVAu
 No
 TQzYVepy-iYjbTye5
@@ -7235,7 +7235,7 @@ No
 Vv9HtEU1ImtVNrYP96TP
 No
 TR-78-9075
-Yes Good
+No
 RghD
 No
 4r4BPgiG0A0jkizd2kGrpxE-
@@ -7267,7 +7267,7 @@ No
 TR-59-IPUS-3198540177
 No
 TR-95--4643
-Yes Bad 4717
+No
 WB-06-LSTT-0458720566
 No
 NL-22-ZD-7063
@@ -7277,7 +7277,7 @@ Yes Good
 hQ1SbyB9rDu
 No
 TR-49-9454
-Yes Bad 9298
+No
 l44-eF8D0Ds9Lnwff
 No
 zL19Pi
@@ -7323,13 +7323,13 @@ No
 zMYiKex
 No
 BR-07--9685
-Yes Bad 9719
+No
 p
 No
 c4l09XSzqS5DpjDkWQ
 No
 LA-54--3966
-Yes Bad 6666
+No
 KH3XGEkJ02iRLN
 No
 B2qmHnljx0H-V
@@ -7347,13 +7347,13 @@ No
 fDpuIOIVXW
 No
 KL-84-3170
-Yes Bad 7679
+No
 AS-52-0052
-Yes Bad 6355
+No
 UK-67--5941
-Yes Bad 5597
+No
 TN-03-5923
-Yes Bad 5483
+No
 gQDzISMaod
 No
 4j91yM-P9SJ-PobEhAt-9-
@@ -7385,7 +7385,7 @@ Yes Bad 3648
 AP-76-PB-5276
 Yes Bad 9276
 MP-57-1183
-Yes Bad 8823
+No
 UB6GBKz0v8PUHhy3
 No
 AN-09-DYYMB-5905990338
@@ -7401,7 +7401,7 @@ No
 3gSsRdbvp0
 No
 AR-18-7192
-Yes Bad 0987
+No
 zH106H0XFdw2uD
 No
 UP-98-RUTY-9368756367
@@ -7437,7 +7437,7 @@ No
 sH1YQ014aYBCyjAKbc3KN7W2
 No
 UP-83-1412
-Yes Good
+No
 LA-41-C-9736
 Yes Bad 4836
 Ryf3yGGR6txNr7
@@ -7495,7 +7495,7 @@ No
 WB-77-Z-1999666551
 No
 AS-43-3519
-Yes Bad 3058
+No
 JK-99-5932
 No
 dhkYPJd6yt3503
@@ -7529,7 +7529,7 @@ Yes Bad 7159
 ljeW62am68ofwo8BVLsTq5v-f
 No
 LA-61-8722
-Yes Bad 4728
+No
 TS-02-G-7953590854
 No
 MZ-81-NG-7371
@@ -7547,7 +7547,7 @@ No
 CH-35-AIQFT-7031567221
 No
 MP-69--1710
-Yes Bad 8740
+No
 E6UECn2waWPUOrFcg4zLW
 No
 ML-80-KW-0879
@@ -7557,13 +7557,13 @@ No
 OD-47-Q-2665
 Yes Good
 HP-13-2920
-Yes Good
+No
 glutGrmu2gBQ
 No
 MZ-79-4175
-Yes Good
+No
 ML-43-3378
-Yes Good
+No
 PY-24-YCG-8817
 Yes Bad 4937
 L55pzUk9n8cnNncfZv
@@ -7581,7 +7581,7 @@ Yes Bad 1225
 HR-23-FM-1126
 Yes Good
 AS-47-3075
-Yes Good
+No
 85dQwYK
 No
 nNKszjI0mRwbFAWqgriv
@@ -7675,11 +7675,11 @@ No
 X6nhnUzH6GN9aGw
 No
 HP-39-9160
-Yes Good
+No
 RJ-89--8219
-Yes Bad 4219
+No
 AS-74-5226
-Yes Good
+No
 PY-98-PI-4619
 Yes Good
 AS-92-Q-1668992940
@@ -7711,7 +7711,7 @@ No
 r5H3t7AHG1d
 No
 LA-06--7545
-Yes Bad 7775
+No
 Pb-FmeAvirw-Ln
 No
 LA-21-0106841106
@@ -7735,7 +7735,7 @@ Yes Bad 4500
 hCTWnJPOX
 No
 TN-71-5668
-Yes Good
+No
 jXhrrWYqH6yLQkRe
 No
 1oWPPuIaN9FKCX46ByNra
@@ -7759,7 +7759,7 @@ No
 TN-01-6189146016
 No
 BR-74-4009
-Yes Good
+No
 G9b
 No
 2tIDUdPY9YGW0BCe
@@ -7771,7 +7771,7 @@ Yes Bad 9532
 EOK-w
 No
 TR-10--2801
-Yes Bad 9781
+No
 pDFhwpaj4CQLnxRjZRm
 No
 DD-59-E-0805
@@ -7781,7 +7781,7 @@ No
 EvAKRM
 No
 DD-48-2660
-Yes Bad 8566
+No
 ML-13-MQMEP-8585281647
 No
 D50aqY7FNcPzI9Bq-ge38sKk
@@ -7925,7 +7925,7 @@ No
 TS-03-9295613339
 No
 PY-18--5375
-Yes Bad 5772
+No
 KL-00-D-3146
 No
 ueWTHi1skMX1MrfA2
@@ -7965,7 +7965,7 @@ No
 2dnTKhFZHW-tju2
 No
 OD-68--6311
-Yes Bad 6317
+No
 AHzw-rLD
 No
 rVaAU-OroVF
@@ -8009,7 +8009,7 @@ No
 RRX3iTnFkWiTppznO9oF6k-yJ
 No
 NL-60-0406
-Yes Bad 2616
+No
 k5dFsGehsSJQ2
 No
 PB-64-BS-0219
@@ -8043,7 +8043,7 @@ No
 SgYiS0mlZkxqSNi-N
 No
 HR-78--5809
-Yes Bad 8379
+No
 jIdHI05ppiiY12uqI
 No
 HUSGSlrnYlWu4kXAS
@@ -8103,7 +8103,7 @@ No
 HP-86-O-0858
 Yes Bad 2358
 JK-43--4698
-Yes Bad 6839
+No
 OD-19-BT-8800
 Yes Bad 8320
 cl5RrmYdUVyE-L
@@ -8111,7 +8111,7 @@ No
 TR-63-YHYCX-7676528212
 No
 GA-68-4067
-Yes Bad 6567
+No
 PY-46-HGYBB-2305865439
 No
 a
@@ -8199,9 +8199,9 @@ No
 f86YW
 No
 AN-28--2504
-Yes Bad 3935
+No
 AS-36-6838
-Yes Bad 2837
+No
 AP-08-BSV-6179854712
 No
 DK3l0p8R6gmmWXUWlA
@@ -8317,7 +8317,7 @@ Yes Bad 4892
 MH-88-UB-7491
 Yes Good
 TR-17--4465
-Yes Bad 7765
+No
 RJ-20-VB-4484
 Yes Bad 8444
 UqZS3D8t7tLGRhM
@@ -8353,7 +8353,7 @@ No
 OvN
 No
 PB-22-7052
-Yes Good
+No
 bhPC3WpCGn7EfqQErC
 No
 OD-31-P-4312
@@ -8371,7 +8371,7 @@ No
 3l1KVX5YbUqnmi-YBkFk
 No
 MH-77--1554
-Yes Bad 6697
+No
 AS-65-SXY-3336
 Yes Bad 5368
 O
@@ -8381,7 +8381,7 @@ No
 eHgH
 No
 DL-95--9194
-Yes Bad 1618
+No
 zHoe2nz-Bd7NUM
 No
 DL-15-J-7940
@@ -8395,7 +8395,7 @@ No
 KL-18-M-1981
 Yes Bad 9354
 CH-83-7108
-Yes Bad 0285
+No
 GJ-40-ASI-1977
 Yes Good
 LA-84-S-7591
@@ -8423,7 +8423,7 @@ No
 DL-07-YB-9214
 Yes Good
 BR-25-0442
-Yes Bad 9644
+No
 rmXyVjM
 No
 mPAmy6PdfD0qfr0a2kENvFl
@@ -8457,7 +8457,7 @@ No
 QOwxajzt1eZxr8IKVaoCB7d5E
 No
 DD-25-9116
-Yes Good
+No
 MN-39-7744382619
 No
 PY-10-ZJG-2169308405
@@ -8477,7 +8477,7 @@ No
 lixhNnUuu
 No
 LA-66--7402
-Yes Bad 0692
+No
 GA-99-YEH-2041
 No
 9
@@ -8497,7 +8497,7 @@ No
 ytXKlWd9r8O
 No
 JK-93-3219
-Yes Good
+No
 JH-47-DYN-1263
 Yes Bad 3365
 AR-74-SM-1514
@@ -8545,13 +8545,13 @@ Yes Bad 7582
 E5wvFWSSD05TMSZIi
 No
 HR-96--4373
-Yes Bad 1875
+No
 YbGE6xZa7c
 No
 wlO5IMkYPtTAcahJPo
 No
 ML-03--9519
-Yes Bad 2715
+No
 Ncs72uW4-J5upB1S8AR9EIA
 No
 Frnn0GEs8NNH
@@ -8561,7 +8561,7 @@ No
 K
 No
 CG-78-8031
-Yes Good
+No
 zmz5AV9TTu1WjgfXDh5gJ
 No
 IglBfPGojG-wySW7-ZGKC
@@ -8615,7 +8615,7 @@ No
 94QH6Z
 No
 AR-56-4135
-Yes Bad 9485
+No
 OD-99-XB-5548744539
 No
 WLLAziAjfePFdTg
@@ -8651,7 +8651,7 @@ No
 MP-50-VJM-0688
 Yes Bad 0621
 PY-09-9956
-Yes Bad 4555
+No
 qAQCx1eN
 No
 oMscCqsYBB17675fIOeg
@@ -8665,11 +8665,11 @@ No
 nIIbihyGlX7GHGzRsGvmzuVhd
 No
 PB-12--9185
-Yes Bad 5187
+No
 hkUiOQpwpZer9O-ieV
 No
 MH-25-2535
-Yes Bad 2532
+No
 NL-36-B-9342
 Yes Good
 SK-46-FQI-8480
@@ -8699,7 +8699,7 @@ No
 PEN7
 No
 PB-84-0302
-Yes Good
+No
 OD-45-TJT-3769
 Yes Good
 vFNkIyKsiNTb4NV9PP
@@ -8715,7 +8715,7 @@ No
 KL-71-ZGQ-7649
 Yes Bad 6999
 KA-36--8259
-Yes Bad 8392
+No
 mqaIEf
 No
 qBFdd8CXcr5Y0Nwzy
@@ -8741,7 +8741,7 @@ No
 PB-32-MD-3548
 Yes Bad 4743
 KA-91--8933
-Yes Bad 8984
+No
 AP-67-K-4505
 Yes Good
 TR-62-FVU-4550
@@ -8809,7 +8809,7 @@ No
 S05H
 No
 LD-62-9176
-Yes Good
+No
 GA-03-V-5043
 Yes Bad 8393
 TS-03-QB-8254
@@ -8869,7 +8869,7 @@ No
 086cJdl5xSE
 No
 MN-25-5258
-Yes Good
+No
 AN-32-SX-4887873348
 No
 CH-08-YBN-0055
@@ -8879,7 +8879,7 @@ No
 ix25vCH0bekhTiovzrzxo3bk
 No
 HR-22-6531
-Yes Good
+No
 311V1oaaa9ChpauikbnO1g
 No
 DD-16-I-1038
@@ -8893,7 +8893,7 @@ No
 MH-60-DPA-0526
 Yes Bad 3768
 SK-75-1517
-Yes Good
+No
 fcjoqL4S19rTlU-
 No
 A
@@ -8917,7 +8917,7 @@ No
 gyDuBsrJsP2D8eM3kv
 No
 MZ-88-7130
-Yes Good
+No
 NnWFZ2Ggm6012Wtwmd
 No
 lEtfdzcJws8
@@ -9075,7 +9075,7 @@ No
 fg
 No
 AR-56-7751
-Yes Bad 7563
+No
 HR-12-V-8146
 Yes Good
 TN-61-A-0898593915
@@ -9093,7 +9093,7 @@ No
 3nuvLdPfIKK
 No
 CH-12-8782
-Yes Bad 2832
+No
 06A
 No
 LD-48-AEO-9405
@@ -9129,7 +9129,7 @@ No
 2
 No
 ML-19-0264
-Yes Bad 2361
+No
 6WAWsmJM3cYw5pWPKX
 No
 URz8Ex
@@ -9155,7 +9155,7 @@ No
 OP1Knglm9mWz
 No
 AS-46-8273
-Yes Bad 2273
+No
 KOg4VhNgBJk-
 No
 SK-62-4065377530
@@ -9183,13 +9183,13 @@ No
 TzbNS7sURSeay
 No
 HR-90-6692
-Yes Bad 8694
+No
 zLFRzbnfVZNQ2Fgo7OyM3dyHL
 No
 LA-97-5806
-Yes Good
+No
 KL-61-3089
-Yes Bad 3549
+No
 HfgEs3zH8eA57DRI
 No
 5Ob8wWEXiREYbgaJTY6hnw
@@ -9215,7 +9215,7 @@ Yes Good
 JRIe0o5
 No
 HP-33-5856
-Yes Bad 1706
+No
 HR-23-IQN-1888
 Yes Good
 UTHp0LRgY8RJHnx
@@ -9287,7 +9287,7 @@ No
 SK-09-ZI-4959
 Yes Good
 JK-47-5679
-Yes Bad 9976
+No
 LD-20-2505580739
 No
 kb4qVyj0blQKYV
@@ -9301,7 +9301,7 @@ No
 UK-39-Z-7160
 Yes Bad 7367
 GJ-16-7671
-Yes Bad 7675
+No
 NL-98-ORYIL-9893232182
 No
 hAKqsui3WrvNglc8GaObd
@@ -9333,7 +9333,7 @@ Yes Bad 3949
 MH-27-NK-1152
 Yes Bad 1922
 NL-90--4581
-Yes Bad 4508
+No
 JH-18-QUD-9699
 Yes Bad 6636
 n6iGdCrLJjr7YeI44c3Tvzu
@@ -9421,7 +9421,7 @@ No
 ctC6OF
 No
 TN-38--7889
-Yes Bad 7539
+No
 6XEzPTlWc6IQGum3Zyy2Z
 No
 SK-48-QN-5308717819
@@ -9457,7 +9457,7 @@ Yes Bad 8684
 a-Ue2n6eCXfmSsB7
 No
 JK-10--6746
-Yes Bad 6762
+No
 JK-63-EHF-3820378059
 No
 uE9oku3WSYEmsZ7djvDhw
@@ -9537,7 +9537,7 @@ No
 Y4nIPc5fwm1
 No
 LD-57--9632
-Yes Bad 1818
+No
 1bpDFTZUPLJDi4u1OaSQvn
 No
 r9N1pP4QGRHZ5o8hd6LUS
@@ -9553,7 +9553,7 @@ Yes Bad 7588
 SLv66mWkIUqJnwi2MVdmlnKR
 No
 OD-72--7423
-Yes Bad 3423
+No
 ML-01-WQ-5436
 Yes Good
 SbV20DsNfnNHvKvN1xCjGQ
@@ -9581,19 +9581,19 @@ No
 DD-76-M-4724
 Yes Bad 7954
 MN-46-3916
-Yes Good
+No
 ML-48-R-5141197069
 No
 HP-62--9598
-Yes Bad 3562
+No
 BeSoi4lBMAieNB0
 No
 NL-26--6519
-Yes Bad 2581
+No
 uxz8JISRAV7u-ZlTyL5K
 No
 BR-91-9967
-Yes Good
+No
 5AFj6B
 No
 NRai5vFILykf1pY7GYJ0arY
@@ -9601,7 +9601,7 @@ No
 AS-77-HRWXS-8911783079
 No
 MH-41-4868
-Yes Bad 8895
+No
 OGD0KMA-FzbrjAh4
 No
 NL-65-CS-5584
@@ -9637,7 +9637,7 @@ Yes Bad 7626
 LA-81-LC-5252484631
 No
 LD-41--5352
-Yes Bad 8450
+No
 q
 No
 IntgN8rRwEf-ZvvhZfvoAWkTo
@@ -9679,7 +9679,7 @@ No
 TGdneoHWKdLBXxw6
 No
 MP-61--2298
-Yes Bad 7696
+No
 l72pd
 No
 i0OV5UfLf7AuDdk
@@ -9697,7 +9697,7 @@ No
 E
 No
 UP-03-8173
-Yes Good
+No
 LfNBoN
 No
 x3URLhQpoS
@@ -9717,7 +9717,7 @@ Yes Bad 3748
 yaS7-sf3hkPnjpFPRQoGTyOpC
 No
 AP-71-9813
-Yes Good
+No
 Emw2UH4xTA
 No
 u7ZTkAqUtqVIRf-DooE8
@@ -9801,7 +9801,7 @@ No
 LEBbqehKRtHzu
 No
 PB-68-0690
-Yes Good
+No
 BChiL
 No
 LSRaQY9aHi
@@ -9871,7 +9871,7 @@ No
 y21ehSSJLPcOmFGxOtbFc
 No
 OD-23-7065
-Yes Good
+No
 61AXuy20P7zdnet5D
 No
 P1SzQzHWjG89oA-4c
@@ -9939,11 +9939,11 @@ No
 Pnq4GCZ9szz
 No
 TR-69-7192
-Yes Good
+No
 zzJ6qpBpJ9HMTZf9
 No
 TS-47-6283
-Yes Good
+No
 wmFbbQLbVHQ
 No
 LA-87-Z-3946
@@ -9981,7 +9981,7 @@ No
 MZ-89-Z-3711
 Yes Bad 0993
 BR-63-3045
-Yes Bad 3467
+No
 KL-56-Z-7843491366
 No
 MZ-52-XB-5144
@@ -10003,7 +10003,7 @@ No
 BR-95-CNNCH-3318236072
 No
 TS-02--6410
-Yes Bad 6969
+No
 Zj5Vr1aC
 No
 JH-83-IJ-3445
@@ -10093,7 +10093,7 @@ No
 FUKkVw8-riQZI-aTzglk
 No
 SK-48-4748
-Yes Bad 9756
+No
 aLPp5y
 No
 vi1tYGoJi
@@ -10111,7 +10111,7 @@ No
 7aPweSOGKGlXweU8RQNNw
 No
 HP-45--5871
-Yes Bad 1818
+No
 mCvlZdUGPRLpGChmt
 No
 NoHx15p0W65I2C8Fvr9MZJDp
@@ -10131,9 +10131,9 @@ No
 7Y-h8UcDsAFlevlFBtI2jR9fd
 No
 AN-93--0097
-Yes Bad 8260
+No
 NL-43-7088
-Yes Bad 5514
+No
 6Gdqpm1B7GeUr
 No
 wMFRdb2TqAm
@@ -10163,7 +10163,7 @@ No
 CH-67-R-7337
 Yes Bad 1877
 JK-83--4374
-Yes Bad 1154
+No
 AN-01-GS-7591
 Yes Bad 7604
 mQ
@@ -10191,17 +10191,17 @@ No
 PY-79-LT-4943
 Yes Good
 JH-33-9759
-Yes Good
+No
 SK-21-HY-3646
 Yes Good
 RJ-35-RJC-9501
 Yes Bad 8541
 JK-01-1781
-Yes Bad 1712
+No
 mn1u
 No
 AS-70--6029
-Yes Bad 6269
+No
 0mAVPWwWXFMi7
 No
 PSDBdhbtrH
@@ -10213,7 +10213,7 @@ No
 G4yFMyt-aG7nBLZ2Dybk609V
 No
 TR-61--6291
-Yes Bad 9581
+No
 UP-01-SZGL-1775873595
 No
 TFRfDFLWrjLPS71M2D1--6J7C
@@ -10237,7 +10237,7 @@ No
 8szL-IlT68KpsItTdRW
 No
 PY-73-7338
-Yes Bad 8538
+No
 PY-22-RGHB-5328705386
 No
 EcToXEdnD
@@ -10263,7 +10263,7 @@ No
 kuNhJGSjD
 No
 TS-35-0017
-Yes Good
+No
 G6BM7eWBQkT-3ZTosK0be-sX
 No
 sShiDaXKZlH
@@ -10339,11 +10339,11 @@ Yes Bad 1455
 ikADPJoDq58dr79opR8dH7k5
 No
 KA-57-1321
-Yes Bad 7352
+No
 jb6MpUI
 No
 JK-45-0234
-Yes Good
+No
 LA-07-AU-9810
 Yes Bad 1150
 NL-01-JKCK-0911099083
@@ -10441,7 +10441,7 @@ No
 xbYgws
 No
 MN-91-5079
-Yes Bad 9823
+No
 BR-68-BPZ-7714
 Yes Bad 2334
 uNePcwhFs0hEEX6s8DdKWRck
@@ -10455,7 +10455,7 @@ No
 w481Ek5aoozctkfSv3YtA
 No
 MH-22-6649
-Yes Bad 6979
+No
 0uZ
 No
 MZ-64-TV-4427
@@ -10475,7 +10475,7 @@ No
 JH-87-YP-6682
 Yes Good
 DD-64-8862
-Yes Bad 2804
+No
 KCPRi5NGjMwgDR
 No
 4lt
@@ -10483,7 +10483,7 @@ No
 hevhufYDnmg
 No
 MP-62-2601
-Yes Bad 2383
+No
 1N9hl7zI
 No
 ETr
@@ -10501,11 +10501,11 @@ No
 ox
 No
 TS-48-0853
-Yes Bad 5554
+No
 PY-21-NWIZR-4842795954
 No
 MP-28--0447
-Yes Bad 2777
+No
 8ZUKP3lDM1sHwTn3
 No
 XOsLqa8M6AirJbq0mcK63u
@@ -10513,7 +10513,7 @@ No
 mlVnVUT5E29a
 No
 GA-42-8655
-Yes Bad 1675
+No
 GA-17-JR-1668
 Yes Bad 5626
 AP-90-CCD-5283
@@ -10583,7 +10583,7 @@ No
 iWG
 No
 LA-34-3251
-Yes Good
+No
 Lzc9pVCqXPZEZ6Y
 No
 8dpwZYLXNv0OErMqcDYny-
@@ -10629,7 +10629,7 @@ No
 xPt01yInHP9
 No
 MZ-28-0432
-Yes Bad 0692
+No
 sxkwvZbkP
 No
 GJ-93-BV-4228028958
@@ -10641,13 +10641,13 @@ No
 GL2jzS3qpBMYPOZq
 No
 AN-18--4484
-Yes Bad 7255
+No
 HbhNwTge8
 No
 iO9wzC
 No
 JH-72--6061
-Yes Bad 3218
+No
 -Vvq0o2ks1LgSuy4aKmo3IL-A
 No
 KIf3lYoNmCAq5
@@ -10661,7 +10661,7 @@ No
 46wrgpU68Q13N2jFAW7dn
 No
 PY-52-2573
-Yes Bad 3697
+No
 620gqjSNE
 No
 GA-42-QABZO-6333525146
@@ -10671,7 +10671,7 @@ Yes Bad 1198
 gCTY998QMsllSA3bWysVWV50
 No
 HR-88-1142
-Yes Good
+No
 fBFRJFNyNbGClnx9fOKxzY3
 No
 OD-89-CR-0895
@@ -10683,7 +10683,7 @@ No
 3w5z
 No
 LA-59--6833
-Yes Bad 7178
+No
 UK-05-AOQ-1341
 Yes Bad 2818
 AR-10-CWA-0594008842
@@ -10693,7 +10693,7 @@ No
 yYIDRqIVe
 No
 MZ-64-5598
-Yes Good
+No
 tNYn35awWsvtB5jAI
 No
 G
@@ -10711,7 +10711,7 @@ No
 c
 No
 WB-16-3351
-Yes Bad 3412
+No
 FkEoAQ1e
 No
 q5qyyPVtn8NNtXj3oWf3tt
@@ -10729,7 +10729,7 @@ No
 dKcCtB5
 No
 WB-39--4763
-Yes Bad 4782
+No
 BkaF3XlAaByOdQGPDs
 No
 XILz
@@ -10761,7 +10761,7 @@ Yes Bad 6427
 SK-62-N-7374
 Yes Good
 MH-04-6686
-Yes Bad 4686
+No
 CH-38-QGV-3532
 Yes Bad 4672
 eTZNkQlvAgZD7kt
@@ -10811,11 +10811,11 @@ No
 t4zEDQoHNohP5eD
 No
 LD-48-8765
-Yes Good
+No
 GA-81-C-5090436294
 No
 OD-68-6793
-Yes Bad 6933
+No
 c
 No
 TN-97-D-4562
@@ -10839,9 +10839,9 @@ Yes Good
 gb
 No
 AR-11-8179
-Yes Good
+No
 CH-83--1783
-Yes Bad 8179
+No
 DL-41-KA-9843
 Yes Bad 2866
 FleFf9FPYzyRE7YvWWwQ
@@ -10851,9 +10851,9 @@ No
 RJ-97-UMAA-4296470390
 No
 CG-16--6197
-Yes Bad 9690
+No
 ML-60-3488
-Yes Bad 6448
+No
 Xmmt
 No
 OD-64-EEE-6446
@@ -10865,7 +10865,7 @@ No
 Cqudznkkh1A1PVSSl2D5NKhy
 No
 RJ-02-6446
-Yes Bad 0478
+No
 EMsp
 No
 FwOsCQ9HFMGtD3AuNVv
@@ -10895,7 +10895,7 @@ No
 9MClgeqgEriP1EqCKZ
 No
 LA-04-6795
-Yes Bad 6775
+No
 rCX1oD
 No
 BzmAFTndFNdPg
@@ -11019,7 +11019,7 @@ No
 M7midGtOHPHSDzbcXsd2I0XY
 No
 AP-80-4314
-Yes Bad 6364
+No
 TS-41-MYZVX-3219607616
 No
 eISdJPYUFJal9g
@@ -11065,7 +11065,7 @@ No
 Zgmytfw
 No
 LA-60-5438
-Yes Good
+No
 71V2D9wHDbPVlLM
 No
 MZ-70-FU-1528
@@ -11151,7 +11151,7 @@ No
 Lzkdb9PVR7WIwWMx
 No
 PB-77-5395
-Yes Good
+No
 5rB4DQXY3JQ
 No
 OVuPPYJmZk5e3fmgm8eXCH-
@@ -11165,7 +11165,7 @@ Yes Bad 7789
 ML-35-Z-6457728865
 No
 UP-57-4474
-Yes Bad 7478
+No
 IQKId09zjMIr
 No
 e6t
@@ -11193,7 +11193,7 @@ No
 l
 No
 UK-77-9830
-Yes Good
+No
 61
 No
 NoR58i6zT1VAY
@@ -11267,11 +11267,11 @@ No
 JH-26-WDN-3978390261
 No
 TS-60-3488
-Yes Bad 2582
+No
 vN
 No
 GA-76-6487
-Yes Bad 8687
+No
 KAQU7N1fENlMPWh8tgsXdu
 No
 2HEcrqab1Wtj-yyL4sx
@@ -11285,7 +11285,7 @@ No
 PY-79-O-9403
 Yes Bad 4243
 PB-76-6857
-Yes Good
+No
 pDgtQEz3tI-z2ZaBUgya1R
 No
 XGJclp5-
@@ -11323,7 +11323,7 @@ No
 RJ-23-OU-4242025799
 No
 GA-63-7025
-Yes Bad 7428
+No
 TN-74-N-0797
 Yes Bad 5717
 UK-43-MFV-3281690032
@@ -11331,7 +11331,7 @@ No
 69RHGgXSigmBbuiWVXiqS
 No
 RJ-89--9343
-Yes Bad 7388
+No
 jEuTYmFnn8aW-WgEWU
 No
 WB-42-C-1267
@@ -11361,7 +11361,7 @@ Yes Bad 1431
 KL-20-3740632308
 No
 PB-16--3277
-Yes Bad 7547
+No
 -5
 No
 -y5JieQZWWXNTUwi3ac
@@ -11381,7 +11381,7 @@ No
 RAFokeh3y77rDiEdTR9X4KAOu
 No
 AS-19--0088
-Yes Bad 5088
+No
 HRUWni
 No
 LA-60-ULAR-0752727385
@@ -11409,7 +11409,7 @@ No
 MH-63-YGJ-6955
 Yes Bad 6956
 LA-60-2844
-Yes Bad 2169
+No
 PY-42-E-5692
 Yes Bad 6238
 AR-53-4646108417
@@ -11423,7 +11423,7 @@ No
 lq9WfoGbkhxiU6MggiYWq3F
 No
 CG-83-6688
-Yes Good
+No
 GJ-61-O-3689
 Yes Good
 LA-17-RU-0136
@@ -11463,11 +11463,11 @@ No
 -knL6qjx8
 No
 MP-27--7409
-Yes Bad 8932
+No
 MN-12-YHW-6640499095
 No
 PB-46--3370
-Yes Bad 9377
+No
 jtb
 No
 93vo4OHS-K
@@ -11505,7 +11505,7 @@ No
 XQuij
 No
 TS-90-5247
-Yes Good
+No
 sKRziF2u-
 No
 2vvk0JBEEJGGDK6AnsmMj
@@ -11543,7 +11543,7 @@ No
 qXb41rC8G-cCHZAkcSMZ5ZPXo
 No
 PB-31-1408
-Yes Bad 3844
+No
 fDrXzeibxGbyv76Jq-U2V
 No
 vJKKq6EUdBAj6
@@ -11559,13 +11559,13 @@ No
 Y
 No
 BR-58-7969
-Yes Good
+No
 TImAemvildwDo1Y33vI
 No
 eYq
 No
 LD-58-4812
-Yes Good
+No
 nLmT
 No
 HR-35-O-8586
@@ -11583,9 +11583,9 @@ Yes Good
 iPIYTrfranbmTNOLWwMVIEn
 No
 KA-03-5016
-Yes Good
+No
 KA-76-8336
-Yes Bad 8437
+No
 PB-00-X-3905
 No
 gu93dpYAFvW86u0Ym
@@ -11623,7 +11623,7 @@ No
 mcUgpLDHGpeCQyLrEFfpgiCd
 No
 SK-65-5158
-Yes Bad 0984
+No
 PY-60-F-4462
 Yes Good
 JK-02-E-8354493281
@@ -11667,7 +11667,7 @@ No
 CH5VgyHlS-wri
 No
 AP-16-4146
-Yes Good
+No
 jnM2h6-qnRndN
 No
 CqZBXgK
@@ -11701,7 +11701,7 @@ No
 TJ
 No
 MP-15-3239
-Yes Good
+No
 dlDE2HVvi
 No
 3HVQZCGveZ7
@@ -11735,21 +11735,21 @@ No
 LA-90-AQG-1103
 Yes Bad 1204
 TN-46-3748
-Yes Bad 7748
+No
 cmg
 No
 QSsgbVOaWmJrFh6L91TbzhH4
 No
 CH-95-1457
-Yes Good
+No
 YU9ZPoZMmlQCgRvcwcDW8iMq
 No
 RJ-46-1453
-Yes Bad 7953
+No
 y0fbYV0iGavypxFlIKK4
 No
 TR-95--1765
-Yes Bad 1766
+No
 UK-23-U-4880
 Yes Bad 4881
 fa0XndBL7OFe0oNRQ5Hyk
@@ -11855,11 +11855,11 @@ No
 O8DS7ts9
 No
 MN-79-2407
-Yes Good
+No
 DL-03-XEV-4372734506
 No
 DL-03--5918
-Yes Bad 5085
+No
 DTqCDlP13t7ENG3hhSY
 No
 OD-87-SND-4079
@@ -11913,7 +11913,7 @@ No
 o6i
 No
 GA-74-6475
-Yes Bad 8470
+No
 AP-84-M-3508
 Yes Good
 zhAqd72q-vBNBBq6Jedw3
@@ -11921,7 +11921,7 @@ No
 fh8CQ04P8ZJNNhQaWN-IR
 No
 AN-40--8423
-Yes Bad 8609
+No
 7BjBoE0Y7ccXAnFAIV
 No
 KL-04-U-2439
@@ -12039,7 +12039,7 @@ No
 XKLAIywC3fm
 No
 KA-18-4343
-Yes Bad 8764
+No
 KA-26-Y-9711
 Yes Good
 G0yGkzSpWSTiRlu9IZvzt
@@ -12053,7 +12053,7 @@ Yes Bad 7721
 bNnozi68f-xynuoanqDhKA
 No
 TR-89-2647
-Yes Good
+No
 OD-81-EPE-0222
 Yes Bad 3649
 WB-35-UBH-0637
@@ -12085,7 +12085,7 @@ No
 UP-69-QVB-3473624854
 No
 JH-23-8467
-Yes Good
+No
 0aeWwRlDTqQOR5K9J-4MIdQQ7
 No
 trquUeLe
@@ -12103,7 +12103,7 @@ No
 qitJymckzshJqd7bBcY44OwMS
 No
 NL-64-4575
-Yes Bad 4525
+No
 zjxDEOXV
 No
 x0vkjVHIbMcMqAu
@@ -12113,7 +12113,7 @@ No
 2z7wI
 No
 AS-51-5921
-Yes Bad 5506
+No
 GlY4Nbzmv
 No
 LA-80-RII-5628219247
@@ -12139,7 +12139,7 @@ No
 vsBFBTm
 No
 LA-49-4410
-Yes Bad 4418
+No
 BAyQvVFe339TTEF8j9wpQOf
 No
 v4J-Z
@@ -12169,7 +12169,7 @@ No
 VDuiTskZoPF2mYPMZ
 No
 HR-54-9182
-Yes Bad 8788
+No
 PBRwP1WYezVZs3Ew7hulm
 No
 HStgV
@@ -12177,7 +12177,7 @@ No
 NOaLHVK3F46PGuy-
 No
 GA-34-9509
-Yes Good
+No
 vK2ehO
 No
 RG8w
@@ -12193,7 +12193,7 @@ Yes Bad 4529
 DL-97-MD-1779718640
 No
 AS-59-3845
-Yes Good
+No
 A
 No
 Z0YXDXw-YO
@@ -12245,7 +12245,7 @@ No
 DD-65-AAV-7950
 Yes Good
 SK-14--2783
-Yes Bad 8793
+No
 Ym3HcxcQYuoOLE7ERbhwEq6h9
 No
 BR-03-V-2894
@@ -12271,7 +12271,7 @@ No
 MH-34-UKQRD-7444919820
 No
 LA-69-0236
-Yes Good
+No
 KA-97-T-7330861719
 No
 AP-79-PXS-2041
@@ -12355,7 +12355,7 @@ Yes Bad 0193
 7txnyq3xiGyZuGXodf
 No
 GA-77-9010
-Yes Good
+No
 McUEn5AheDWs
 No
 SK-47-JPP-5246
@@ -12411,11 +12411,11 @@ No
 d6DYuSXhj9Y
 No
 HP-65-7298
-Yes Bad 3729
+No
 PockL3ZUhk6ZTd7
 No
 ML-98--3413
-Yes Bad 6943
+No
 JH-25-9006397615
 No
 M6c9w8H4a
@@ -12425,9 +12425,9 @@ Yes Bad 5195
 LD-65-QLQ-8319
 Yes Bad 8365
 LD-73-3827
-Yes Bad 7547
+No
 LD-53-0752
-Yes Bad 7162
+No
 UP-87-ZW-2901
 Yes Bad 2211
 GJ-28-FGI-1893
@@ -12453,7 +12453,7 @@ No
 JH-36-BY-7003
 Yes Bad 7921
 HP-80-2632
-Yes Good
+No
 6FUjalVpNMcTI3
 No
 ML-55-VIG-9717
@@ -12483,7 +12483,7 @@ No
 yz7vM8y4miAnSFsuDb52O
 No
 UP-45--9082
-Yes Bad 3226
+No
 NL-35-MJ-8988
 Yes Good
 5l6NfxFF7jrdpHs6nvy1XF
@@ -12509,7 +12509,7 @@ No
 i0WpFF-h
 No
 MN-53-7201
-Yes Good
+No
 rsKz1N1KOyMniwTAS
 No
 5A259wPU
@@ -12537,7 +12537,7 @@ No
 LA-49-U-0402
 Yes Bad 1402
 OD-17-6561
-Yes Good
+No
 erHtMtA58VetTFj5IYVL
 No
 PB-22-SFX-1730990905
@@ -12557,7 +12557,7 @@ No
 HXuNHPLm4jwtrk5t54H0
 No
 LA-90--3287
-Yes Bad 7211
+No
 MN-24-FY-2458
 Yes Good
 6qY
@@ -12577,7 +12577,7 @@ Yes Bad 3433
 MN-04-VT-7426
 Yes Good
 GA-36--8139
-Yes Bad 3199
+No
 AP-18-SADHJ-0663112030
 No
 HP-56-XGD-9714
@@ -12597,11 +12597,11 @@ Yes Good
 DL-38-TY-7413
 Yes Bad 7453
 GA-67-5617
-Yes Bad 6240
+No
 1ZyF8AXt
 No
 JK-44--7086
-Yes Bad 1006
+No
 yLb6zz7X5hjzI4ibY
 No
 W2FQKGOa7DsIPjRb
@@ -12703,7 +12703,7 @@ No
 lxlrmqn-R8IL7R
 No
 RJ-09-1196
-Yes Good
+No
 99dmWZC3N8RPnOrY
 No
 AP-42-ZJ-6606
@@ -12721,7 +12721,7 @@ Yes Bad 5506
 mfGMDLB0
 No
 CH-54-0828
-Yes Good
+No
 nmSsa8h57oOoFFD
 No
 PB-86-SJ-5947
@@ -12739,7 +12739,7 @@ No
 WbhLfd
 No
 CH-77-6027
-Yes Bad 6021
+No
 N2VpuladUNxa
 No
 bUe8
@@ -12771,7 +12771,7 @@ No
 s
 No
 BR-54--3954
-Yes Bad 5076
+No
 2K4FiQLE8x
 No
 ZA
@@ -12789,7 +12789,7 @@ No
 HR-51-UFTGW-2979222864
 No
 GJ-88-4439
-Yes Good
+No
 Lb6K6sxoTgBxWhAee
 No
 5l0UOz
@@ -12799,11 +12799,11 @@ No
 fq8I9PtEJZGvcHkgC8l4rqeHI
 No
 HP-14-3940
-Yes Good
+No
 mcPaNrP
 No
 GA-02-9189
-Yes Good
+No
 XQOs72bBKeYGlRqfpgR1uHDD-
 No
 GZEs7B8kZz12sBgtd9
@@ -12879,7 +12879,7 @@ No
 UcInbXszA1MDscTwjL
 No
 CG-83-7396
-Yes Bad 7696
+No
 PB-05-P-8157439739
 No
 e
@@ -12911,7 +12911,7 @@ No
 14QKD7
 No
 AR-63-9921
-Yes Good
+No
 0tXWS2AFMrDgqsJWYfWXBLP
 No
 lzftoG33T9kp7jc0SeORGBP
@@ -12929,11 +12929,11 @@ Yes Bad 6292
 HSP55m2rIqk4F8HTrfqFrqT
 No
 UK-64--2060
-Yes Bad 0568
+No
 PY1qD4m2VJb1Bf8rIc-TSi
 No
 OD-43--2498
-Yes Bad 7428
+No
 IAxy
 No
 wm-QU4JFGBQb3KlJ2zbwTAOgv
@@ -12979,9 +12979,9 @@ No
 JH-23-ZZ-6926
 Yes Good
 JK-27-3070
-Yes Bad 8785
+No
 MH-16-6441
-Yes Bad 9692
+No
 UK-91-OUBL-4881334134
 No
 GOByGYoXiK9MZS6AbUM4
@@ -13001,9 +13001,9 @@ No
 M0Z491MYIcaBB3U4RDFXA
 No
 AS-74--4860
-Yes Bad 4062
+No
 KL-79--6303
-Yes Bad 7547
+No
 GoqW8K0AzEJNKGelzl410PGU
 No
 I1Grf7KUrhzT
@@ -13121,7 +13121,7 @@ No
 NpJhiQ3mVtrxMPvJOtHi
 No
 AN-73-9104
-Yes Bad 0794
+No
 cjjS24
 No
 j2CCfFt77-zyMXJt2CPRsKlH
@@ -13149,13 +13149,13 @@ No
 tGp
 No
 JH-77-3648
-Yes Good
+No
 PB-69-DC-7526
 Yes Good
 DL-56-OR-0299
 Yes Bad 8264
 HP-29--0750
-Yes Bad 9481
+No
 W6yR8Sql
 No
 A-9P
@@ -13181,7 +13181,7 @@ No
 JkUIwqwiIsc4g69
 No
 MZ-74-4645
-Yes Good
+No
 f3BV9jpS1OlXntFtSje5Q3
 No
 CH-65-HO-9315
@@ -13215,7 +13215,7 @@ No
 GA-03-D-2775
 Yes Good
 RJ-44-2557
-Yes Good
+No
 s8z12WTQXhX-KRU
 No
 IfuIFWRvIII
@@ -13233,9 +13233,9 @@ Yes Bad 3851
 fTWenYf
 No
 UP-20-4837
-Yes Good
+No
 PB-83-8326
-Yes Bad 8486
+No
 TN-05-VL-4500
 Yes Bad 4481
 ekG
@@ -13243,7 +13243,7 @@ No
 KqFMKi
 No
 TR-95--7049
-Yes Bad 7143
+No
 CAWvxRiyg2MPg5pg
 No
 Puxtn
@@ -13283,11 +13283,11 @@ No
 nw2X60uz3daScaEgi
 No
 AR-57-5035
-Yes Bad 5842
+No
 SK-54-UAEL-0556628277
 No
 MP-53-7114
-Yes Bad 2361
+No
 3MNAXlYawx9NKSB97-2
 No
 CH-66-K-6611
@@ -13305,7 +13305,7 @@ Yes Good
 BdzIwbAmNqv9EgSPwT
 No
 LA-65--5868
-Yes Bad 5962
+No
 JGc7KK4QJMLLkxTg6JDGFj10
 No
 UP-22-XB-0065
@@ -13343,7 +13343,7 @@ No
 QrYkEtipX-V6qDbd
 No
 BR-15-9231
-Yes Bad 2411
+No
 i4iwRB6hL3DMODkNVwcLl
 No
 iHaM9K4a7brtt3D7Vz
@@ -13387,7 +13387,7 @@ Yes Good
 IsZYZ
 No
 LA-35--4316
-Yes Bad 4972
+No
 iYkF4pZGjUrhODL4
 No
 R3F4
@@ -13469,9 +13469,9 @@ No
 vFelJPy202XX-BHOPHnxopf
 No
 KA-52-7190
-Yes Good
+No
 ML-76-1454
-Yes Bad 4015
+No
 xZ9q1CoslxMDiZiMiw
 No
 AR-91-X-1761
@@ -13487,7 +13487,7 @@ No
 TR-93-UNO-6856060509
 No
 MH-60--9446
-Yes Bad 4847
+No
 A
 No
 r9ohxcIPerz
@@ -13509,7 +13509,7 @@ Yes Good
 v
 No
 TS-10-1425
-Yes Bad 9435
+No
 1BfuH4XH8AwCO0g
 No
 LA-98-BKY-4743
@@ -13525,7 +13525,7 @@ No
 XdF69MaSmgql8tFRm
 No
 LA-83-3623
-Yes Bad 6628
+No
 ApkSlWRR4Inuwtuzj
 No
 v8ThwwkIeLSGRq
@@ -13533,11 +13533,11 @@ No
 nD2GgyFRR65Vh3Tfb8GpzNI
 No
 OD-89-8566
-Yes Bad 8336
+No
 KL-10-P-7038
 Yes Bad 4461
 PY-83-2695
-Yes Bad 2792
+No
 EIsn5Fo
 No
 CG-83-U-5532
@@ -13573,7 +13573,7 @@ No
 BR-24-VQR-5492
 Yes Bad 5694
 PB-72--2921
-Yes Bad 7451
+No
 OD-45-XE-1326
 Yes Bad 1762
 JK-98-H-5251
@@ -13607,7 +13607,7 @@ No
 HTs3-oR4IqJpglTJtFZB7
 No
 TR-70--7275
-Yes Bad 8716
+No
 WJdqqEwqPjXsSbY5NIDc
 No
 WjOP85Hwj1h
@@ -13653,7 +13653,7 @@ No
 1d5Y4AdgTxiA94vG0Ib
 No
 KL-05-0598
-Yes Good
+No
 OSb1L
 No
 06p04EfVpetxyH
@@ -13677,7 +13677,7 @@ No
 k19MhP
 No
 CH-28-7455
-Yes Good
+No
 UK-40-WA-4783
 Yes Bad 4983
 NL-92-FQ-8870
@@ -13691,7 +13691,7 @@ No
 -k1KdYN9X7LIHZ420E3w
 No
 JH-87--9316
-Yes Bad 4617
+No
 OD-55-M-1049
 Yes Bad 2429
 MZ-74-C-4984
@@ -13717,7 +13717,7 @@ No
 BR-27-S-1869335619
 No
 AS-82--8882
-Yes Bad 8624
+No
 umtGmOHcOTHzDd6Jhi
 No
 1LrYoAZROJ-u
@@ -13791,7 +13791,7 @@ No
 fVW378LyEPI
 No
 RJ-32-9131
-Yes Bad 0736
+No
 HsYzLIkiArsM6S2Tn5RaiNT
 No
 msjtClAOO
@@ -13919,7 +13919,7 @@ No
 DL-75-G-5433840251
 No
 MP-58-1432
-Yes Bad 4834
+No
 JK-91-DE-5243
 Yes Good
 rHlR-5
@@ -13979,9 +13979,9 @@ No
 WZP63Mqo3HUohPHObSj
 No
 MH-24--7210
-Yes Bad 7919
+No
 DL-86--1631
-Yes Bad 1438
+No
 SK-30-XGQ-3669
 Yes Good
 2qICX
@@ -13999,9 +13999,9 @@ No
 JK-08-HWP-3169
 Yes Bad 4362
 PY-64-5854
-Yes Bad 5856
+No
 LA-25-6545
-Yes Good
+No
 ML-63-S-0867
 Yes Bad 2581
 C3yqJ0ZT73rigFTCFu3OCm
@@ -14057,7 +14057,7 @@ No
 KA-71-EZ-4706938984
 No
 DD-15-8085
-Yes Good
+No
 tlyPgonJdDe0XF
 No
 MN-05-YEP-5906
@@ -14077,9 +14077,9 @@ No
 cNjK90TaAdt5
 No
 TN-81-7230
-Yes Bad 8832
+No
 MP-01--3446
-Yes Bad 3950
+No
 1Asugp
 No
 FodnJa4vBL4rCGxOHAOFGVg7
@@ -14175,7 +14175,7 @@ No
 MP-67-AU-7099
 Yes Bad 0617
 DL-27-5506
-Yes Good
+No
 8xj497AWBYUETh8oG2Zc3
 No
 CG-57-GWB-5187
@@ -14219,7 +14219,7 @@ Yes Bad 6769
 V4eU-QR-WUfPZA8Ou0FB
 No
 GJ-66-4840
-Yes Bad 4829
+No
 CH-91-BAB-7447568596
 No
 RWBiTiRRazYaR
@@ -14229,7 +14229,7 @@ No
 RJ-92-XU-3312
 Yes Bad 6448
 WB-12-5063
-Yes Bad 8634
+No
 GJ-74-BXO-1073
 Yes Bad 7774
 lLzwP3tvJkjn0dZVWhdY
@@ -14297,7 +14297,7 @@ Yes Good
 UK-41-JSD-0602
 Yes Bad 6663
 AN-11-9410
-Yes Good
+No
 TjVLWSdbNV7MSZc
 No
 gXY
@@ -14353,7 +14353,7 @@ No
 BR-42-BG-9152
 Yes Bad 9197
 CG-57-6066
-Yes Good
+No
 UP-84-MN-0979
 Yes Bad 2079
 AR-00-QS-9651
@@ -14429,7 +14429,7 @@ Yes Bad 9741
 tIV10
 No
 GJ-15--0487
-Yes Bad 9587
+No
 Yw8tTQ-PIiY34FO
 No
 jqCmmouwEghdBfNQ-5
@@ -14437,7 +14437,7 @@ No
 9WMzu
 No
 GJ-96-0148
-Yes Good
+No
 CG-95-PFCH-4082014719
 No
 EHoHDBIXyEo9Jd3k
@@ -14459,7 +14459,7 @@ No
 -0
 No
 JH-10--6749
-Yes Bad 6759
+No
 MZ-85-OFAM-0584952034
 No
 mbL-bZy71
@@ -14595,9 +14595,9 @@ No
 gPLN
 No
 DL-03-5222
-Yes Bad 9682
+No
 TN-83-1402
-Yes Good
+No
 Fu
 No
 YyhjriaQuWdf5CnfnqSrX
@@ -14627,7 +14627,7 @@ Yes Bad 8568
 BLHeO4zV2z-ShnreqrA
 No
 NL-90--3308
-Yes Bad 6762
+No
 FNI
 No
 mGwc7wr-qekwp7CCt16p
@@ -14639,7 +14639,7 @@ No
 PB-70-X-1856
 Yes Bad 9056
 LD-92-4781
-Yes Bad 6887
+No
 kFaKCAABt7YxKtKxFQGeRNkNv
 No
 -shHiCgYz8RWb3ThE
@@ -14667,7 +14667,7 @@ No
 bk9NAEVsjOsDeL
 No
 MN-17-7245
-Yes Good
+No
 BU8cb8l-58Fl-
 No
 ML-02-TZM-7128884966
@@ -14713,13 +14713,13 @@ No
 AP-16-M-5388
 Yes Bad 8655
 HR-29-4692
-Yes Good
+No
 Nz5XVlbIJNLJvnzYjxjj
 No
 DD-69-L-2382
 Yes Bad 9356
 CH-56-0549
-Yes Good
+No
 BR-93-JER-7541
 Yes Good
 LA-06-EYS-6609
@@ -14749,7 +14749,7 @@ Yes Bad 7983
 YOlDzM9pFHPUVEUP29BjrLD
 No
 DD-95-9446
-Yes Bad 2796
+No
 V0alCliO6rKaei
 No
 93OupqW4VS6NgGEl7TKo-atn
@@ -14783,7 +14783,7 @@ No
 HR-19-V-7537
 Yes Bad 7578
 TN-47-8428
-Yes Good
+No
 8NlcLqPg4A3rnqNMNBT
 No
 VBZW2zp1cMDRhUzxsBDOGD-A6
@@ -14837,11 +14837,11 @@ Yes Bad 0321
 LD-26-QX-7133101785
 No
 UK-22-3669
-Yes Bad 3994
+No
 YMfToW
 No
 KL-92-0031
-Yes Bad 5137
+No
 xw9VriM
 No
 n7BJqFQZDJ04vyJ-AebGTY
@@ -14857,13 +14857,13 @@ No
 Bxdjo96lPWn3jGZU
 No
 TN-58-7208
-Yes Good
+No
 TS-44-X-0799
 Yes Bad 6869
 ML-77-ZHZ-1817
 Yes Bad 5187
 HR-80-9801
-Yes Bad 5513
+No
 TN-64-YWHY-7620816729
 No
 8JOdD06-lczi8MYaL4Jba
@@ -14883,7 +14883,7 @@ No
 sG3qK47kKjx7GtrbWLsGy
 No
 AN-98-8150
-Yes Bad 5111
+No
 k451aSAz8V5
 No
 sShKtDH
@@ -14929,7 +14929,7 @@ No
 RJ-92-VQP-2263
 Yes Bad 2563
 HR-83--4453
-Yes Bad 5853
+No
 mdA3FhHXRAuMOnLR-s
 No
 WHUn9hpycvHKMGMrXzQ6gMf
@@ -15007,7 +15007,7 @@ Yes Bad 4869
 UK-40-QPFJM-0778044544
 No
 TR-38-6493
-Yes Good
+No
 zbeVUs-2p5nPKQDE
 No
 TEc-9e
@@ -15037,13 +15037,13 @@ No
 -MHUXThiVjeVFy3fT7iuPup
 No
 TS-57-7812
-Yes Bad 4888
+No
 AR-36-BDD-1567
 Yes Bad 4077
 PB-46-EU-6727
 Yes Good
 CG-89--4906
-Yes Bad 6957
+No
 ckPCtqHZKsRsLv4
 No
 uRC3RM7rtPwwKa65ls
@@ -15105,7 +15105,7 @@ No
 DD-67-CVX-4870
 Yes Bad 4205
 PB-65-2345
-Yes Bad 2795
+No
 LD-81-EYD-3138
 Yes Good
 nKkd3eOJazz
@@ -15127,7 +15127,7 @@ No
 GDPT
 No
 MN-78--2815
-Yes Bad 2145
+No
 HR-41-SJ-4329064306
 No
 LA-83-BHK-2042
@@ -15143,7 +15143,7 @@ No
 G3
 No
 AN-97--4569
-Yes Bad 0979
+No
 UK-11-8370290739
 No
 JK-24-KT-6100
@@ -15153,7 +15153,7 @@ No
 63Lpfvvhnl2-cW5
 No
 PB-02-2960
-Yes Bad 4061
+No
 LA-55-N-0376
 Yes Good
 FMX35CiUKru2c
@@ -15165,7 +15165,7 @@ Yes Bad 9046
 VApHbmjHNj
 No
 KA-31-6088
-Yes Bad 6791
+No
 k
 No
 bizi5iKf
@@ -15235,9 +15235,9 @@ No
 dXF
 No
 LA-28-3339
-Yes Bad 5139
+No
 DD-91-8196
-Yes Bad 8836
+No
 zAW
 No
 qsucLfVd
@@ -15245,7 +15245,7 @@ No
 QYMDKQf7g-DZX
 No
 WB-36-0317
-Yes Bad 9347
+No
 uNTHp9W1wGk
 No
 vl73
@@ -15295,7 +15295,7 @@ No
 TN-62-PVQMO-3889653085
 No
 TN-71--0756
-Yes Bad 0758
+No
 ZFRFY
 No
 JK-13-WIY-5079
@@ -15315,7 +15315,7 @@ No
 mnzd811QSGN
 No
 JK-39--1382
-Yes Bad 3782
+No
 TS-98-V-4215118108
 No
 MZ-43-VIM-8851
@@ -15333,7 +15333,7 @@ No
 Y5AQjaLbgAyVHfVLSqZIvpv
 No
 JH-90-5615
-Yes Good
+No
 6Y-
 No
 z
@@ -15393,11 +15393,11 @@ No
 KL-02-ER-5439561713
 No
 RJ-44--7749
-Yes Bad 9499
+No
 DeX6is8
 No
 OD-12--5181
-Yes Bad 9418
+No
 BR-18-HFN-4931
 Yes Bad 4705
 GAF8wQ4L49CRu
@@ -15409,7 +15409,7 @@ No
 VOG5oisgukOuACARSrZ6
 No
 JK-58-6879
-Yes Good
+No
 JK-44-EAUKB-9226187760
 No
 2aqYhOSmLHBwG0
@@ -15481,7 +15481,7 @@ No
 0Vovc
 No
 CG-86-3829
-Yes Bad 3883
+No
 BWMFNQS
 No
 xZVuB7XUs0njdHoMGeB
@@ -15509,7 +15509,7 @@ Yes Bad 4274
 CG-33-MBYC-2677608091
 No
 KA-36--7423
-Yes Bad 1601
+No
 RJ-43-JE-3640674601
 No
 KL-15-W-6611842582
@@ -15563,7 +15563,7 @@ No
 KL-09-VR-2962
 Yes Bad 2377
 JK-67--4189
-Yes Bad 7282
+No
 dwpc0mopuh5oM
 No
 0EApEgy
@@ -15627,13 +15627,13 @@ No
 SDbRDn
 No
 GJ-05--5154
-Yes Bad 5454
+No
 OD-82-AND-2454
 Yes Good
 UP-66-T-9272
 Yes Bad 1673
 LA-48-4931
-Yes Bad 9541
+No
 bqJdrYtUi9wWXmJDifJp
 No
 qxq3FjOqS6x7Od2zqLs
@@ -15665,7 +15665,7 @@ No
 zUwSO9JTw
 No
 AN-05--7097
-Yes Bad 1227
+No
 H5oGVHFq4dk
 No
 5uCnVT9
@@ -15695,7 +15695,7 @@ Yes Bad 3677
 CH-48-B-5743
 Yes Bad 6868
 PB-67-1355
-Yes Good
+No
 RJ-62-DYM-2377
 Yes Bad 9320
 l4sjEORL-MQInU
@@ -15721,7 +15721,7 @@ No
 Bx6X4wT
 No
 AN-87-2943
-Yes Good
+No
 DL-86-DH-3703
 Yes Good
 GNuSLVwu1j14Noj2wN
@@ -15731,7 +15731,7 @@ No
 ACcvpH
 No
 RJ-08-9437
-Yes Bad 6937
+No
 LkAHo0BcMwc1-wn
 No
 yDHtMC9iYcbnJkK00hv5
@@ -15741,7 +15741,7 @@ No
 TS-35-TIKB-2371280732
 No
 MZ-51-3425
-Yes Good
+No
 KL-20-J-0312
 Yes Bad 0343
 0CUjhsrQVrXEkNC15dG
@@ -15809,7 +15809,7 @@ No
 TEtKk2rH8ixmwuFM3-
 No
 GA-67-8419
-Yes Bad 4966
+No
 GJ-54-UVD-2429348681
 No
 AP-43-GI-2889
@@ -15821,7 +15821,7 @@ No
 JK-69-7464838401
 No
 MN-68--5171
-Yes Bad 7592
+No
 PB-54-UEI-7555446743
 No
 JK-68-XOE-7458623204
@@ -15853,16 +15853,13 @@ No
 GA-50-ATZ-8371
 Yes Good
 KL-83--7516
-Yes Bad 8516
+No
 AP-42-W-4173
 Yes Bad 6339
-9
+6
 LD-10-SJT-2882 qxp
 TR-69-MBJ-3993 fsfzf
-AS-59-2882 oet
 AR-51-HO-6556 yapbgnve
-MN-98-2772 tzkfaytpy
 GA-54-CG-3883 gypyt
-LA-14-8338 bgajkjbkhd
 OD-64-EEE-6446 spiup
 LA-49-F-4554 jvdaz
