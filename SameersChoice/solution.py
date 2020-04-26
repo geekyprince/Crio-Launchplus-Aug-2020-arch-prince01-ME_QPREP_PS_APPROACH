@@ -43,6 +43,7 @@ class Solution:
     def lucky_number(self,pattern_list, queries):
         state_codes = ["AP","AS","AR","BR","CG","GA","GJ","HR","HP","JK","JH","KA","KL","MP","MH","ML","MN","MZ","NL","OD","PB","RJ","SK","TN","TS","TR","UK","UP","WB","AN","CH","DD","DL","LA","LD","PY"]
         pattern_dict = {}
+        pattern_dict['default'] = [[0, 9], [0, 9], [0, 9], [0, 9]]
         result = []
         #print(pattern_list)
         for A in pattern_list:
@@ -61,7 +62,10 @@ class Solution:
             #print(s.replace('a', ''))
             A[0] = A[0].replace('-','')
             if(self.is_valid_plate_no(A[0],state_codes)):
-                vehicle_type = A[1]
+                if A[1] in pattern_dict.keys():
+                    vehicle_type = A[1]
+                else:
+                    vehicle_type = 'default'
                 if(self.check_print_number(A[0][-4:],vehicle_type,pattern_dict)):
                     result += [A]
             else:
