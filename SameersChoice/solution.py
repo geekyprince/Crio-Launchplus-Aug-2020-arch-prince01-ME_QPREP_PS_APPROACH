@@ -47,7 +47,7 @@ class Solution:
             return False
         try:
             S,D,A,N = self.divide_in_four(plate_no)
-            print(S,D,A,N)
+            #print(S,D,A,N)
             if(not N.isnumeric()):
                 return False 
             if(not(0<int(D)<99)):
