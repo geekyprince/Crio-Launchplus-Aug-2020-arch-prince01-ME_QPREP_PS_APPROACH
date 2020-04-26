@@ -52,7 +52,7 @@ class Solution:
                 return False 
             if(not(0<int(D)<99)):
                 return False
-            if(len(A)>3 and not A.isalpha()):
+            if(len(A)>3 or not A.isalpha()):
                 return False
             if(S not in state_codes):
                 return False
