@@ -6,11 +6,6 @@ import java.util.*;
 class HotRoad {
     public static void main(String [] args) {
 
-	// CRIO_SOLUTION_AND_STUB_START_MODULE_HOT_ROAD_WITH_BREAKDOWN
-
-	test_reg_number_to_integer();
-	test_find_maximum_number_of_people_accomodated();
-	// CRIO_SOLUTION_AND_STUB_START_MODULE_HOT_ROAD_WITH_BREAKDOWN
 
 	Scanner sc = new Scanner(System.in);
 	int n, k, m;
