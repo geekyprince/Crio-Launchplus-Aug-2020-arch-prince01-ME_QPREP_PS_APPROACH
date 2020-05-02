@@ -1,8 +1,17 @@
 import java.io.*;
 import java.util.*;
 
+// DON'T TOUCH THIS FILE. ASSESSMENT WILL REPLACE THIS FILE
+
 class HotRoad {
     public static void main(String [] args) {
+
+	// CRIO_SOLUTION_AND_STUB_START_MODULE_HOT_ROAD_WITH_BREAKDOWN
+
+	test_reg_number_to_integer();
+	test_find_maximum_number_of_people_accomodated();
+	// CRIO_SOLUTION_AND_STUB_START_MODULE_HOT_ROAD_WITH_BREAKDOWN
+
 	Scanner sc = new Scanner(System.in);
 	int n, k, m;
 	n = sc.nextInt();
@@ -36,7 +45,7 @@ class HotRoad {
 
 
 }
-//CRIO_SOLUTION_START_MODULE_HOT_ROAD
+
 class Pair {
     int first;
     int second;
@@ -74,5 +83,3 @@ class Entity2 {
 	third  = r;
     }
 }
-
-//CRIO_SOLUTION_START_MODULE_HOT_ROAD
