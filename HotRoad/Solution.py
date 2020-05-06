@@ -2,7 +2,7 @@
 # Finish this function
 Alpha_equivalent_num = dict(zip('ABCDEFGHIJKLMNOPQRSTUVWXYZ', range(1,27)))
 
-def search_index(car,broken_cars):
+def search_index(car,broken_cars,dist):
     start = 0
     end = len(broken_cars) -1
     while(start <= end):
@@ -45,8 +45,8 @@ def find_maximum_number_of_people_accomodated(broken, good, dist):
     good_cars.sort()
 
     for car in good_cars:
-        index = search_index(car, broken_cars)
-        while(registration_decode[car] and (broken_cars[index] <= car <= broken_cars[index] + 2 * dist):
+        index = search_index(car, broken_cars,dist)
+        while(registration_decode[car] and (broken_cars[index] <= car <= broken_cars[index] + 2 * dist)):
             if(registration_decode[broken_cars[index]] > registration_decode[car]):
                 registration_decode[broken_cars[index]] -= registration_decode[car]
                 result += registration_decode[car]
