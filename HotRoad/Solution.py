@@ -51,6 +51,8 @@ def find_maximum_number_of_people_accomodated(broken, good, dist):
                     result += Car_good_Dict[car]
                     Car_bad_Dict[broken[j]] -= Car_good_Dict[car]
                     Car_good_Dict[car] = 0
+            elif(broken[j] > car):
+                break
             else:
                 j += 1
     print(Car_good_Dict, Car_bad_Dict)
