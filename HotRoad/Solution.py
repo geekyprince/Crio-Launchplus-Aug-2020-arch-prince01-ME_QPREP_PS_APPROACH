@@ -17,11 +17,12 @@ def find_maximum_number_of_people_accomodated(broken, good, dist):
     result = 0
     good_car_list = []
     bad_car_list = []
-    Car_Dict = {}
+    Car_bad_Dict = {}
+    Car_good_Dict = {}
 
     for car in broken:
         registration_num = decode_registration_num(car[0])
-        Car_Dict[registration_num - dist] = car[1]   #people in broken car
+        Car_bad_Dict[registration_num - dist] = car[1]   #people in broken car
         bad_car_list.append(registration_num - dist)
     
     bad_car_list.sort()
@@ -29,7 +30,7 @@ def find_maximum_number_of_people_accomodated(broken, good, dist):
 
     for car in good:
         registration_num = decode_registration_num(car[0])
-        Car_Dict[registration_num] = car[2] - car[1]   #remaining capacity of good car
+        Car_good_Dict[registration_num] = car[2] - car[1]   #remaining capacity of good car
         good_car_list.append(registration_num)
     
     good_car_list.sort()
@@ -37,18 +38,18 @@ def find_maximum_number_of_people_accomodated(broken, good, dist):
     num_broken = len(broken)
     j = 0
     for car in good:
-        while(Car_Dict[car] and j < num_broken):
+        while(Car_good_Dict[car] and j < num_broken):
             if(broken[j] <= car <= broken[j] + 2 * dist):
-                if(Car_Dict[broken[j]] <= Car_Dict[car] ):
-                    result += Car_Dict[broken[j]]
-                    Car_Dict[car] -= Car_Dict[broken[j]]
-                    Car_Dict[broken[j]]
+                if(Car_bad_Dict[broken[j]] <= Car_good_Dict[car] ):
+                    result += Car_bad_Dict[broken[j]]
+                    Car_good_Dict[car] -= Car_bad_Dict[broken[j]]
+                    Car_bad_Dict[broken[j]]
                     j += 1
                 else:
-                    result += Car_Dict[car]
-                    Car_Dict[broken[j]] -= Car_Dict[car]
-                    Car_Dict[car] = 0
+                    result += Car_good_Dict[car]
+                    Car_bad_Dict[broken[j]] -= Car_good_Dict[car]
+                    Car_good_Dict[car] = 0
             else:
                 j += 1
-    print(Car_Dict)
+    print(Car_good_Dict, Car_bad_Dict)
     return result
