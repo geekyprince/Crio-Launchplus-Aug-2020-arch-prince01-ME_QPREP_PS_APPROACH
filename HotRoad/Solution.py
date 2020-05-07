@@ -50,4 +50,5 @@ def find_maximum_number_of_people_accomodated(broken, good, dist):
                     Car_Dict[car] = 0
             else:
                 j += 1
+    print(Car_Dict)
     return result
