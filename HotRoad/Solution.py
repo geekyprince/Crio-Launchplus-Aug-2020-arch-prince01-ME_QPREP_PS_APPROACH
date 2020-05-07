@@ -9,8 +9,9 @@ def decode_registration_num(registration_number):
     
     second_letter = (Alpha_equivalent_num[registration_number[4]] - 1) * 9999
     last_4_digits = int(registration_number[-4:]) 
-    print(decoded_registration_number,first_letter, second_letter)
+    
     decoded_registration_number = first_2_digits + first_letter + second_letter + last_4_digits
+    print(decoded_registration_number,first_letter, second_letter)
     return decoded_registration_number
 
 
