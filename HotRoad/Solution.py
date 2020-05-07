@@ -21,6 +21,7 @@ def find_maximum_number_of_people_accomodated(broken, good, dist):
     Car_good_Dict = {}
     for car in broken:
         registration_num = decode_registration_num(car[0])
+        print(car[0],registration_num)
         Car_bad_Dict[registration_num - dist] = car[1]   #people in broken car
         bad_car_list.append(registration_num - dist)
     
