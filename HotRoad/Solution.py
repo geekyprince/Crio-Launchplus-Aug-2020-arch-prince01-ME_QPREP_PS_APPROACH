@@ -6,9 +6,10 @@ def decode_registration_num(registration_number):
     #decoding except KA
     first_2_digits = (int(registration_number[2:4]) - 1) * 26 * 26 * 9999 
     first_letter = (Alpha_equivalent_num[registration_number[4]] - 1) * 26 * 9999
+    
     second_letter = (Alpha_equivalent_num[registration_number[4]] - 1) * 9999
     last_4_digits = int(registration_number[-4:]) 
-
+    print(decoded_registration_number,first_letter, second_letter)
     decoded_registration_number = first_2_digits + first_letter + second_letter + last_4_digits
     return decoded_registration_number
 
