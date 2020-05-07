@@ -11,7 +11,7 @@ def decode_registration_num(registration_number):
     last_4_digits = int(registration_number[-4:]) 
     
     decoded_registration_number = first_2_digits + first_letter + second_letter + last_4_digits
-    print(decoded_registration_number,first_letter, second_letter)
+    #print(decoded_registration_number,first_letter, second_letter)
     return decoded_registration_number
 
 
@@ -53,5 +53,5 @@ def find_maximum_number_of_people_accomodated(broken, good, dist):
                     Car_good_Dict[car] = 0
             else:
                 j += 1
-    print(Car_good_Dict, Car_bad_Dict)
+    #print(Car_good_Dict, Car_bad_Dict)
     return result
