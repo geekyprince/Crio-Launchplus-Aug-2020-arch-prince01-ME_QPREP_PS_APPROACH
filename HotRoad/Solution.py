@@ -37,18 +37,17 @@ def find_maximum_number_of_people_accomodated(broken, good, dist):
     num_broken = len(broken)
     j = 0
     for car in good:
-        if(j < num_broken):
-            while(Car_Dict[car]):
-                if(broken[j] <= car <= broken[j] + 2 * dist):
-                    if(Car_Dict[broken[j]] <= Car_Dict[car] ):
-                        result += Car_Dict[broken[j]]
-                        Car_Dict[car] -= Car_Dict[broken[j]]
-                        Car_Dict[broken[j]]
-                        j += 1
-                    else:
-                        result += Car_Dict[car]
-                        Car_Dict[broken[j]] -= Car_Dict[car]
-                        Car_Dict[car] = 0
-                else:
+        while(Car_Dict[car] and j < num_broken):
+            if(broken[j] <= car <= broken[j] + 2 * dist):
+                if(Car_Dict[broken[j]] <= Car_Dict[car] ):
+                    result += Car_Dict[broken[j]]
+                    Car_Dict[car] -= Car_Dict[broken[j]]
+                    Car_Dict[broken[j]]
                     j += 1
+                else:
+                    result += Car_Dict[car]
+                    Car_Dict[broken[j]] -= Car_Dict[car]
+                    Car_Dict[car] = 0
+            else:
+                j += 1
     return result
