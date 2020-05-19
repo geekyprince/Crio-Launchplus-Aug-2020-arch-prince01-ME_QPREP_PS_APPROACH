@@ -9,7 +9,6 @@ actual-*.txt
 *.swp
 *.zip
 *.o
-crio/
 core.*
 # Compiled class file
 *.class
@@ -42,6 +41,8 @@ __pycache__/
 
 # C extensions
 *.so
+
+crio/
 
 # Distribution / packaging
 .Python

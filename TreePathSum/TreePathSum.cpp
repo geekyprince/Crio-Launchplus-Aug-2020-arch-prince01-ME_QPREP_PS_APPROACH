@@ -10,6 +10,6 @@ int main()
     TreeNode* root  = TreeNode().readTreeReturnRoot();
     int k;
     cin >> k;
-    printf("%d\n", CountTreePathSumToK(root, k));
+    printf("%lld\n", CountTreePathSumToK(root, k));
     return 0;
 }

@@ -2,8 +2,8 @@
 import argparse
 import os
 import sys
-import git
-from git import Repo
+#import git
+#from git import Repo
 
 TIMEOUT_FOR_ONE_JAVA_TESTCASE = 5.0
 
