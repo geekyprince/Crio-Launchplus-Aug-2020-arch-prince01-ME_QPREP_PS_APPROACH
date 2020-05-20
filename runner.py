@@ -209,7 +209,7 @@ def repo_exists(path, repo_name):
     
     for line in lines:
         if repo_name in line:
-            os.system('cd crio && git reset --hard origin/master')	    
+            os.system('cd crio && git reset --hard origin/master && git pull')	    
             return True
     return False
 
