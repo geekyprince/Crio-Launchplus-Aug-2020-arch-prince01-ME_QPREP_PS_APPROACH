@@ -223,7 +223,6 @@ if __name__ == '__main__':
     parser.add_argument('--test' , help='test problem with custom input file', action='store_true')
     parser.add_argument('--input' , help='input file for custom input')
 
-
     developer_mode = False
 
     args = parser.parse_args()
