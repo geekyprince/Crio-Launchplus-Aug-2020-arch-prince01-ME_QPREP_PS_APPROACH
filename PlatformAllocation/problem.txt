@@ -1,0 +1,57 @@
+The government is planning to create a new station Crio Junction near Bangalore, 
+your team has already set up the routing for all the trains through this station. 
+Now your job is to find the minimum number of platforms that this station should have so that the routing, 
+that is defined by your team, is possible.
+	You are given the train name, train number, time of arrival(TOA) , time of departure(TOD) and time taken to depart(TTTD) for all the trains. 
+There are N trains. You have to find the minimum number of platforms that need to be built and for each train assign a platform to it.
+
+Train which reach the platform first gets the lowest number of platform available. if two trains have the same time of arrival then, the train 
+which completely departs first (time of departure + time taken to depart) will get the lower number of platform. if they also depart at the same time then the train
+with lower train number gets the lowest platform.
+
+Note -
+
+- Platforms are numbered from 1 to K, where K is the minimum number of platforms required.
+- At any time a platform cannot have more than 1 train assigned to it.
+- You can assume that the platform will be available after the train has completely departed.
+- Your are given the time of arrival, departure and time taken to depart in the format HH:MM:SS.LLL (where LLL is milliseconds) in 24 hours format i.e. starting from 00:00:00.000 to 23:59:59.999
+- All train numbers and train names are distinct.
+
+Input Format
+First line contains the number of trains.
+Each of the next N lines contains Name of train , Train number , Time of arrival, time of departure and time taken to depart.
+
+N
+TName TNumber TOA TOD TTTD
+.
+.
+TName TNumber TOA TOD TTTD
+
+Constraints
+1 ≤ N ≤ 10^5
+1 ≤ | TName | ≤ 20
+1 ≤ TNumber ≤ 10^9
+
+Output Format
+The first line of the output must contain the minimum number of platforms(K) required.
+Next N lines should each contain- Train name, Train number and Platform number.
+1 ≤ Plaform number ≤ K
+
+Sample Input 1
+3
+Rajdhani 12001 10:40:00.000 10:55:00.000 00:05:00.000
+Shatabdi 12002 09:20:10.000 12:00:00.000 00:06:30.000
+JanShatabdi 12003 11:00:00.000 12:00:00.000 00:05:00.000
+
+Sample Output 1
+2
+Rajdhani 12001 2
+Shatabdi 12002 1
+JanShatabdi 12003 2
+
+Sample Explanation 1
+
+In the first example first Shatabdi will reach the station at 09:20:10 on platform 1 
+and leave that platform at 12:00:00 (The platform will be free at 12:06:30). From 10:40:00 to 11:00:00 Rajdhani will be on platform 2 and 
+from 11:00:00 to 12:05:00 Janshatabdi will be on platform 2.
+
