@@ -15,18 +15,23 @@ def solve(root, k):
     if(root == None):       #No node in Tree
         return result
     
+    #Base case
+    if root.val == k:       #value of node := k
+        ans += 1
+    result.append(root.val)
+    
     #traverse Left and Right sub tree 
     left = solve(root.left, k)
     right = solve(root.right, k)
     
     if left or right: #check either subtree is not None
-        if len(left) == 0: #left is None
+        if len(left) == 0: #left is empty
             for i in range(len(right)):
                 path = right[i] + root.val 
                 if path == k:
                     ans += 1
                 result.append(path) 
-        elif len(right) == 0: #right is None
+        elif len(right) == 0: #right is empty
             for i in range(len(left)):
                 path = left[i] + root.val 
                 if path == k:
@@ -59,12 +64,7 @@ def solve(root, k):
                 if path1 + root.val == k:
                     ans += 1
                 result.append(path1 + root.val)
-    
-    #Base case
-    if root.val == k:       #value of node := k
-        ans += 1
-    result.append(root.val)
-    
+
     return result
 
 def countTreePathsThatSumsToK(root, k):
