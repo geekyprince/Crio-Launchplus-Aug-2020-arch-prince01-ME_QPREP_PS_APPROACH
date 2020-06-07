@@ -20,13 +20,13 @@ def solve(root, k):
     right = solve(root.right, k)
     
     if left or right: #check either subtree is not None
-        if right: #right is not None
+        if len(left) == 0: #left is None
             for i in range(len(right)):
                 path = right[i] + root.val 
                 if path == k:
                     ans += 1
                 result.append(path) 
-        elif left: #left is not None
+        elif len(right) == 0: #right is None
             for i in range(len(left)):
                 path = left[i] + root.val 
                 if path == k:
