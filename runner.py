@@ -2,7 +2,7 @@
 import argparse
 import os
 import sys
-#import git
+import git
 from git import Repo
 
 TIMEOUT_FOR_ONE_JAVA_TESTCASE = 5.0
@@ -60,7 +60,7 @@ def run(name_of_the_problem, language='c++'):
         return test_results
 
     test_results = {}
-    
+
     print('*' * 150)
     print('%-25s %-25s %-50s %-30s' % ('Test Result', 'Test name', 'Input file', 'Output file'))
     print('*' * 150)
@@ -68,9 +68,9 @@ def run(name_of_the_problem, language='c++'):
         if 'input-' in file_name:
             output_file_name = file_name.replace('input-', 'output-')
             test_name = file_name.replace('input-', 'test-')
-                    
+
             actual_output_file = os.path.join(name_of_the_problem, 'actual-' + output_file_name)
-            full_input_file_path = os.path.join(os.path.join(name_of_the_problem, 'tests'), file_name) 
+            full_input_file_path = os.path.join(os.path.join(name_of_the_problem, 'tests'), file_name)
             if output_file_name in sorted(all_test_files):
                 test_output_filename = 'actual-{}'.format(output_file_name)
                 try:
@@ -206,10 +206,10 @@ def repo_exists(path, repo_name):
     f = open(path, 'r+')
     lines = f.readlines()
     f.close()
-    
+
     for line in lines:
         if repo_name in line:
-            os.system('cd crio && git reset --hard origin/master && git pull')	    
+            os.system('cd crio && git reset --hard origin/master && git pull')
             return True
     return False
 
@@ -222,18 +222,11 @@ if __name__ == '__main__':
     parser.add_argument('-p', '--problem', help='name of the problem solved')
     parser.add_argument('--test' , help='test problem with custom input file', action='store_true')
     parser.add_argument('--input' , help='input file for custom input')
-   
 
-    developer_mode = True 
-    #developer_mode = False 
-    
-    developer_mode = False 
-
-
-
+    developer_mode = False
 
     args = parser.parse_args()
-   
+
     if not developer_mode:
         commit_misc_files()
 
@@ -243,7 +236,7 @@ if __name__ == '__main__':
     if not repo_exists('crio/.git/config', 'crio_ps_ds.git'):
         os.system('mkdir -p crio && rm -rf crio/*')
         os.system('git clone https://gitlab.crio.do/crio_libs/crio_ps_ds.git crio')
-    
+
     if args.test_all:
         all_problems = [dir for dir in os.listdir(os.getenv('PWD')) if dir[0] >= 'A' and dir[0] <= 'Z']
         all_passed = True

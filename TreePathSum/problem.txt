@@ -1,0 +1,42 @@
+Problem Description
+You are given a binary tree. Find the number of  paths such that the sum of node value of each node on that path is K.
+Note that paths can be between any pair of nodes.
+
+Input format
+First line contains N, number of elements in BST.
+Next line contains N space-separated integers, the value of the ith element.
+Next line contain 3 space-separated integers, describing the binary search tree.
+Last line contains a single integer K.
+
+Output format
+Print the number of paths possible.
+
+Sample Input 1
+6
+2 0 -1 4 -3 -1
+1 3 5
+3 6 4
+5 -1 2
+6 -1 -1
+4 -1 -1
+2 -1 -1
+2
+
+Sample Output 1
+4
+
+Explanation 1
+          2(1)
+         /   \
+     -1(3)   -3(5)
+     /   \       \
+-1(6)    4(4)    0(2)
+Paths - 
+1
+6 3 4
+4 3 1 5
+4 3 1 5 2
+Constraints
+1 <= Number of Nodes <= 10 ^ 3
+-10^9 <= TreeNode.val <= 10 ^ 9
+
