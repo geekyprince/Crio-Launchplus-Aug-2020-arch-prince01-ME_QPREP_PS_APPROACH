@@ -63,6 +63,7 @@ def solve(root, k):
                 if path1 + root.val == k:
                     ans += 1
                 result.append(path1 + root.val)
+    print(ans)
     return ans,result
 
 def countTreePathsThatSumsToK(root, k):
