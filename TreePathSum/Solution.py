@@ -16,8 +16,8 @@ def solve(root, k):
         return result
     
     #traverse Left and Right sub tree 
-    left = solve(root.left, k)[1]
-    right = solve(root.right, k)[1]
+    left = solve(root.left, k)
+    right = solve(root.right, k)
     
     if left or right: #check either subtree is not None
         if right: #right is not None
