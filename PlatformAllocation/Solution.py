@@ -23,7 +23,7 @@ def allocate(Queue, train_heap):
         num = train[2]
         name = train[3]
         departure = train[1]
-        all_schedules[num] = (name, num, platform)
+        all_schedules[num].extend([name, num, platform])
         heappush(plat_heap, (departure, platform))
     
     return max_platform_required, all_schedules
