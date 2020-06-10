@@ -14,6 +14,7 @@ def main():
     print(max_platform_required)
     for train_no in all_train_no:
         sched = all_schedules[train_no]
-        print("{} {} {}".format(sched[0], sched[1], sched[2]))
+        print(sched)
+        #print("{} {} {}".format(sched[0], sched[1], sched[2]))
 
 main()
