@@ -39,7 +39,7 @@ def get_train_allocations(trains):
     for name, num, arrival, depart, depart_time_taken in trains:
         arrival = time_in_milisec(arrival)
         departure = time_in_milisec(depart) + time_in_milisec(depart_time_taken)
-        train = (arrival, departure, num, name)
+        train = (arrival, departure, int(num), name)
         heappush(train_heap, train)
     
     max_platform_required, all_schedules = allocate(Queue, train_heap)

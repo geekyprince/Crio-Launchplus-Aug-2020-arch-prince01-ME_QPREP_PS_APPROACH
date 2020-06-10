@@ -1,5 +1,5 @@
 1
-defaultdict(<class 'list'>, {'12001': ['Rajdhani', '12001', 1], '12003': ['JanShatabdi', '12003', 1], '12002': ['Shatabdi', '12002', 1]})
-[]
-[]
-[]
+defaultdict(<class 'list'>, {12001: ['Rajdhani', 12001, 1], 12003: ['JanShatabdi', 12003, 1], 12002: ['Shatabdi', 12002, 1]})
+['Rajdhani', 12001, 1]
+['Shatabdi', 12002, 1]
+['JanShatabdi', 12003, 1]
