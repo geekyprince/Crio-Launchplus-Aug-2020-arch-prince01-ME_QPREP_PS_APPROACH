@@ -45,8 +45,3 @@ def get_train_allocations(trains):
     max_platform_required, all_schedules = allocate(Queue, train_heap)
 
     return max_platform_required, all_schedules
-
-
-
-        
-        #heappush(train_heap, 
