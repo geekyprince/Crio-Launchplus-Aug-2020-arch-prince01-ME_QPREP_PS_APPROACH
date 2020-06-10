@@ -12,10 +12,8 @@ def main():
     (max_platform_required, all_schedules) = get_train_allocations(trains)
 
     print(max_platform_required)
-    print(all_schedules)
     for train_no in all_train_no:
         sched = all_schedules[train_no]
-        print(sched)
-        #print("{} {} {}".format(sched[0], sched[1], sched[2]))
+        print("{} {} {}".format(sched[0], sched[1], sched[2]))
 
 main()
