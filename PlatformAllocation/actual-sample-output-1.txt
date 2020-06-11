@@ -1,6 +1,6 @@
-4
+3
 Rajdhani 12001 1
-Shatabdi 12002 2
-JanShatabdi 12003 2
-Rajdhani1 12801 4
-Rajdhani2 12701 3
+Shatabdi 12002 1
+JanShatabdi 12003 1
+Rajdhani1 12801 3
+Rajdhani2 12701 2
